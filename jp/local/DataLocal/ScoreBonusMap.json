@@ -1,0 +1,136 @@
+{
+  "MapID": {
+    "11030": {
+      "BonusNameLabel": "BonusNameLabel004",
+      "BonusExplanationLabel": "BonusExplanationLabel004",
+      "BonusType": {
+        "14": {
+          "Parameters": [
+            1000
+          ]
+        }
+      }
+    },
+    "11033": {
+      "BonusNameLabel": "BonusNameLabel001",
+      "BonusExplanationLabel": "BonusExplanationLabel001",
+      "BonusType": {
+        "3": {
+          "Parameters": [
+            2000
+          ]
+        }
+      }
+    },
+    "11035": {
+      "BonusNameLabel": "BonusNameLabel002",
+      "BonusExplanationLabel": "BonusExplanationLabel002",
+      "BonusType": {
+        "13": {
+          "Parameters": [
+            2000
+          ]
+        }
+      }
+    },
+    "11036": {
+      "BonusNameLabel": "BonusNameLabel003",
+      "BonusExplanationLabel": "BonusExplanationLabel003",
+      "BonusType": {
+        "1": {
+          "Parameters": [
+            2000
+          ]
+        }
+      }
+    },
+    "11038": {
+      "BonusNameLabel": "BonusNameLabel004",
+      "BonusExplanationLabel": "BonusExplanationLabel004",
+      "BonusType": {
+        "14": {
+          "Parameters": [
+            1500
+          ]
+        }
+      }
+    },
+    "11040": {
+      "BonusNameLabel": "BonusNameLabel005",
+      "BonusExplanationLabel": "BonusExplanationLabel005",
+      "BonusType": {
+        "2": {
+          "Parameters": [
+            2000
+          ]
+        }
+      }
+    },
+    "11041": {
+      "BonusNameLabel": "BonusNameLabel001",
+      "BonusExplanationLabel": "BonusExplanationLabel001",
+      "BonusType": {
+        "3": {
+          "Parameters": [
+            2000
+          ]
+        }
+      }
+    },
+    "11043": {
+      "BonusNameLabel": "BonusNameLabel000",
+      "BonusExplanationLabel": "BonusExplanationLabel000",
+      "BonusType": {
+        "0": {
+          "Parameters": [
+            3000
+          ]
+        }
+      }
+    },
+    "11044": {
+      "BonusNameLabel": "BonusNameLabel006",
+      "BonusExplanationLabel": "BonusExplanationLabel006",
+      "BonusType": {
+        "16": {
+          "Parameters": [
+            1500
+          ]
+        }
+      }
+    },
+    "11045": {
+      "BonusNameLabel": "BonusNameLabel004",
+      "BonusExplanationLabel": "BonusExplanationLabel004",
+      "BonusType": {
+        "14": {
+          "Parameters": [
+            1500
+          ]
+        }
+      }
+    },
+    "11046": {
+      "BonusNameLabel": "BonusNameLabel007",
+      "BonusExplanationLabel": "BonusExplanationLabel007",
+      "BonusType": {
+        "17": {
+          "Parameters": [
+            1500
+          ]
+        }
+      }
+    },
+    "11047": {
+      "BonusNameLabel": "BonusNameLabel003",
+      "BonusExplanationLabel": "BonusExplanationLabel003",
+      "BonusType": {
+        "1": {
+          "Parameters": [
+            2000
+          ]
+        }
+      }
+    }
+  }
+}
