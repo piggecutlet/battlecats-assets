@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    ".prettierrc.json5": "jsonc"
+  },
+  "json.schemaDownload.enable": true
+}
