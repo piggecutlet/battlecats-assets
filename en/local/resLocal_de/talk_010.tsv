@@ -1,0 +1,88 @@
+			0	22	777	301	0
+		Hoppla! Ich hab gerade zu tun,<br>aber ich bitte später noch mal<br>um Hilfe! Hier ist etwas<br>für deine bisherige Hilfe!	0	22	300
+1	0	Hey, Neuling! Ich habe<br>eine dringende Mission für dich!	2
+2	0	Die Kaijin werden in letzter Zeit<br>immer mächtiger.	3
+3	0	Eine so große Bedrohung durch<br>Kaijin können die Nyanko-Ranger<br>unmöglich allein bewältigen.<br>Wir sind für jede Hilfe dankbar!	4
+4	0	Und ich dachte, das sei der perfekte<br>Test für einen angehenden Ranger!<br>Na, was meinst du? Bist du<br>bereit für die Herausforderung?	5	20
+5	0	Vielen Dank!<br>Schön, dass du im Team bist!	6
+6	0	Zunächst solltest du die<br>Ranger-Lizenzprüfung ablegen,<br>einfach um sicherzugehen, dass du<br>das Zeug dazu hast.	7
+7	0	Ich bin mir sicher, dass du die<br>Prüfung locker bestehst<br>und ein toller Ranger wirst!	8
+8	0	Du wirst im Handumdrehen dabei<br>sein, den Frieden der Stadt<br>mit uns zu sichern!	9
+9	0	Ich helfe dir bei der Vorbereitung<br>auf den Test. Wir sorgen dafür,<br>dass du ihn mit Bravour bestehst!	10
+10	0	Und lade bitte deine Freunde ein,<br>The Battle Cats zu spielen!	11
+11	0	Je mehr Ranger es gibt,<br>desto sicherer wird die Welt,<br>weißt du?	12
+12	0	Es wäre also wirklich hilfreich,<br>wenn deine Freunde sich anmelden,<br>ebenfalls Ranger zu werden!	13
+13	0	The Battle Cats geht weiter!<br>Die endlose Kampagne schreitet<br>fort, also rekrutiere Freunde,<br>damit sie sich der Sache<br>der Katzen anschließen!	14
+14	0	Weißt du, rekrutiere deine Freunde<br>doch einfach direkt!	15
+15	0	Hilf uns einfach ein bisschen.<br>Es gibt natürlich <flash>jede Menge<br>Katzenbatzen</flash> als Dankeschön!	16
+16	0	Ich freue mich schon darauf,<br>gemeinsam mit dir und deinen<br>Freunden das Böse zu bekämpfen!	17
+17	0	Also, zukünftiger Ranger: Dir steht<br>morgen dein erster Test bevor!	18
+18	16	Vergiss nicht, Freunde einzuladen!<br>Morgen ist ein großer Tag!	101
+20	0	Himmel! In diesem Helm höre ich<br>überhaupt nichts! Was hast du<br>gerade gesagt, zukünftiger Ranger?	21
+21	0	Pass auf, ich hätte eine kleine<br>Bitte an dich. Hast du<br>kurz Zeit, mir zuzuhören?	5	20
+101	0	Danke fürs Kommen! Ich freue<br>mich immer, dich zu sehen!	102
+102	0	Du hast deine Freunde eingeladen,<br>The Battle Cats auszuprobieren, ja?	103	120
+103	0	Vielen Dank! Erzähl einfach<br>allen davon, dann haben wir<br>rasch einen anständigen Trupp<br>neuer Rangers!	104
+104	0	Aber das Wichtigste zuerst ...<br>Wir müssen deine Unterlagen für<br>den Eignungstest in Ordnung<br>bringen.	105
+105	0	Dieser erste Test wird zeigen, ob du<br>wirklich das Zeug zum Ranger hast.	106
+106	0	Himmel, dieser Papierkram ist<br>222 Seiten lang! Wer hat Zeit,<br>das alles auszufüllen?<br>Das ist viel zu viel!	107
+107	0	Aber keine Bange.<br>Ich habe Katzencomputer-KI<br>genutzt, um alles auszufüllen ...<br>Bis auf die letzte Frage.	108
+108	0	Dein Slogan lautet also ...<br>„Frittierte Donuts!“? Na ja,<br>für den Anfang reicht das erst mal.	109
+109	0	Hör mal, gib uns einfach eine<br>ernsthafte Antwort auf diese letzte<br>Frage. Das ist ECHT wichtig!	110
+110	0	Wer ist dein<br>Lieblings-Nyanko-Ranger?	111
+111	0	Wow, das ist eine knifflige Frage!<br>Hast du schon eine Antwort parat?	112
+112	0	Der krasse rote Nyanko-Ranger<br>ist also dein Favorit?	113	130
+113	0	Oh, danke! Ich fühle mich geehrt!	114
+114	0	Du hast keinen Moment gezögert,<br>bevor du dich für mich entschieden<br>hast! Lass uns „Roter Ranger“<br>in RIESIGEN Buchstaben notieren,<br>damit es klar ist.	115
+115	0	Na, dann hat alles seine Ordnung!<br>Ich übernehme das jetzt und<br>reiche es in deinem Namen ein.	116
+116	0	Ich melde mich morgen wieder<br>mit den Ergebnissen dieser ersten<br>Prüfung. Freu dich drauf!	117
+117	16	Du könntest derweil noch ein paar<br>Freunde einladen, damit wir<br>die Truppe komplettieren können.<br>Bis später!	201
+120	0	Ach ... Bitte, bitte! Denk doch mal<br>an den Frieden in der Stadt!	121
+121	0	Hör mal, ich würde es als<br>persönlichen Gefallen betrachten,<br>wenn du noch vor morgen<br>einen Freund einladen würdest.	122
+122	0	Versprochen, ja?<br>Wir zählen auf deine Unterstützung!	104
+130	0	Ist der unerschütterliche Geist<br>des roten Rangers dein Favorit?	113	150
+150	0	Nur mal so angenommen...<br>Ist der rote Nyanko-Ranger<br>dein Favorit?	113	151
+151	0	...	152
+152	0	Ich frag noch mal, von Anfang an.<br>Schau mir in die Augen<br>und antworte ehrlich!	112
+201	0	Danke, dass du wieder<br>vorbeischaust!<br>Ich hab schon auf dich gewartet!	202
+202	0	Okay, los geht’s.<br>Hast du Freunde eingeladen?	203	230
+203	0	Ich wusste, dass ich auf dich<br>zählen kann! Jetzt werden die<br>Nyanko-Ranger noch stärker!	204
+204	0	Wir rekrutieren stets Ranger,<br>weißt du? Also versuche bitte,<br>weitere Freunde zu rekrutieren!	205
+205	0	Hier hab ich deine<br>Ergebnisse des Eignungs-<br>tests. Bereit?	206
+206	0	Da steht, dass ...	207
+207	0	...	208
+208	0	Du hast bestanden!<br>Super, zukünftiger Ranger!	209
+209	0	Deine von Herzen kommende<br>Antwort hat beim<br>Ranger-Komitee offenbar<br>Anklang gefunden!	210
+210	0	Ich werde mich später auf jeden Fall<br>mit einem Katzencomputer<br>bei dir bedanken.	211
+211	0	Jetzt geht’s ans Eingemachte:<br>die Abschlussprüfung! Du kannst<br>davon ausgehen, dass dieser Test<br>SUPERschwer wird!	212
+212	0	Zu meiner Zeit musste ich<br>100 meiner typischen Posen<br>räumlich vorführen – ohne Fehler!	213
+213	0	100 Posen in 1 Minute, ohne auch<br>nur einen Zentimeter<br>daneben zu liegen!<br>Das ist eine echte Herausforderung!	214
+214	0	Ich habe einen Monat lang<br>jede Nacht hart trainiert,<br>bis ich endlich bestanden habe!	215
+215	0	Also sollte das hier ebenso<br>anspruchsvoll sein, nicht wahr?<br>Schauen wir mal ...	216
+216	0	Dieses Mal ist das Format<br>deiner Prüfung ...	217
+217	0	...	218
+218	0	Eine Lotterie! Du musst dich allein<br>auf dein Glück verlassen.<br>In gewisser Weise ist das<br>die härteste Prüfung!	219
+219	0	Aber keine Bange!<br>Überlass die Prüfungsvorbereitung<br>einfach mir, zukünftiger Ranger!	220
+220	0	Schau, ich hab bei meinen letzten<br>5 Kapselziehungen Superseltene<br>gezogen! Läuft!	221
+221	16	Bis morgen, wenn ich dir<br>die Lotterieergebnisse verrate.<br>Also schau bei mir vorbei!<br>Wir alle zählen auf dich!	301
+230	0	Himmel! Du hast unser Versprechen<br>doch nicht vergessen, oder?	231
+231	0	Du hast GESCHWOREN, Freunde<br>einzuladen, damit sie gemeinsam<br>mit uns Rangers kämpfen!	232
+232	0	Ich bin zuversichtlich, dass du sie<br>morgen einladen wirst, damit wir<br>endlich diese fiese Kaijin-Armee<br>besiegen können!<br>Enttäusche mich nicht!	205
+301	0	Ich habe gewartet! Bist du bereit<br>für die Ergebnisse<br>deiner Abschlussprüfung?	302
+302	0	Das entscheidet über deine Zukunft<br>als Ranger. Aber mach dir<br>keinen Stress!	303
+303	0	Bevor ich die Ergebnisse<br>verkünde ... muss ich dir etwas<br>gestehen.<br>Werd bitte nicht sauer!	304
+304	0	Ehrlich gesagt ... Ich habe es nicht<br>rechtzeitig geschafft,<br>dich für die Lotterie anzumelden.	305
+305	0	Gerade als ich es beim<br>Katzencomputer einreichen<br>wollte, ging ein dringender<br>Ruf nach Ranger-Verstärkung ein.	306
+306	0	Ich war zu dem Zeitpunkt der<br>einzige verfügbare Ranger, also<br>blieb mir nichts anderes übrig,<br>als sofort hinzueilen<br>und zu helfen.	307
+307	0	Ich wollte dir keinen Ärger machen,<br>also habe ich die Mission etwas<br>überstürzt, aber ich habe es<br>trotzdem nicht geschafft ...	308
+308	0	Und genau deshalb konnte ich dich<br>nicht für die Lotterie anmelden.<br>Es tut mir echt leid ...	309
+309	0	Hä? Ich habe offenbar gerade<br>eine E-Mail gekriegt.<br>Mal sehen ...	310
+310	0	...	311
+311	0	Du hast bestanden?!<br>Hier steht, dass du als neuer<br>Ranger-Rekrut aufgenommen<br>wurdest!	312
+312	0	„Du hast nicht nur den Rangers bei<br>vielen guten Taten geholfen,<br>sondern auch nach potenziellen<br>neuen Rekruten Ausschau<br>gehalten, um unsere Reihen<br>zu verstärken.“	313
+313	0	Na, das ist ja super! Wie gesagt,<br>mein Motto lautete schon immer:<br>„Gute Taten bringen was<br>für gute Katzen.“	314
+314	0	Dein Einsatz, deine Freunde zu<br>informieren, hat tatsächlich zu den<br>guten Ergebnissen beigetragen,<br>die wir erzielt haben!	315
+315	0	Vielen, vielen Dank, Ranger!<br>Endlich bist du offizielles Mitglied<br>des Nyanko-Ranger-Teams!	316
+316	0	Wenn wir unsere Kräfte bündeln,<br>können wir jede Menge Kaijin<br>besiegen und die Stadt retten!	317
+317	0	Und da wir gerade feiern ...<br>Du hast uns echt ein paar Gefallen<br>getan, also hier ist ein kleines<br>Extra, nur von mir!	318
+318	16	Nya-Nyah!<br><flash>777 Katzenbatzen!</flash><br>Gib nicht alles auf einmal aus!	-2

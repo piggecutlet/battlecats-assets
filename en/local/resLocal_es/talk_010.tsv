@@ -1,0 +1,88 @@
+			0	22	777	301	0
+		¡Uy! Me ha surgido un imprevisto,<br>pero te pediré ayuda más adelante.<br>¡Toma, por haberme ayudado!	0	22	300
+1	0	¡Oye, principiante!<br>Tengo una misión urgente para ti.	2
+2	0	Últimamente, los Kaijin<br>se han vuelto más poderosos.	3
+3	0	Los Guardabosques Nyanko<br>no pueden contener<br>una amenaza de esa magnitud.<br>¡Cualquier ayuda nos vendrá bien!	4
+4	0	Creo que es una gran oportunidad<br>para un aspirante a Guardabosques.<br>¿Qué me dices?<br>¿Aceptas el desafío?	5	20
+5	0	¡Mil gracias!<br>Es una alegría tenerte en el equipo.	6
+6	0	Primero, tienes que superar<br>el examen para obtener<br>la licencia de Guardabosques.<br>Así sabremos si reúnes<br>los requisitos necesarios.	7
+7	0	¡Seguro que apruebas sin problemas<br>y logras convertirte<br>en un gran Guardabosques!	8
+8	0	¡Dentro de nada, velarás<br>por la paz de la ciudad con nosotros!	9
+9	0	Te ayudaré a prepararte,<br>para que apruebes con buena nota.	10
+10	0	¡Invita también a tus amigos<br>a divertirse en The Battle Cats!	11
+11	0	Cuantos más Guardabosques haya,<br>más seguro será el mundo,<br>¿no crees?	12
+12	0	Por eso nos vendría muy bien<br>que tus amigos también<br>se hicieran Guardabosques.	13
+13	0	¡The Battle Cats continúa!<br>Esta interminable campaña<br>no ha finalizado.<br>¡Recluta a tus colegas<br>para que se unan a la causa gatuna!	14
+14	0	Solo tienes que reclutar<br>a tus amigos directamente.	15
+15	0	Échanos una pata.<br>¡Por supuesto, te compensaremos<br>con <flash>montones de Friskas</flash>!	16
+16	0	¡Estoy deseando combatir el mal<br>junto a ti y tus amigos!	17
+17	0	Bueno, futuro Guardabosques.<br>Mañana es tu primera prueba.	18
+18	16	¡Recuerda invitar a tus amigos!<br>¡Mañana será un gran día!	101
+20	0	¡Cielos! ¡Con este casco<br>no oigo nada! ¿Qué decías,<br>futuro Guardabosques?	21
+21	0	Oye, quiero pedirte<br>un pequeño favor.<br>¿Tienes un minuto?	5	20
+101	0	¡Gracias por venir!<br>Siempre me alegra volver a verte.	102
+102	0	Has invitado a tus amigos<br>a divertirse en The Battle Cats, ¿no?	103	120
+103	0	¡Mil gracias!<br>Si sigues corriendo la voz,<br>pronto tendremos un escuadrón<br>muy apañado de Guardabosques.	104
+104	0	Pero lo primero es lo primero...<br>Tenemos que hacer el papeleo<br>para la prueba de aptitud.	105
+105	0	La primera prueba determinará<br>si cumples de verdad los<br>requisitos para ser Guardabosques.	106
+106	0	Uf, ¡la documentación<br>tiene 222 páginas!<br>¿Quién tiene tiempo para esto?<br>¡Qué pasote!	107
+107	0	Bueno, no te preocupes.<br>He usado la IA del gatomático<br>y lo he rellenado todo...<br>Excepto la última pregunta.	108
+108	0	Conque tu lema es...<br>¡¿«Donuts fritos»?!<br>Oye, ya está bien.	109
+109	0	Me tienes que dar<br>una respuesta seria.<br>¡Es muy importante!	110
+110	0	¿Cuál es<br>tu Guardabosques Nyanko favorito?	111
+111	0	Uf, ¡qué difícil!<br>¿Alguna idea?	112
+112	0	Conque el feroz y ardiente<br>Guardabosques Nyanko Rojo,<br>¿eh?	113	130
+113	0	¡Ay, muchas gracias!<br>¡Qué halago!	114
+114	0	¡No lo has dudado ni un segundo!<br>Pongamos<br>«Guardabosques Rojo» en grande,<br>para que quede claro.	115
+115	0	Bueno, ¡parece que ya está todo!<br>Yo me encargo de presentar<br>los documentos.	116
+116	0	Mañana te daré<br>los resultados de esta primera parte.<br>¡Qué emoción!	117
+117	16	Mientras tanto,<br>¿por qué no invitas<br>a más amigos para completar<br>el grupo? ¡Nos vemos!	201
+120	0	¡Ay! ¡Venga, porfi!<br>¡¿Es que no te importa<br>la paz de esta ciudad?!	121
+121	0	Oye, ¿y si me haces un favor<br>e invitas a un amigo antes<br>de mañana?	122
+122	0	Prometido, ¡¿eh?!<br>¡Contamos contigo!	104
+130	0	¿El infatigable espíritu<br>del Guardabosques Rojo<br>es tu favorito?	113	150
+150	0	¿El Guardabosques Nyanko Rojo <br>es por casualidad, tu favorito?	113	151
+151	0	...	152
+152	0	Te lo volveré a preguntar...<br>¡Mírame a los ojos<br>y responde con total sinceridad!	112
+201	0	¡Gracias por pasarte hoy!<br>Te estaba esperando.	202
+202	0	Vamos al turrón.<br>¿Has invitado a tus amigos?	203	230
+203	0	¡Sabía que podía contar contigo!<br>¡Ahora, los Guardabosques Nyanko<br>serán imbatibles!	204
+204	0	Siempre buscamos a<br>Guardabosques nuevos, así que<br>procura traer a más amigos.	205
+205	0	Ya tengo los resultados<br>de tu prueba de aptitud.<br>¿Quieres conocerlos?	206
+206	0	Mira, aquí dice que...	207
+207	0	...	208
+208	0	¡Has aprobado!<br>¡Bien hecho, futuro Guardabosques!	209
+209	0	Tu respuesta sincera<br>ha tenido que causar impresión<br>en el comité de Guardabosques.	210
+210	0	Te lo agradeceré como es debido,<br>con un gatomático.	211
+211	0	Pero primero,<br>¡el examen final! Esta<br>prueba será la muerte a pellizcos.	212
+212	0	¡En mis tiempos, teníamos que hacer<br>100 poses características seguidas<br>sin cometer ni un solo error!	213
+213	0	¡100 poses en 1 minuto<br>sin moverte ni un pelo!<br>¡Eso sí que era difícil!	214
+214	0	Entrené duro todas las noches<br>durante un mes antes<br>de presentarme.	215
+215	0	Así que tu prueba<br>será igual de chunga, digo yo.<br>Veamos de qué se trata...	216
+216	0	Esta vez, el formato del examen es...	217
+217	0	...	218
+218	0	¡Un sorteo!<br>Te lo juegas todo al azar.<br>¡Creo que este es el examen<br>más difícil que puede haber!	219
+219	0	Pero no te preocupes.<br>Yo te ayudaré a prepararlo,<br>¡futuro Guardabosques!	220
+220	0	Mira, las últimas 5 bolas que abrí<br>tenían 5 superraros.<br>¡Esto está chupado!	221
+221	16	Te avisaré mañana<br>cuando tenga los resultados.<br>¡Pásate a verme cuando puedas!<br>¡Contamos contigo!	301
+230	0	¡Eh, tú!<br>No te habrás olvidado tu promesa,<br>¿verdad?	231
+231	0	Juraste que invitarías a tus amigos<br>para luchar con los Guardabosques.	232
+232	0	Tengo fe en que los invitarás mañana,<br>así podremos derrotar por fin<br>al asqueroso ejército Kaijin.<br>¡No me decepciones!	205
+301	0	¡Te estaba esperando!<br>¿Quieres saber los resultados<br>del examen?	302
+302	0	¡Esto determinará tu futuro<br>como Guardabosques!<br>Sin presiones, ¿eh?	303
+303	0	Antes de leerlos...,<br>tengo algo que confesarte.<br>¡Pero no te enfades!	304
+304	0	Lo cierto es que...<br>No me dio tiempo de meter<br>tu participación en el sorteo.	305
+305	0	Justo cuando iba a enviar<br>la solicitud en el gatomático,<br>me entró una guardia urgente.	306
+306	0	Era el único Guardabosques<br>disponible en ese momento,<br>así que me tuve que ir corriendo.	307
+307	0	No quería causarte problemas,<br>así que lo hice tan rápido como pude,<br>pero no me dio tiempo...	308
+308	0	Por eso no pude meterte en el sorteo.<br>Me siento fatal...	309
+309	0	¿Eh?<br>Parece que me ha llegado<br>un correo electrónico nuevo.<br>A ver qué dice...	310
+310	0	...	311
+311	0	¡¿Has aprobado?!<br>¡Pone que te han aceptado<br>como Guardabosques!	312
+312	0	Además de ayudar a los<br>Guardabosques haciendo buenas<br>acciones, buscaste posibles reclutas<br>para engrosar nuestras filas.	313
+313	0	¡Vaya, eso es genial!<br>Ya te dije que mi lema es<br>«¡Haz buenas acciones<br>y te llevarás el gato al agua!».	314
+314	0	¡Tus esfuerzos por difundir<br>la palabra entre tus amigos<br>han dado buenos resultados!	315
+315	0	¡Muchas gracias, Guardabosques!<br>Por fin eres miembro oficial del<br>equipo de Guardabosques Nyanko.	316
+316	0	¡Si unimos nuestras fuerzas,<br>acabaremos con los Kaijin<br>y salvaremos la ciudad!	317
+317	0	Ya que estamos de celebración...<br>Nos has hecho muchos favores,<br>así que te quiero dar un regalo.	318
+318	16	¡Miau, miau!<br><flash>¡777 Friskas!</flash><br>No te los gastes todos <br>de una sentada, ¿eh?	-2

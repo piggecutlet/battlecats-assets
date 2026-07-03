@@ -1,0 +1,88 @@
+			0	22	777	301	0
+		Oups ! On m’attend ailleurs, mais<br>j’aurai à nouveau besoin de ton aide<br>plus tard. Prends déjà ça pour<br>le coup de main !	0	22	300
+1	0	Hé, la bleusaille !<br>J’ai une mission urgente pour toi !	2
+2	0	Les Kaijin sont de plus en plus<br>forts dernièrement.	3
+3	0	Avec cette menace grandissante,<br>les Nyanko Rangers ne peuvent pas<br>s’occuper de tous les Kaijin...<br>Alors toute aide est la bienvenue !	4
+4	0	Et je me disais que ce serait<br>l’épreuve parfaite pour un Ranger<br>en herbe ! Qu’est-ce que tu en dis ?<br>Tu veux relever le défi ?	5	20
+5	0	Mille mercis !<br>Ravi de te compter parmi nous !	6
+6	0	Tu dois d’abord passer l’examen<br>du permis de Ranger, juste pour<br>s’assurer que tu es à la hauteur.	7
+7	0	Je ne doute pas que tu t’en tireras<br>sans problème et que tu feras un<br>excellent Ranger !	8
+8	0	Tu maintiendras la paix en ville<br>avec nous en un rien de temps !	9
+9	0	Je vais t’aider à te préparer pour<br>l’examen et on fera en sorte que<br>tu le réussisses haut la main !	10
+10	0	Ah, et invite tes amis à jouer à<br>The Battle Cats !	11
+11	0	Plus on aura de Rangers et plus<br>le monde sera sûr, tu vois ?	12
+12	0	Alors ça nous aiderait beaucoup<br>si tes amis s’engageaient aussi dans<br>les Rangers !	13
+13	0	L’action ne s’arrête jamais dans<br>The Battle Cats !<br>La campagne sans fin revient, alors<br>recrute tes amis et rejoignez <br>la cause féline !	14
+14	0	Voilà, recrute tes amis directement !	15
+15	0	Prêtez-nous patte forte et<br>il y aura bien sûr <flash>des tonnes<br>de Miam en récompense</flash><br>pour votre aide !	16
+16	0	J’ai hâte de combattre les forces<br>du mal avec toi et tes amis !	17
+17	0	Alors, futur Ranger,<br>ton premier examen<br>est pour demain !	18
+18	16	N’oublie pas d’inviter tes amis !<br>Demain est un grand jour !	101
+20	0	Ouh là ! J’entends rien avec<br>ce casque ! Qu’est-ce que tu disais,<br>futur Ranger ?	21
+21	0	Écoute, j’ai un petit service à te<br>demander. Tu as une minute à me<br>consacrer ?	5	20
+101	0	Merci d’être venu ! C’est toujours<br>un plaisir de te voir !	102
+102	0	Tu as invité tes amis à essayer<br>The Battle Cats, hein ?	103	120
+103	0	Super ! Continue d’en parler autour<br>de toi et on aura en un rien de temps<br>une toute nouvelle escouade de<br>Rangers !	104
+104	0	Mais d’abord... on doit s’occuper<br>de quelques formalités, à savoir<br>ton test d’aptitude.	105
+105	0	Ce premier questionnaire<br>déterminera si tu as<br>vraiment les qualifications<br>pour être Ranger.	106
+106	0	Ouh là, ce document fait 222 pages !<br>Qui a le temps de remplir tout ça ?<br>C’est beaucoup trop !	107
+107	0	Enfin, ne t’inquiète pas. Je peux<br>utiliser l’IA du Chat numérique pour<br>tout remplir... sauf cette dernière<br>question.	108
+108	0	Alors ta réplique culte, c’est...<br>« Nom d’une madeleine ! » ?<br>Bon, ça ira pour le moment.	109
+109	0	Écoute, donne-nous une réponse<br>sérieuse pour cette dernière<br>question. C’est SUPER important !	110
+110	0	Quel est ton Nyanko Ranger préféré ?	111
+111	0	Ouah, quelle question, hein !<br>Alors, tu as une réponse en tête ?	112
+112	0	Alors ton préféré est le féroce et<br>fougueux Nyanko Ranger rouge ?	113	130
+113	0	Oooh, merci !<br>C’est trop d’honneur !	114
+114	0	Tu n’as pas hésité une seconde<br>avant de me choisir ! On va écrire<br>« Ranger rouge » en GRAND<br>pour que ce soit bien clair.	115
+115	0	Eh bien, on dirait que tout est en<br>ordre ! Je vais m’occuper du reste<br>et l’envoyer pour toi.	116
+116	0	Je reviendrai demain avec les<br>résultats de ce premier examen.<br>Je croise les doigts !	117
+117	16	En attendant, pourquoi ne pas inviter<br>quelques amis de plus pour<br>compléter l’escouade ? À plus !	201
+120	0	Oooh... Mais, et la sécurité de<br>la ville, alors ?!	121
+121	0	Bon, ça me rendrait personnellement<br>service si tu invitais un ami avant<br>demain.	122
+122	0	C’est promis, hein ?!<br>On compte sur ton soutien !	104
+130	0	C’est la ténacité du Ranger rouge<br>que tu admires par-dessus tout ?	113	150
+150	0	Question comme ça au hasard,<br>est-ce que le Nyanko Ranger rouge<br>serait ton préféré ?	113	151
+151	0	...	152
+152	0	Je te repose la question...<br>Regarde-moi dans les yeux et<br>réponds-moi honnêtement !	112
+201	0	Merci d’être de retour aujourd’hui !<br>Je t’attendais !	202
+202	0	Bon, trêve de blabla.<br>Tu as invité tes amis ?	203	230
+203	0	Je savais que je pouvais compter<br>sur toi ! Maintenant, les Nyanko<br>Rangers seront encore plus forts !	204
+204	0	On a toujours besoin de nouveaux<br>Rangers, tu sais, alors continue<br>d’inviter des amis !	205
+205	0	Alors... j’ai tes résultats au test<br>d’aptitude. Tiens-toi bien !	206
+206	0	Il est écrit ici que...	207
+207	0	...	208
+208	0	Tu as réussi !<br>Bien joué, futur Ranger !	209
+209	0	Ta réponse sincère<br>a vraiment dû toucher<br>le comité des Rangers.	210
+210	0	Je ne manquerai pas de te remercier<br>avec un Chat numérique plus tard.	211
+211	0	Maintenant, passons aux choses<br>sérieuses... l’examen final !<br>Tu peux me croire, ce test va être<br>SUPER difficile !	212
+212	0	À mon époque, on m’avait fait<br>prendre 100 poses emblématiques<br>d’affilée, et pas le droit<br>à l’erreur !	213
+213	0	100 poses en 1 minute, et sans<br>se tromper d’un centimètre !<br>Ça, c’est du défi !	214
+214	0	Je m’étais entraîné à fond toutes<br>les nuits pendant un mois avant de<br>finalement réussir !	215
+215	0	Alors ton examen sera sûrement tout<br>aussi éprouvant. Voyons voir ça...	216
+216	0	Cette fois, le format de ton examen<br>sera...	217
+217	0	...	218
+218	0	Un tirage au sort ! Ne compter que<br>sur sa chance pour réussir...<br>D’une certaine façon, c’est encore<br>plus dur !	219
+219	0	Mais ne t’en fais pas pour autant !<br>Je vais m’occuper de te préparer<br>à ton examen, futur Ranger !	220
+220	0	Vois-tu, j’ai obtenu des super rares<br>à mes derniers tirages de Chapsules !<br>Alors c’est dans la poche !	221
+221	16	Reviens me voir demain pour<br>les résultats du tirage !<br>On compte tous sur toi !	301
+230	0	Hé ! Tu n’as pas oublié ta promesse,<br>hein ?	231
+231	0	Tu avais PROMIS d’inviter tes amis<br>à combattre aux côtés des Rangers !	232
+232	0	Je crois au fond de mon cœur que tu<br>les inviteras demain pour que nous<br>puissions enfin venir à bout de<br>cette maudite armée de Kaijin !<br>Ne me déçois pas !	205
+301	0	Je t’attendais !<br>Accroche-toi, les résultats<br>de l’examen final sont tombés !	302
+302	0	C’est ce qui décidera de ton avenir,<br>ou non, en tant que Ranger !<br>Mais pas de pression, hein !	303
+303	0	Avant de t’annoncer les résultats...<br>J’ai une confession à te faire...<br>Ne te mets pas en colère !	304
+304	0	La vérité, c’est que... je n’ai pas<br>pu t’inscrire à temps au tirage.	305
+305	0	J’étais sur le point de l’envoyer<br>au Chat numérique, quand j’ai eu<br>un appel urgent, une demande de<br>renfort des Rangers.	306
+306	0	J’étais le seul Ranger disponible<br>à ce moment-là, alors je n’ai pas eu<br>d’autre choix que d’y aller.	307
+307	0	Je ne voulais pas te causer d’ennui,<br>alors je me suis dépêché de finir<br>la mission, mais je ne suis pas<br>revenu à temps...	308
+308	0	Voilà pourquoi je n’ai pas pu<br>t’inscrire au tirage. Je m’en veux<br>vraiment...	309
+309	0	Tiens ? On dirait que je viens<br>tout juste de recevoir un mail.<br>Voyons voir ça...	310
+310	0	...	311
+311	0	Tu as réussi ?!<br>Ça dit que tu es officiellement notre<br>nouvelle recrue chez les Rangers !	312
+312	0	En plus d’avoir à maintes reprises<br>aidé les Rangers, tu as aussi cherché<br>plusieurs recrues potentielles pour<br>augmenter nos effectifs.	313
+313	0	Eh bien, c’est génial !<br>Comme je le dis toujours, « Les<br>bonnes actions, chat change tout » !	314
+314	0	Tout le mal que tu t’es donné pour<br>passer le mot à tes amis a vraiment<br>contribué à tes bons résultats !	315
+315	0	Merci mille fois, Ranger !<br>Tu es enfin un membre officiel de<br>l’équipe des Nyanko Rangers !	316
+316	0	En unissant nos forces, nous<br>pourrons abattre des tonnes de<br>Kaijin et sauver la ville !	317
+317	0	Et puisque l’ambiance est à la fête...<br>Tu nous as bien rendu service, alors<br>voici un petit plus, de ma part !	318
+318	16	Wouhou ! <flash>777 Miam !</flash><br>Ne dépense pas tout<br>au même endroit !	-2

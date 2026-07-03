@@ -1,0 +1,88 @@
+			0	22	777	301	0
+		Ops! Un imprevisto.<br>Ti chiederò una mano più tardi.<br>Intanto prendi questo per<br>l'aiuto che mi hai dato!	0	22	300
+1	0	Ehi, recluta!<br>Ho una missione urgente per te!	2
+2	0	I Kaijin ultimamente<br>stanno diventando più potenti.	3
+3	0	Con una tale minaccia Kaijin,<br>i Ranger Nyanko non possono<br>farcela da soli.<br>Accettiamo qualsiasi aiuto!	4
+4	0	E ho pensato: "questa è la prova<br>perfetta per un aspirante Ranger!".<br>Allora, che ne dici?<br>Accetti la sfida?	5	20
+5	0	Grazie mille!<br>Mi fa piacere averti in squadra!	6
+6	0	Prima devi sostenere l'esame<br>per ottenere la licenza di Ranger,<br>per capire se hai la stoffa.	7
+7	0	Non ho dubbi che lo supererai<br>e diventerai un eccellente Ranger!	8
+8	0	In men che non si dica ti manderemo<br>a proteggere la pace in città!	9
+9	0	Ti aiuterò a preparare<br>l'esame e faremo in modo<br>che lo superi con successo!	10
+10	0	E non dimenticare<br>di invitare i tuoi amici<br>a giocare a The Battle Cats!	11
+11	0	Più Ranger siamo<br>più sicuro sarà<br>il mondo, non credi?	12
+12	0	Ci aiuterebbe davvero tanto<br>se anche i tuoi amici<br>diventassero Ranger!	13
+13	0	The Battle Cats non si ferma!<br>La campagna senza fine continua,<br>quindi invita i tuoi amici<br>a unirsi alla causa dei Gatti!	14
+14	0	Puoi reclutare<br>i tuoi amici direttamente!	15
+15	0	Dacci una zampa e<br>ovviamente ci saranno<br><flash>tantissimi Friskat</flash><br>come ricompensa per te!	16
+16	0	Non vedo l'ora di<br>combattere il male<br>insieme a te e ai tuoi amici!	17
+17	0	Bene, aspirante Ranger,<br>la tua prima prova<br>ti aspetta domani!	18
+18	16	Non dimenticarti di invitare<br>i tuoi amici!<br>Domani è un grande giorno!	101
+20	0	Uff! Non sento niente<br>con questo casco!<br>Cos'hai detto, aspirante Ranger?	21
+21	0	Ho un piccolissimo<br>favore da chiederti.<br>Hai un minuto da dedicarmi?	5	20
+101	0	Grazie per essere qui!<br>Mi fa sempre piacere vederti!	102
+102	0	Hai già invitato i tuoi amici<br>a giocare a The Battle Cats?	103	120
+103	0	Grazie mille!<br>Continua a spargere la voce<br>e presto avremo una vera<br>squadra di nuovi Ranger!	104
+104	0	Ma innanzitutto...<br>dobbiamo preparare i documenti<br>per la parte dell'esame dedicata<br>alla valutazione attitudinale.	105
+105	0	Questa prima prova<br>stabilirà se davvero<br>hai la stoffa del Ranger.	106
+106	0	Mamma mia, ma sono<br>222 pagine di documenti!<br>Chi ce l'ha il tempo di compilarli?<br>Sono veramente troppi!	107
+107	0	Ma niente paura!<br>Ho usato l'IA di Gatto CPU<br>per compilare tutto...<br>Tranne l'ultima domanda.	108
+108	0	Quindi il tuo slogan è...<br>"Ciambelle fritte!"?<br>Beh, per ora può andare.	109
+109	0	Per favore, dacci una risposta<br>seria per quest'ultima domanda.<br>È MOLTO importante!	110
+110	0	Chi è il tuo<br>Ranger Nyanko preferito?	111
+111	0	Wow, questa è tosta!<br>Hai già una risposta in mente?	112
+112	0	Il feroce e focoso<br>Ranger Nyanko rosso<br>è il tuo preferito, dunque?	113	130
+113	0	Ma grazie!<br>Che onore!	114
+114	0	Non hai esitato un istante<br>a scegliere me! Scriviamo<br>qui "Ranger rosso" bello GRANDE,<br>in modo che sia chiaro.	115
+115	0	Beh, mi pare sia tutto in ordine!<br>Da qui in poi ci penso io<br>a mandare avanti la procedura.	116
+116	0	Tornerò domani<br>con l'esito<br>del primo esame.<br>Non vedo l'ora!	117
+117	16	Nel frattempo, perché non<br>inviti un altro paio di amici<br>per completare la squadra?<br>A più tardi!	201
+120	0	Oooh! Ti prego!<br>Pensa alla pace<br>della città!	121
+121	0	Senti, lo considererei<br>un favore personale se invitassi<br>un amico prima di domani.	122
+122	0	Promesso, eh?!<br>Contiamo su di te!	104
+130	0	È lo spirito tenace<br>del Ranger rosso<br>il tuo preferito?	113	150
+150	0	Ipoteticamente,<br>il tuo preferito è<br>il Ranger Nyanko rosso?	113	151
+151	0	...	152
+152	0	Te lo chiedo nuovamente...<br>Guardami negli occhi<br>e rispondi sinceramente!	112
+201	0	Grazie per essere di nuovo qui oggi!<br>Ti aspettavo!	202
+202	0	Bando agli indugi.<br>Hai invitato i tuoi amici?	203	230
+203	0	Sapevo di poter contare su di te!<br>Ora i Ranger Nyanko<br>saranno ancora più forti!	204
+204	0	Siamo sempre in cerca<br>di nuovi Ranger, sai, quindi<br>continua a reclutare<br>altri amici!	205
+205	0	Ok, ho qui i risultati<br>del tuo test attitudinale.<br>Vado?	206
+206	0	Dice che...	207
+207	0	...	208
+208	0	Ce l'hai fatta!<br>Bene così, aspirante Ranger!	209
+209	0	La tua risposta sincera<br>deve aver colpito<br>il comitato dei Ranger!	210
+210	0	Farò in modo di ringraziarti<br>con un Gatto CPU più tardi.	211
+211	0	Ora veniamo al sodo...<br>L'esame finale!<br>Come puoi immaginare,<br>questo test è SUPER difficile!	212
+212	0	Ai miei tempi, mi facevano<br>fare cento pose speciali di fila<br>e non dovevo sbagliarne una!	213
+213	0	Cento pose in un minuto<br>senza sbagliarne una!<br>Questa sì che è una sfida!	214
+214	0	Mi sono allenato tutta la notte,<br>ogni notte, per un mese<br>prima di riuscirci!	215
+215	0	Questa prova quindi dovrebbe<br>essere altrettanto impegnativa.<br>Vediamo un po'...	216
+216	0	Stavolta, la tua prova d'esame è...	217
+217	0	...	218
+218	0	Una lotteria!<br>Per superarla puoi<br>contare solo sulla fortuna.<br>La prova più difficile, in effetti!	219
+219	0	Ma niente paura!<br>Ci penso io a preparare tutto<br>per la tua prova, aspirante Ranger!	220
+220	0	Visto? Ho ottenuto dei Super rari<br>dai miei ultimi 5 sorteggi capsule!<br>Sarà una passeggiata!	221
+221	16	Ci vediamo domani<br>per i risultati della lotteria.<br>Vieni a trovarmi!<br>Contiamo su di te!	301
+230	0	Uff!<br>Non hai dimenticato<br>il nostro patto, vero?	231
+231	0	Hai GIURATO di invitare<br>i tuoi amici a combattere<br>al fianco dei Ranger!	232
+232	0	Il cuore mi dice<br>che li inviterai domani,<br>così riusciremo a sconfiggere<br>quei dannati Kaijin!<br>Non deludermi!	205
+301	0	Ti aspettavo!<br>Vuoi conoscere il risultato<br>del tuo esame finale?	302
+302	0	Qui si decide<br>il tuo futuro come Ranger!<br>Nulla di stressante, eh!	303
+303	0	Prima di annunciare i risultati...<br>devo confessarti una cosa...<br>Non ti arrabbiare!	304
+304	0	Vedi... Non ho fatto<br>in tempo a iscriverti<br>alla lotteria.	305
+305	0	Mentre stavo per<br>inviare tutto al Gatto CPU,<br>è arrivata una richiesta urgente<br>di rinforzi per i Ranger.	306
+306	0	Ero l'unico Ranger disponibile<br>in quel momento e<br>ho dovuto per forza<br>correre a dare una mano.	307
+307	0	Non volevo crearti problemi,<br>quindi ho affrettato un po'<br>la missione, ma non ho fatto<br>in tempo lo stesso.	308
+308	0	E per questo motivo<br>non ho potuto iscriverti<br>alla lotteria. Mi dispiace...	309
+309	0	Eh?<br>Ho ricevuto un'e-mail.<br>Poco fa non c'era.<br>Fammi controllare...	310
+310	0	...	311
+311	0	L'hai superato?!<br>Qui dice che sei ufficialmente<br>una nuova recluta dei Ranger!	312
+312	0	Oltre ad assistere i Ranger<br>nelle loro gesta eroiche,<br>hai anche trovato potenziali<br>nuove reclute per la causa.	313
+313	0	Che bella notizia!<br>Te l'ho detto, il mio motto è:<br>"Le buone azioni ricompensano<br>i Gatti buoni"!	314
+314	0	Il tuo impegno nello spargere<br>la voce tra i tuoi amici<br>ha contribuito agli ottimi<br>risultati che stiamo ottenendo!	315
+315	0	Grazie infinite, Ranger!<br>Finalmente fai<br>ufficialmente parte<br>del team Ranger Nyanko!	316
+316	0	Unendo le nostre forze,<br>riusciremo a sconfiggere<br>un sacco di Kaijin<br>e a salvare la città!	317
+317	0	E già che stiamo festeggiando...<br>Ci hai fatto un vero<br>favore, quindi ecco un<br>regalino extra, da parte mia!	318
+318	16	Miao!<br><flash>777 Friskat!</flash><br>Non spenderli tutti insieme!	-2
