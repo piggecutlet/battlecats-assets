@@ -1,0 +1,126 @@
+name: update
+
+on:
+  schedule:
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: "zulu"
+          java-version: "25"
+
+      - name: Setup SSH Key and Git Config for Signing
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          echo "${{ secrets.SSH_PUBLIC_KEY }}" > ~/.ssh/id_ed25519.pub
+
+          git config --global user.name "piggecutlet"
+          git config --global user.email "234113501+piggecutlet@users.noreply.github.com"
+          git config --global gpg.format ssh
+          git config --global user.signingkey ~/.ssh/id_ed25519
+          git config --global commit.gpgsign true
+
+      - name: Download Tools
+        run: |
+          wget https://github.com/piggecutlet/battlecats-cryptor/releases/download/v0.2.0/battlecats-cryptor_0.2.0.zip -O tool.zip
+          unzip -o tool.zip -d tool_dir
+          cp -r tool_dir/battlecats-cryptor_0.2.0/* . 2>/dev/null || cp -r tool_dir/* .
+          wget https://github.com/piggecutlet/battlecats-server-assets-downloader/releases/download/v0.2.1/battlecats-server-assets-downloader_v0.2.1.jar -O battlecats-server-assets-downloader.jar
+          rm -rf tool.zip tool_dir
+
+      - name: Process Locales
+        run: |
+          CRYPTOR_JAR=$(ls *.jar | grep -i "battlecats-cryptor" | head -n 1)
+
+          LOCALES=("jp" "kr" "en" "tw")
+          declare -A PACKAGES=(
+            ["jp"]="jp.co.ponos.battlecats"
+            ["kr"]="jp.co.ponos.battlecatskr"
+            ["en"]="jp.co.ponos.battlecatsen"
+            ["tw"]="jp.co.ponos.battlecatstw"
+          )
+
+          for LOCALE in "${LOCALES[@]}"; do
+            PACKAGE_NAME="${PACKAGES[$LOCALE]}"
+            echo "Processing $LOCALE ($PACKAGE_NAME)..."
+
+            {
+            git pull --rebase origin main
+
+            rm -rf workspace assets assets_* app.xapk *.apk tmp_* 2>/dev/null || true
+
+            CURRENT_VER=$(git log --grep="^${LOCALE} " -n 1 --format="%s" | awk '{print $2}')
+            echo "Current version in git for $LOCALE: '$CURRENT_VER'"
+
+            RESPONSE=$(curl -s -X POST "https://tapi.pureapk.com/v3/get_app_detail" \
+              -H "Ual-Access-Businessid: projecta" \
+              -H 'Ual-Access-ProjectA: {"device_info":{"os_ver":"33"}}' \
+              -H "Content-Type: application/json" \
+              -d "{\"action\": \"Download\", \"package_name\": \"$PACKAGE_NAME\"}")
+
+            VERSION_NAME=$(echo "$RESPONSE" | jq -r '.app_detail.version_name')
+            DOWNLOAD_URL=$(echo "$RESPONSE" | jq -r '.app_detail.asset.url')
+
+            if [ -z "$DOWNLOAD_URL" ] || [ "$DOWNLOAD_URL" = "null" ]; then
+              echo "Error: Failed to get download URL for $LOCALE"
+              continue
+            fi
+
+            echo "API version for $LOCALE: '$VERSION_NAME'"
+
+            if [ "$CURRENT_VER" = "$VERSION_NAME" ]; then
+              echo "Version $VERSION_NAME is already up to date for $LOCALE. Skipping..."
+              continue
+            fi
+
+            curl -sL "$DOWNLOAD_URL" -o app.xapk
+
+            rm -rf "$LOCALE"
+
+            java -jar "$CRYPTOR_JAR" decrypt "$LOCALE"
+            mkdir -p "$LOCALE/local"
+            cp -r workspace/encrypt/* "$LOCALE/local/" 2>/dev/null || true
+            cp -r workspace/decrypt/* "$LOCALE/local/" 2>/dev/null || true
+            rm -rf workspace
+
+            java -jar battlecats-server-assets-downloader.jar --list
+            mkdir -p workspace/encrypt
+            cp -r "assets/$LOCALE"/* workspace/encrypt/ 2>/dev/null || true
+            rm -rf assets
+            rm -f app.xapk *.apk
+
+            java -jar "$CRYPTOR_JAR" decrypt "$LOCALE"
+            mkdir -p "$LOCALE/server"
+            cp -r workspace/encrypt/* "$LOCALE/server/" 2>/dev/null || true
+            cp -r workspace/decrypt/* "$LOCALE/server/" 2>/dev/null || true
+            rm -rf workspace
+
+            git add "$LOCALE"
+            [ -f server.json ] && git add server.json
+
+            git reset -- "*.ogg" "*.caf"
+
+            if ! git diff --cached --quiet; then
+              git commit -S -m "$LOCALE $VERSION_NAME"
+              git pull --rebase origin main
+              git push
+            fi
+            } || { echo "Error: Failed to process $LOCALE. Skipping to next locale."; continue; }
+          done
+
+          rm -f battlecats-server-assets-downloader.jar "$CRYPTOR_JAR"
+          rm -rf lib workspace assets app.xapk *.apk tmp_*
