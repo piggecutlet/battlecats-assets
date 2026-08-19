@@ -931,7 +931,7 @@
 9502|[Fase de Invasión] Misión de evento exclusivo<br>Supera Clionel Zombi Ataca.
 9503|[Fase de Invasión] Misión de evento exclusivo<br>Supera Vieja Reina.
 9504|[Fase de Invasión] Misión de evento exclusivo<br>Supera Paraíso de Papuu.
-9505|[Fase de Invasión] Supera La Tortuga y el Bebé<br>Para completarla, supera todas las fases y las fases EX
+9505|[Fase de Invasión] Supera La Máscara y el Bebé<br>Para completarla, supera todas las fases y las fases EX
 9506|[Fase de Invasión] Supera El Príncipe y el Renacido<br>Para completarla, supera todas las fases y las fases EX
 9507|[Fase de Invasión] Supera La Reina y el Santo<br>Para completarla, supera todas las fases y las fases EX
 9508|Deberes de Verano ④: Acaba una redacción de diez<br>Supera %d fases de Gatos Estivales (Superadas: %d/%d)
@@ -978,7 +978,7 @@
 9542|Rumbo a la Unificación ⑤:<br>supera la fase 1 de «Rumbo a la Unificación Parte 2».|¡Se han añadido las misiones de Rumbo a la Unificación ⑤<br>a las misiones especiales!
 9543|Rumbo a la Unificación ⑥:<br>¡supera la fase 1 de «¡Batalla final! El Rey Indomable».|¡Se han añadido las misiones de Rumbo a la Unificación ⑥<br>a las misiones especiales!
 72|Misión de Rumbo a la Unificación<br>Supera el cap. 1 de Imperio de los Gatos durante el evento.
-9544|Misión muy dura 1: ¡Supera la fase 6 de «Lo más profundo de mi corazón»<br>desplegando solo unidades que cuesten 1000 ¢ o menos!|¡Se han añadido las misiones muy duras 1 y 2<br>a las misiones especiales!
+9544|Misión muy dura 1: ¡Sup. la fase 6 de «Lo más profundo de mi corazón»<br>usando solo uds. de 1000 ¢ o más!|¡Se han añadido las misiones muy duras 1 y 2<br>a las misiones especiales!
 9545|Misión muy dura 2: ¡Supera la fase 6 de «Minas de Gelatina»<br>con 9 unidades normales o más en tu formación!|
 9546|Misión muy dura 3: ¡Completa la fase 6 de «Laberinto del Bosque Viejo»<br>con 8 unidades superraras o más en tu formación!|¡Se han añadido las misiones muy duras 3 y 4<br>a las misiones especiales!
 9547|Misión muy dura 4: ¡Supera la fase 6 de «Cima del Mastodonte»<br>desplegando solo unidades que cuesten 2000 ¢ o menos!|
@@ -1163,6 +1163,54 @@
 9721|[Novia del Diablo de Junio] Supera %d fase(s) de «#03 ¿En qué cae el 13?»<br>durante Novia del Diablo de Junio. (%d/%d).
 9722|[Novia del Diablo de Junio] Supera %d fase(s) de «#04 Aldea de Alaridos»<br>durante Novia del Diablo de Junio. (%d/%d).|¡Se han añadido las misiones Novia del Diablo de Junio<br>a las misiones especiales!
 9723|[Novia del Diablo de Junio] Supera %d fase(s) de «#04 Aldea de Alaridos»<br>durante Novia del Diablo de Junio. (%d/%d).
+9724||
+9725|
+9726|
+9727|
+9728|
+9729||
+9730||
+9731|Magnates del Resort ①: Equipo del proyecto ①<br>Consigue 3 personajes en las bolas de evento.|Magnates del Resort ① se ha añadido<br>a tus misiones especiales.
+9732|Magnates del Resort ②: Equipo del proyecto ①<br>Consigue 5 personajes en las bolas de evento.
+9733|Magnates del Resort ③: Equipo del proyecto ①<br>Consigue 7 personajes en las bolas de evento.
+9734|Magnates del Resort ①: Tasación ①<br>Supera «Puja del Multimillonario» %d veces
+9735|Magnates del Resort ①: Tasación ②<br>Supera «Puja del Multimillonario» %d veces (%d/%d)
+9736|Paraíso, semana 1 ①: Supera %d fases<br>¡Vale con completar cualquier fase! (%d/%d)
+9737|Paraíso, semana 1 ②: Supera %d fases<br>¡Vale con completar cualquier fase! (%d/%d)
+9738|Paraíso, semana 1 ③: Supera %d fases<br>¡Vale con completar cualquier fase! (%d/%d)
+9739|Magnates del Resort ②: Vida de estrella ①<br>Supera «Paraíso de Resorts» %d veces|Magnates del Resort ② se ha añadido<br>a tus misiones especiales.
+9740|Magnates del Resort ②: Vida de estrella ②<br>Supera «Paraíso de Resorts» %d veces (%d/%d)
+9741|Magnates del Resort ②: Decisión decisiva ①<br>Supera «Cruce del Premio Gordo» %d veces
+9742|Magnates del Resort ②: Decisión decisiva ②<br>Supera «Cruce del Premio Gordo» %d veces (%d/%d)
+9743|Paraíso, semana 2 ①: Supera %d fases<br>¡Vale con completar cualquier fase! (%d/%d)
+9744|Paraíso, semana 2 ②: Supera %d fases<br>¡Vale con completar cualquier fase! (%d/%d)
+9745|Paraíso, semana 2 ③: Supera %d fases<br>¡Vale con completar cualquier fase! (%d/%d)
+9746|Magnates del Resort ③: Sanación bendita ①<br>Supera «Sauna del Edén» %d veces|Magnates del Resort ③ se ha añadido<br>a tus misiones especiales.
+9747|Magnates del Resort ③: Sanación bendita ②<br>Supera «Sauna del Edén» %d veces (%d/%d)
+9748|Paraíso, semana 3 ①: Supera %d fases<br>¡Vale con completar cualquier fase! (%d/%d)
+9749|Paraíso, semana 3 ②: Supera %d fases<br>¡Vale con completar cualquier fase! (%d/%d)
+9750|Paraíso, semana 3 ③: Supera %d fases<br>¡Vale con completar cualquier fase! (%d/%d)
+9751|Proyecto de ciencias: Insectoides <br>¡Completa todas las misiones de la ① a la ④|Proyecto de ciencias se ha añadido<br>a tus misiones especiales.
+9752|Proyecto de ciencias: Insectoides ①<br>¡Consigue 1 Gato Kabuto en las bolas de evento!
+9753|Proyecto de ciencias: Insectoides ②<br>¡Consigue 1 Gato Kuwagata en las bolas de evento!
+9754|Proyecto de ciencias: Insectoides ③<br>¡Consigue 1 Huevo Antiguo: N202 en las bolas de evento!
+9755|Proyecto de ciencias: Insectoides ④<br>¡Consigue 1 Huevo Antiguo: N208 en las bolas de evento!
+9756|Vuelve el verano, semana 1 ①: Supera %d fases<br>¡Vale con completar cualquier fase! (%d/%d)
+9757|Vuelve el verano, semana 1 ②: Supera %d fases<br>¡Vale con completar cualquier fase! (%d/%d)
+9758|Vuelve el verano, semana 1 ③: Supera %d fases<br>¡Vale con completar cualquier fase! (%d/%d)
+9759|Vuelve el verano, semana 1 ④: Supera %d fases<br>¡Vale con completar cualquier fase! (%d/%d)
+9760|Vuelve el verano, semana 2 ①: Supera %d fases<br>¡Vale con completar cualquier fase! (%d/%d)|Vuelve el verano, semana 2 se ha añadido<br>a tus misiones especiales.
+9761|Vuelve el verano, semana 2 ②: Supera %d fases<br>¡Vale con completar cualquier fase! (%d/%d)
+9762|Vuelve el verano, semana 2 ③: Supera %d fases<br>¡Vale con completar cualquier fase! (%d/%d)
+9763|Vuelve el verano, semana 2 ④: Supera %d fases<br>¡Vale con completar cualquier fase! (%d/%d)
+9764|Subir nota: Supera «La Máscara y el Bebé»<br>* Se debe superar la fase de continuación.
+9765|Subir nota: Supera «El Príncipe y el Renacido»<br>* Se debe superar la fase de continuación.
+9766|Vuelve el verano, semana 3 ①: Supera %d fases<br>¡Vale con completar cualquier fase! (%d/%d)|Vuelve el verano, semana 3 se ha añadido<br>a tus misiones especiales.
+9767|Vuelve el verano, semana 3 ②: Supera %d fases<br>¡Vale con completar cualquier fase! (%d/%d)
+9768|Vuelve el verano, semana 3 ③: Supera %d fases<br>¡Vale con completar cualquier fase! (%d/%d)
+9769|Vuelve el verano, semana 3 ④: Supera %d fases<br>¡Vale con completar cualquier fase! (%d/%d)
+9770|Subir nota: Supera «La Reina y el Santo»<br>* Se debe superar la fase de continuación.
+9771|Subir nota: Supera «Fondo del Pantano»<br>* Se debe superar con 10 gatos especiales
 9668|【Progreso】¡Abre %d gatobola(s)! (%d de %d).<br>(Cada día podrás utilizar un tique gratis).|¡Se han añadido las misiones de progreso<br>a las misiones especiales!
 9669|【Progreso】<br>Supera %d fase(s) de The Battle Cats (%d de %d).
 9670|【Progreso】¡Envía a Gamatoto a %d excursiones exitosas!<br>(Completa 3 excursiones a cualquier zona: %d de %d).

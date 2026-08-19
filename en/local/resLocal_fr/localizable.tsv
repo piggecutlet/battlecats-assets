@@ -1192,7 +1192,7 @@ fragment_bonus	Obtiens un cadeau éclat platine<br>à chaque ouverture de ${gaty
 applang	en
 equipment_error	Ce talent ne peut être utilisé que si l'unité<br>a déjà la capacité « %@ : %@ ».
 scratch_message	Tu as reçu %s x%d !
-scratch_SNS_000	J'ai gagné %d Miam dans #BattleCatsScratcher !<br>Essaie une fois par semaine pour tenter de remporter un super prix !<br><br>#TheBattleCats
+scratch_SNS_000	J'ai gagné %d Miam dans #BattleCatsScratcher !<br>Essaie une fois par semaine pour tenter de remporter un super prix !<br><br>#TheBattleCats #BattleCats #CatScratcher #CatsOfSummer2026
 item_pack_name_39	Pack festif
 potential_skill_name57	Cible Aku
 assault_skip	【Tu te sens un peu mieux...】<br><flash>Une chance récupérée !</flash><br>Retour à l’écran de choix du niveau.<br><color=255,255,0>Chances disponibles : 1/${countNum} ${assaultWord}</color>
@@ -1271,7 +1271,7 @@ scheme_item_param_77
 AccountDelete_error01	Impossible de générer le code.<br>Vérifie ta connexion Internet.
 AccountDelete_error02	Impossible de supprimer le compte.<br>Vérifie ta connexion Internet.
 AccountDelete_error03	Le code a expiré.<br>Recommence depuis le début.
-boost_message	<color=255,0,255>Accélération</color><br><color=0,0,0>Augmente la vitesse des batailles à volonté !<br>Utilise un élément Accélération pour doubler la vitesse !<br>Touche l’icône en combat pour basculer<br>entre DÉSACTIVÉ et vitesse x2 ou x3.</color>
+boost_message	<color=255,0,255>Accélération</color><br><color=0,0,0>Augmente la vitesse des batailles à volonté !<br>Utilise un objet Accélération pour tripler la vitesse !<br>Touche l’icône en combat pour basculer<br>entre DÉSACTIVÉ et vitesse x2 ou x3.</color>
 item_possession	<color=178,178,178>(En possession : ${itemNum1} → ${itemNum2})</color>
 stage_restriction_charagroup_7	World Trigger Collab Unit
 slot_remove	Toutes les unités seront retirées de la formation de combat.
@@ -1529,8 +1529,8 @@ BonusNameLabel000	Affaiblissement
 gama_collabo_04_charatext	
 gama_collabo_04_name	
 gama_collabo_04_popup	
-item_pack_name_89	Achat : Promo double platine, 1re partie
-item_pack_name_90	Achat : Promo double platine, 2e partie
+item_pack_name_89	Achat : Offre platine, 1re partie !
+item_pack_name_90	Achat : Offre platine, 2e partie !
 leadershipreturn_pop1	Fuir la bataille ?<br><color=255,255,0>Le Charburant dépensé te sera remboursé.</color>
 leadershipreturn_pop2	L’option Continuer n’est pas disponible dans ce niveau.<br>Le Charburant dépensé te sera remboursé.
 leadershipreturn_pop3	Le Charburant dépensé dans ce niveau te sera<br>remboursé après une défaite ou une fuite.<color=255,255,0>Le Charburant dépensé dans les niveaux spéciaux ne sera pas remboursé.</color>
@@ -1584,7 +1584,7 @@ filter_equipment_tutorial	Filtre l’affichage des unités<br>dotées d'orbes de
 filter_option_description5	<color=0,0,0>Affiche les chats qui disposeront<br>de la cible/l’effet sélectionné<br>après avoir évolué/été amélioré.</color>
 ScatCPU_ad_confirm	Chance d’XP boostée en terminant un niveau !<br>Récompenses : <flash>${xp} XP ×2</flash><br>de ce niveau terminé en regardant une publicité ?
 ScatCPU_ad_result	Niveau terminé : XP <flash>EN HAUSSE !!!</flash><br><flash>${xp}</flash> XP
-scratch_SNS_005	
+scratch_SNS_005	J’ai gagné %d Miam dans #BattleCatsScratcher !<br>Essaie une fois par semaine pour tenter de remporter un super prix !<br><br>#TheBattleCats #BattleCats #CatScratcher #CatsOfSummer2026
 slot_SNS_004	J’ai gagné %d Miam aux machines à sous Chat sauvage de #TheBattleCats !<br><br>#BattleCats #11YearsOfBattleCats
 SpecialRuleExplanation012	【Stock limité】<br>Seules 50 unités au total peuvent être déployées<br>au cours de cette bataille, mais toutes les unités<br>ont le même temps de récupération.
 SpecialRuleName012	Stock limité
@@ -1630,7 +1630,7 @@ backstage_clear	<color=255,255,0>Les unités organisées dans cette équipe sont
 backstage_clear_limit	<flash>Tous les niveaux abyssaux ont été terminés !</flash><br>* Limite de fins atteinte.<br>Les prochaines unités ajoutées aux équipes ne seront pas<br>épuisées tant que le compteur n’aura pas été réinitialisé.
 slot_autoset_confirm	Veux-tu remplacer ton équipe<br>actuelle par une nouvelle ?
 clear_count_tutorial	<color=255,255,0>Récomp. niv. terminé abyssaux terminés </color><br>Gagne des récompenses basées sur le nombre de fois<br>que tu as terminé ce niveau ! Touche le bouton en bas à gauche<br>de l'écran de choix du niveau pour en savoir plus.
-clear_count_reward	${clearNum} fois
+clear_count_reward	${clearNum}x
 clear_count_reward_title	Récomp. niv. terminé
 clear_count_reward_title2	Terminé
 potential_skill_name68	Contre-réplique
@@ -1664,8 +1664,13 @@ SpecialRuleName018	Inflation : ultra rares
 speedup_message	<color=255,0,255>Accélération</color><br><color=0,0,0>Double la vitesse des batailles !<br>Touche l’icône en combat pour basculer<br>entre DÉSACTIVÉ et vitesse x2.</color>
 tutorial_popup0	Tu ne peux pas encore accéder à ce niveau !<br>Termine Mongolie pour continuer !
 tutorial_popup1	Tu ne peux pas encore accéder à ce niveau !<br>Termine Chine pour continuer !
-tutorial_popup2	L’élément Accélération a été sélectionné.<br>Quand Accélération est sélectionné, tu peux<br>choisir entre DÉSACTIVÉ, x2 ou x3 en combat.</color>
+tutorial_popup2	<color=255,255,0>Comment utiliser les objets</color><br>Tu veux utiliser tes objets de combat durement gagnés ?<br>Il te suffit de toucher l’icône ci-dessous !<br>* Possible uniquement avant la bataille.
 tutorial_popup3	Touche l’icône de verrou à droite pour<br>maintenir l’élément sélectionné et ne pas<br>avoir à le sélectionner à chaque fois !
 tutorial_popup4	Tu n’as pas assez d’XP...
 unlock_popup_message_158	<flash>Un nouveau héros est apparu !</flash><br>Active-le dans le menu Améliorer !
 unlock_popup_message_159	
+item_pack_name_92	
+SpecialRuleName020	Dépensez un million
+Stage_battle00	Battre en retraite ?<br>Abandonne maintenant et récupère tes objets ! (en 10 s)
+Stage_lock00	Pas assez d’objets.
+unlock_popup_message_160	Le <flash>Dieu des Chats</flash> est apparu dans la section des Chats spéciaux !<br>Débloque-le depuis le menu Améliorer !<br>* Il pourrait bien te sauver en cas de bataille serrée... !

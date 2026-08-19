@@ -1192,7 +1192,7 @@ fragment_bonus	Ottieni 1 pezzo di platino omaggio<br>a ogni sorteggio di ${gatya
 applang	en
 equipment_error	Questo Talento può essere usato solo se l'unità<br>ha già l'abilità "%@: %@".
 scratch_message	Hai ricevuto %s x%d
-scratch_SNS_000	Ho vinto %d Friskat con la #BattleCatsScratcher!<br>Prova una volta alla settimana per vincere un premio fantastico!<br><br>#TheBattleCats
+scratch_SNS_000	Ho vinto %d Friskat con la #BattleCatsScratcher!<br>Prova una volta alla settimana per vincere un premio fantastico!<br><br>#TheBattleCats #BattleCats #CatScratcher #CatsOfSummer2026
 item_pack_name_39	Pack festa
 potential_skill_name57	Obiettivo aku
 assault_skip	【Va un po' meglio...】<br><flash>Un tentativo recuperato!</flash><br>Ritorno alla schermata di Selezione livello.<br><color=255,255,0>Tentativi disponibili: 1/${countNum} ${assaultWord}</color>
@@ -1271,7 +1271,7 @@ scheme_item_param_77
 AccountDelete_error01	Impossibile creare il codice.<br>Verifica la tua connessione di rete.
 AccountDelete_error02	Impossibile eliminare l'account.<br>Verifica la tua connessione di rete.
 AccountDelete_error03	Il codice è scaduto.<br>Per favore, ricomincia dall'inizio.
-boost_message	<color=255,0,255>Accelerazione</color><br><color=0,0,0>Aumenta la velocità di battaglia in qualsiasi momento!<br>Usa un'accelerazione per passare a velocità 2x!<br>Tocca l'icona durante il combattimento per alternare<br>tra velocità NO, 2x e 3x.</color>
+boost_message	<color=255,0,255>Accelerazione</color><br><color=0,0,0>Aumenta la velocità di battaglia in qualsiasi momento!<br>Usa un'accelerazione per passare a velocità x3!<br>Tocca l'icona durante il combattimento per alternare<br>tra velocità NO, x2 e x3.</color>
 item_possession	<color=178,178,178>(# Quantità posseduta: ${itemNum1} → ${itemNum2})</color>
 stage_restriction_charagroup_7	World Trigger Collab Unit
 slot_remove	Tutte le unità saranno rimosse dalla formazione da battaglia.
@@ -1529,8 +1529,8 @@ BonusNameLabel000	Indebolimento
 gama_collabo_04_charatext	
 gama_collabo_04_name	
 gama_collabo_04_popup	
-item_pack_name_89	Acquista: Offerta doppia platino, p. 1
-item_pack_name_90	Acquista: Offerta doppia platino, p. 2
+item_pack_name_89	Acquista: Offerta doppio platino, p. 1!
+item_pack_name_90	Acquista: Offerta doppio platino, p. 2!
 leadershipreturn_pop1	Abbandonare la battaglia?<br><color=255,255,0>L'energia spesa verrà ripristinata.</color>
 leadershipreturn_pop2	Non è possibile usare Continua in questo livello.<br>L'energia spesa verrà ripristinata.
 leadershipreturn_pop3	L'energia spesa in questo livello verrà<br>ripristinata dopo la sconfitta o l'abbandono.<color=255,255,0>L'energia spesa nei livelli speciali non verrà ripristinata.</color>
@@ -1584,7 +1584,7 @@ filter_equipment_tutorial	Filtra la visualizzazione delle unità con<br>talenti 
 filter_option_description5	<color=0,0,0>Mostra gatti che avranno<br>gli obiettivi/effetti selezionati disponibili<br>dopo essersi evoluti/potenziati.</color>
 ScatCPU_ad_confirm	Possibilità di ottenere XP superando il livello!<br>Ottieni come ricompense <flash>${xp} XP ×2</flash> <br>superando questo livello mentre guardi un annuncio?
 ScatCPU_ad_result	Ricompensa livello XP <flash>MAGGIORE!!!</flash> <br><flash>${xp}</flash> XP
-scratch_SNS_005	
+scratch_SNS_005	Ho vinto %d Friskat con il #BattleCatsScratcher!<br>Prova una volta alla settimana per vincere un premio fantastico!<br><br>#TheBattleCats #BattleCats #CatScratcher #CatsOfSummer2026
 slot_SNS_004	Ho ricevuto %d Friskat dalle Slot Feline su #TheBattleCats!<br><br>#BattleCats #11anniDiBattleCats
 SpecialRuleExplanation012	【Scorte limitate】<br>Solo 50 unità totali possono essere schierate<br>nel corso di questa battaglia, ma<br>tutte le unità dispongono dello stesso tempo di recupero.
 SpecialRuleName012	Scorte limitate
@@ -1630,7 +1630,7 @@ backstage_clear	<color=255,255,0>Le unità equipaggiate in una squadra non posso
 backstage_clear_limit	<flash>Hai superato tutti i livelli abissali!</flash><br>*Numero massimo di vittorie raggiunto.<br>Le future unità nelle squadre non diventeranno<br>esauste finché il numero di vittorie non verrà azzerato.
 slot_autoset_confirm	Vuoi sovrascrivere<br>la squadra attuale con una nuova?
 clear_count_tutorial	<color=255,255,0>Ricompense livelli abissali</color><br>Ottieni ricompense in base a quante volte hai superato<br>questo livello! Per maggiori informazioni, tocca il pulsante in basso a sinistra nella<br>schermata di Selezione livello.
-clear_count_reward	${clearNum} volte
+clear_count_reward	${clearNum}x
 clear_count_reward_title	Ricompense livello
 clear_count_reward_title2	Superato
 potential_skill_name68	Contrasto attacco a valanga
@@ -1664,8 +1664,13 @@ SpecialRuleName018	Inflazione: ultra rari
 speedup_message	<color=255,0,255>Accelerazione</color><br><color=0,0,0>Raddoppia la velocità di battaglia!<br>Tocca l'icona durante il combattimento per alternare<br>tra velocità NO e 2x.</color>
 tutorial_popup0	Non puoi ancora affrontare questo livello!<br>Completa "Mongolia" per continuare!
 tutorial_popup1	Non puoi ancora affrontare questo livello!<br>Completa "Cina" per continuare!
-tutorial_popup2	Hai selezionato l'oggetto Accelerazione.<br>Dopo aver selezionato Accelerazione, puoi alternare<br>tra velocità NO, 2x e 3x in battaglia.</color>
+tutorial_popup2	<color=255,255,0>Come usare gli oggetti</color><br>Vuoi sfruttare i tuoi sudati oggetti da battaglia?<br>Tocca l'icona in basso!<br>*Selezionabile solo prima della battaglia.
 tutorial_popup3	Tocca l'icona Blocca a destra per<br>fissare l'oggetto in modo da<br>non doverlo selezionare ogni volta!
 tutorial_popup4	Non hai XP sufficienti...
 unlock_popup_message_158	<flash>È apparso un nuovo eroe!</flash><br>Attivalo nel menu Potenzia!
 unlock_popup_message_159	
+item_pack_name_92	
+SpecialRuleName020	Spendi 1 milione
+Stage_battle00	Vuoi rinunciare?<br>Rinuncia subito per ottenere il rimborso dei tuoi oggetti! (Entro 10 secondi)
+Stage_lock00	Oggetti insufficienti.
+unlock_popup_message_160	<flash>Gatto divino</flash> è apparso nella sezione Gatti speciali!<br>Sbloccalo dalla schermata Potenzia!<br>*Potrebbe ribaltare le sorti di una battaglia difficile!

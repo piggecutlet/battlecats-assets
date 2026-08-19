@@ -931,7 +931,7 @@
 9502|[Niveau Invasion] Mission à durée limitée<br>Termine Ascension de Z-Onel
 9503|[Niveau Invasion] Mission à durée limitée<br>Termine La vieille reine
 9504|[Niveau Invasion] Mission à durée limitée<br>Termine Paradis de Papuu
-9505|[Niveau Invasion] Termine Tortue et bébé<br>Termine tous les niveaux et niveaux EX
+9505|[Niveau invasion] Le masque et le bébé<br>Termine tous les niveaux et niveaux EX
 9506|[Niveau Invasion] Termine Prince et revenant<br>Termine tous les niveaux et niveaux EX
 9507|[Niveau Invasion] Termine Reine et saint<br>Termine tous les niveaux et niveaux EX
 9508|Devoirs de vacances ④ : termine une rédaction parfaite.<br>Termine %d niveaux Chats de vacances d’été (%d/%d terminés).
@@ -978,7 +978,7 @@
 9542|Route de l’Unification ⑤ :<br>Termine le niveau 1 de la Route de l’Unification 2e partie !|Des missions de la Route de l’Unification ⑤<br>ont été ajoutées aux missions spéciales !
 9543|Route de l’Unification ⑥ :<br>Termine le niveau 1 de Dernière bataille ! Le roi rebelle !|Des missions de la Route de l’Unification ⑥<br>ont été ajoutées aux missions spéciales !
 72|Mission de la Route de l’Unification<br>Termine L’EdC ch. 1 pendant l’événement pour la terminer.
-9544|Mission hyper balèze 1 : Termine le niv. 6 de « Du fond du cœur »<br>en déployant seulement des unités coûtant 1 000 ¢ ou moins !|Missions hyper balèzes 1 et 2<br>ajoutées aux missions spéciales !
+9544|Mission hyper balèze 1 : Termine le niv. 6 de « Du fond du cœur »<br>en déployant seulement des unités coûtant 1 000 ¢ ou plus !|Missions hyper balèzes 1 et 2<br>ajoutées aux missions spéciales !
 9545|Mission hyper balèze 2 : Termine le niv. 6 de « Mines de gélatine »<br>avec au moins 9 unités normales dans ta formation !|
 9546|Mission hyper balèze 3 : Termine le niv. 6 de « Labyrinthe de l’ancienne<br>forêt » avec au moins 8 unités super rares dans ta formation !|Missions hyper balèzes 3 et 4<br>ajoutées aux missions spéciales !
 9547|Mission hyper balèze 4 : Termine le niv. 6 de « Pic de Béhémoth »<br>en déployant seulement des unités coûtant 2 000 ¢ ou moins !|
@@ -1163,6 +1163,54 @@
 9721|[Mariée du démon de juin] Termine %d niveau(x) de<br>#03 ??? le 13e pendant Mariée du démon de juin. (%d sur %d)
 9722|[Mariée du démon de juin] Termine %d niveau(x) de<br>#04 Village miaulant pendant Mariée du démon de juin. (%d sur %d)|Des missions « Mariée du démon de juin » ont été<br>ajoutées aux missions spéciales !
 9723|[Mariée du démon de juin] Termine %d niveau(x) de<br>#04 Village miaulant pendant Mariée du démon de juin. (%d sur %d)
+9724||
+9725|
+9726|
+9727|
+9728|
+9729||
+9730||
+9731|Magnat des vacances ① : Équipe du projet ①<br>Obtiens 3 personnages dans les Chapsules d’événement !|Magnat des vacances ① a été ajouté<br>à tes missions spéciales !
+9732|Magnat des vacances ① : Équipe du projet ②<br>Obtiens 5 personnages dans les Chapsules d’événement !
+9733|Magnat des vacances ① : Équipe du projet ③<br>Obtiens 7 personnages dans les Chapsules d’événement !
+9734|Magnat des vacances ① : Évaluation de la valeur ①<br>Termine Mission de milliardaire %d fois
+9735|Magnat des vacances ② : Évaluation de la valeur ①<br>Termine Mission de milliardaire %d fois (%d/%d)
+9736|Paradis, Sem. 1 ① : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
+9737|Paradis, Sem. 1 ② : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
+9738|Paradis, Sem. 1 ③ : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
+9739|Magnat des vacances ② : La vie de star ①<br>Termine Terre du lieu de vacances extravagant %d fois|Magnat des vacances ② a été ajouté<br>à tes missions spéciales !
+9740|Magnat des vacances ② : La vie de star ②<br>Termine Terre du lieu de vacances<br>extravagant %d fois (%d/%d)
+9741|Magnat des vacances ② : Décision décisive ①<br>Termine Jonction du jackpot %d fois
+9742|Magnat des vacances ② : Décision décisive ②<br>Termine Jonction du jackpot %d fois (%d/%d)
+9743|Paradis, Sem. 2 ① : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
+9744|Paradis, Sem. 2 ② : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
+9745|Paradis, Sem. 2 ③ : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
+9746|Magnat des vacances ③ : Soins grisants ①<br>Termine Sauna du paradis %d fois|Magnat des vacances ③ a été ajouté<br>à tes missions spéciales !
+9747|Magnat des vacances ③ : Soins grisants ②<br>Termine Sauna du paradis %d fois (%d/%d)
+9748|Paradis, Sem. 3 ① : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
+9749|Paradis, Sem. 3 ② : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
+9750|Paradis, Sem. 3 ③ : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
+9751|Projet scientifique : Insectoïdes<br>Termine toutes les missions jusqu’à la ① à ④ !|Projet scientifique a été ajouté<br>à tes missions spéciales !
+9752|Projet scientifique : Insectoïdes ①<br>Obtiens 1 Chat Kabuto dans les Chapsules d’événement !
+9753|Projet scientifique : Insectoïdes ②<br>Obtiens 1 Chat Kuwagata dans les Chapsules d’événement !
+9754|Projet scientifique : Insectoïdes ③<br>Obtiens 1 Œuf ancien : N202 dans les Chapsules d’événement !
+9755|Projet scientifique : Insectoïdes ④<br>Obtiens 1 Œuf ancien : N208 dans les Chapsules d’événement !
+9756|L’été revient, Sem. 1 ① : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
+9757|L’été revient, Sem. 1 ② : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
+9758|L’été revient, Sem. 1 ③ : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
+9759|L’été revient, Sem. 1 ④ : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
+9760|L’été revient, Sem. 2 ① : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)|L’été revient, Sem. 2 a été ajouté<br>à tes missions spéciales !
+9761|L’été revient, Sem. 2 ② : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
+9762|L’été revient, Sem. 2 ③ : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
+9763|L’été revient, Sem. 2 ④ : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
+9764|Crédit supplémentaire : Termine Le masque et le bébé<br>* Le niveau suite doit être terminé.
+9765|Crédit supplémentaire : Termine Prince et revenant<br>* Le niveau suite doit être terminé.
+9766|L’été revient, Sem. 3 ① : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)|L’été revient, Sem. 3 a été ajouté<br>à tes missions spéciales !
+9767|L’été revient, Sem. 3 ② : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
+9768|L’été revient, Sem. 3 ③ : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
+9769|L’été revient, Sem. 3 ④ : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
+9770|Crédit supplémentaire : Termine Reine et saint<br>* Le niveau suite doit être terminé.
+9771|Crédit supplémentaire : Termine Au fond du marais<br>* À terminer avec 10 Chats spéciaux.
 9668|【Progression】Ouvre une Chapsule %d fois ! (%d sur %d)<br>Obtiens et utilise un ticket Chapsule gratuit chaque jour.|Ajout de missions de Progression<br>aux missions spéciales !
 9669|【Progression】<br>Termine %d niveau(x) de The Battle Cats. (%d sur %d)
 9670|【Progression】Réussis %d expéditions avec Gamatoto !<br>(Termine 3 expéditions complètes vers n'importe quelle zone Gamatoto : %d sur %d)

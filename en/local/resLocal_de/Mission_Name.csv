@@ -931,7 +931,7 @@
 9502|[Invasionslevel] Limitierte Eventmission<br>Schließe „Z-Clionel erhebt sich!“ ab
 9503|[Invasionslevel] Limitierte Eventmission<br>Schließe „Die alte Königin“ ab
 9504|[Invasionslevel] Limitierte Eventmission<br>Schließe „Papuus Paradies“ ab
-9505|[Invasionslevel] Schließe „Die Schildkröte und das Baby“ ab<br>Schließe alle Level und EX-Level ab
+9505|[Invasionslevel] Schließe „Die Maske und das Baby“ ab<br>Schließe alle Level und EX-Level ab.
 9506|[Invasionslevel] Schließe „Der Prinz und die Wiedergängerin“ ab<br>Schließe alle Level und EX-Level ab
 9507|[Invasionslevel] Schließe „Die Königin und der Heilige“ ab<br>Schließe alle Level und EX-Level ab
 9508|Sommerhausaufgaben ④: Schließe den perfekten Aufsatz ab<br>Schließe %d Sommerferienkatzen-Level ab (%d/%d abgeschlossen).
@@ -978,10 +978,10 @@
 9542|Straße zur Einigkeit ⑤:<br>Schließe „Straße zur Einigkeit 2“, Level 1 ab!|Straße-zur-Einigkeit-⑤-Missionen wurden<br>den Spezialmissionen hinzugefügt!
 9543|Straße zur Einigkeit ⑥:<br>Schließe „Letzte Schlacht! Der rebellische König“ Level 1 ab!|Straße zur Einigkeit-⑥-Missionen wurden<br>den Spezialmissionen hinzugefügt!
 72|Straße-zur-Einigkeit-Mission<br>Schließe während des Events Katzenimperium Kapitel 1 ab.
-9544|Superknifflige Mission 1: Schließe „Tiefen meines<br>Herzens“ Level 6 nur mit ≤ 1000¢-Einheiten ab!|Superknifflige Missionen 1 und 2<br>wurden den Spezialmissionen hinzugefügt!
+9544|Superknifflige Mission 1: Schließe „Tiefen meines<br>Herzens“ Level 6 nur mit ≥ 1000¢-Einheiten ab!|Superknifflige Missionen 1 und 2<br>wurden den Spezialmissionen hinzugefügt!
 9545|Superknifflige Mission 2: Schließe Level 6 von<br>„Gelatinemine“ mit mind. 9 norm. Einheiten ab!|
 9546|Superknifflige Mission 3: Schließe Level 6 von<br>„Uraltes Waldlabyrinth“ mit mind. 8 superselt. Einheiten ab!|Superknifflige Missionen 3 und 4<br>wurden den Spezialmissionen hinzugefügt!
-9547|Superknifflige Mission 4: Schließe „Behemothgipfel“ Level 6 nur mit ≤ 2000¢-Einheiten ab!|
+9547|Superknifflige Mission 4<br>: Schließe „Behemothgipfel“ Level 6 nur mit ≤ 2000¢-Einheiten ab!|
 9548|Superknifflige Mission 5: Schließe Level 1 von<br>„Heiliger Wald“ mit maximal 5 Einheiten ab!|Superknifflige Mission 5<br>wurde den Spezialmissionen hinzugefügt!
 9549|Superknifflige Mission 6: Schließe Level 1 von<br>„Nullfeld“ mit mind. 9 seltenen Einheiten ab!|Superknifflige Mission 6<br>wurde den Spezialmissionen hinzugefügt!
 73|Doppeltippe auf einen Schatz, um zum Level zu springen.<br>Öffne die Schatzliste in der Katzenbasis.
@@ -1163,6 +1163,54 @@
 9721|[Juni-Braut des Teufels]<br>%d Level von  „#3 ??? der 13.“ schaffen (%d/%d)
 9722|[Juni-Braut des Teufels]<br>%d „#4 Maunzerdorf“-Level schaffen (%d von %d)|„Juni-Braut des Teufels“-Missionen<br>wurden den Spezialmissionen hinzugefügt!
 9723|[Juni-Braut des Teufels]<br>%d „#4 Maunzerdorf“-Level schaffen (%d von %d)
+9724||
+9725|
+9726|
+9727|
+9728|
+9729||
+9730||
+9731|Resortmanager ①: Projekt-Team ①<br>Erhalte 3 Charaktere aus den Eventkapseln!|Resortmanager ①<br>wurde zu den Spezialmissionen hinzugefügt!
+9732|Resortmanager ①: Projekt-Team ②<br>Erhalte 5 Charaktere aus den Eventkapseln!
+9733|Resortmanager ①: Projekt-Team ③<br>Erhalte 7 Charaktere aus den Eventkapseln!
+9734|Resortmanager ①: Wertermittlung ①<br>Schließe „Befehle eines Milliardärs“ %d-mal ab.
+9735|Resortmanager ①: Wertermittlung ②<br>Schließe „Befehle eines Milliardärs“ %d-mal ab (%d/%d).
+9736|Paradies, Woche 1 ①: Schließe %d Level ab.<br>Abschlüsse aller Level zählen! (%d/%d)
+9737|Paradies, Woche 1 ②: Schließe %d Level ab.<br>Abschlüsse aller Level zählen! (%d/%d)
+9738|Paradies, Woche 1 ③: Schließe %d Level ab.<br>Abschlüsse aller Level zählen! (%d/%d)
+9739|Resortmanager ②: Promi-Leben ①<br>Schließe „Extravagantes Resort“ %d-mal ab.|Resortmanager ②<br>wurde zu den Spezialmissionen hinzugefügt!
+9740|Resortmanager ②: Promi-Leben ②<br>Schließe „Extravagantes Resort“ %d-mal ab (%d/%d).
+9741|Resortmanager ②: Schicksalshafte Entscheidung ①<br>Schließe „Jokerkreuzung“ %d-mal ab.
+9742|Resortmanager ②: Schicksalshafte Entscheidung ②<br>Schließe „Jokerkreuzung“ %d-mal ab (%d/%d).
+9743|Paradies, Woche 2 ①: Schließe %d Level ab.<br>Abschlüsse aller Level zählen! (%d/%d)
+9744|Paradies, Woche 2 ②: Schließe %d Level ab.<br>Abschlüsse aller Level zählen! (%d/%d)
+9745|Paradies, Woche 2 ③: Schließe %d Level ab.<br>Abschlüsse aller Level zählen! (%d/%d)
+9746|Resortmanager ③: Wohltuende Heilung ①<br>Schließe „Paradiesische Sauna“ %d-mal ab.|Resortmanager ③<br>wurde zu den Spezialmissionen hinzugefügt!
+9747|Resortmanager ③: Wohltuende Heilung ②<br>Schließe „Paradiesische Sauna“ %d-mal ab (%d/%d).
+9748|Paradies, Woche 3 ①: Schließe %d Level ab.<br>Abschlüsse aller Level zählen! (%d/%d)
+9749|Paradies, Woche 3 ②: Schließe %d Level ab.<br>Abschlüsse aller Level zählen! (%d/%d)
+9750|Paradies, Woche 3 ③: Schließe %d Level ab.<br>Abschlüsse aller Level zählen! (%d/%d)
+9751|Forschungsprojekt: Insektoiden <br>Schließe alle Missionen von ① bis ④ ab!|Forschungsprojekt<br>wurde zu den Spezialmissionen hinzugefügt!
+9752|Forschungsprojekt: Insektoiden ①<br>Erhalte 1 Kabutokatze aus den Eventkapseln!
+9753|Forschungsprojekt: Insektoiden ②<br>Erhalte 1 Kuwagatakatze aus den Eventkapseln!
+9754|Forschungsprojekt: Insektoiden ③<br>Erhalte 1 Uraltes Ei: N202 aus den Eventkapseln!
+9755|Forschungsprojekt: Insektoiden ④<br>Erhalte 1 Uraltes Ei: N208 aus den Eventkapseln!
+9756|Der Sommer ist wieder da, Woche 1 ①: Schließe %d Level ab.<br>Abschlüsse aller Level zählen! (%d/%d)
+9757|Der Sommer ist wieder da, Woche 1 ②: Schließe %d Level ab.<br>Abschlüsse aller Level zählen! (%d/%d)
+9758|Der Sommer ist wieder da, Woche 1 ③: Schließe %d Level ab.<br>Abschlüsse aller Level zählen! (%d/%d)
+9759|Der Sommer ist wieder da, Woche 1 ④: Schließe %d Level ab.<br>Abschlüsse aller Level zählen! (%d/%d)
+9760|Der Sommer ist wieder da, Woche 2 ①: Schließe %d Level ab.<br>Abschlüsse aller Level zählen! (%d/%d)|Der Sommer ist wieder da, Woche 2<br>wurde zu den Spezialmissionen hinzugefügt!
+9761|Der Sommer ist wieder da, Woche 2 ②: Schließe %d Level ab.<br>Abschlüsse aller Level zählen! (%d/%d)
+9762|Der Sommer ist wieder da, Woche 2 ③: Schließe %d Level ab.<br>Abschlüsse aller Level zählen! (%d/%d)
+9763|Der Sommer ist wieder da, Woche 2 ④: Schließe %d Level ab.<br>Abschlüsse aller Level zählen! (%d/%d)
+9764|Fleißarbeit: Schließe „Die Maske und das Baby“ ab<br>* Auch das Folgelevel muss abgeschlossen werden.
+9765|Fleißarbeit: Schließe „Der Prinz und die Wiedergängerin“ ab<br>* Auch das Folgelevel muss abgeschlossen werden.
+9766|Der Sommer ist wieder da, Woche 3 ①: Schließe %d Level ab.<br>Abschlüsse aller Level zählen! (%d/%d)|Der Sommer ist wieder da, Woche 3<br>wurde zu den Spezialmissionen hinzugefügt!
+9767|Der Sommer ist wieder da, Woche 3 ②: Schließe %d Level ab.<br>Abschlüsse aller Level zählen! (%d/%d)
+9768|Der Sommer ist wieder da, Woche 3 ③: Schließe %d Level ab.<br>Abschlüsse aller Level zählen! (%d/%d)
+9769|Der Sommer ist wieder da, Woche 3 ④: Schließe %d Level ab.<br>Abschlüsse aller Level zählen! (%d/%d)
+9770|Fleißarbeit: Schließe „Die Königin und der Heilige“ ab.<br>* Auch das Folgelevel muss abgeschlossen werden.
+9771|Fleißarbeit: Schließe „Grund des Sumpfs“ ab.<br>* Muss mit 10 Sonderkatzen abgeschlossen werden.
 9668|(Fortschritt) Ziehe %d Katzenkapseln! (%d von %d)<br>Hol dir täglich ein Gratis-Katzenticket.|Fortschritts-Missionen wurden<br>den Spezialmissionen hinzugefügt!
 9669|(Fortschritt)<br>Schließe %d beliebige(s) Battle-Cats-Level ab. (%d von %d)
 9670|(Fortschritt) Schicke Gamatoto auf %d<br>erfolgreiche Expeditionen! (%d von %d)

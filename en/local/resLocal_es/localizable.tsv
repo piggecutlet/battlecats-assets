@@ -1192,7 +1192,7 @@ fragment_bonus	¡Obtén un fragmento de platino de regalo<br>al abrir ${gatyaNum
 applang	en
 equipment_error	Este talento solo se puede usar si la unidad<br>ya tiene la habilidad «%@: %@».
 scratch_message	Has ganado esto: ¡%s x%d!
-scratch_SNS_000	¡He ganado %d Friskas en #BattleCatsScratcher!<br>Prueba suerte una vez a la semana y podrás llevarte un premio increíble.<br><br>#TheBattleCats
+scratch_SNS_000	¡He ganado %d Friskas en #BattleCatsScratcher!<br>Prueba suerte una vez a la semana y podrás llevarte un premio increíble.<br><br>#TheBattleCats #BattleCats #CatScratcher #CatsOfSummer2026
 item_pack_name_39	Lote de fiesta
 potential_skill_name57	Objetivo: aku
 assault_skip	【Recuperación casi terminada...】<br><flash>¡Ya has recuperado una oportunidad!</flash><br>¡Pronto podrás enfrentarte a más fases!<br><color=255,255,0>Oportunidades disponibles: 1/${countNum} ${assaultWord}</color>
@@ -1271,7 +1271,7 @@ scheme_item_param_77
 AccountDelete_error01	No se pudo generar el código.<br>Comprueba tu conexión a Internet.
 AccountDelete_error02	No se pudo eliminar la cuenta.<br>Comprueba tu conexión a Internet.
 AccountDelete_error03	El código ha caducado.<br>Empieza otra vez desde el principio.
-boost_message	<color=255,0,255>Acelerador</color><br><color=0,0,0>Aumenta la velocidad de batalla cuando quieras.<br>Gasta un acelerador para duplicar la velocidad.<br>Toca el icono durante la batalla para cambiar<br>entre NO, vel. x2 y x3.</color>
+boost_message	<color=255,0,255>Acelerador</color><br><color=0,0,0>Aumenta la velocidad de batalla cuando quieras.<br>Gasta un acelerador para triplicar la velocidad.<br>Toca el icono durante la batalla para cambiar<br>entre NO, vel. x2 y x3.</color>
 item_possession	<color=178,178,178>(Cantidad: ${itemNum1} → ${itemNum2})</color>
 stage_restriction_charagroup_7	World Trigger Collab Unit
 slot_remove	Se borrarán múltiples unidades de la formación de combate.
@@ -1529,8 +1529,8 @@ BonusNameLabel000	Desgastar
 gama_collabo_04_charatext	
 gama_collabo_04_name	
 gama_collabo_04_popup	
-item_pack_name_89	Compra: oferta doble de platino parte 1
-item_pack_name_90	Compra: oferta doble de platino parte 2
+item_pack_name_89	Compra: Doble oferta de platino pt. 1
+item_pack_name_90	Compra: Doble oferta de platino pt. 2
 leadershipreturn_pop1	¿Quieres huir de la batalla?<br><color=255,255,0>Recuperarás la energía gastada.</color>
 leadershipreturn_pop2	No se pueden utilizar continuaciones en esta fase.<br>Recuperarás la energía gastada.
 leadershipreturn_pop3	Recuperarás la energía gastada en esta fase<br>tras la derrota o la huida.<color=255,255,0>No recuperarás la energía gastada en fases especiales.</color>
@@ -1584,7 +1584,7 @@ filter_equipment_tutorial	Filtra las unidades<br>con orbes de talento equipados 
 filter_option_description5	<color=0,0,0>Muestra las unidades que tendrán<br>el rasgo/efecto seleccionado<br>después de mejorar/mutar.</color>
 ScatCPU_ad_confirm	¡Obtén más XP al superar la fase!<br>¿Quieres ver un anuncio<br>para ganar el <flash>doble de ${xp} XP</flash>?
 ScatCPU_ad_result	¡Llévate <flash>más XP </flash> al superar la fase!<br> <flash>${xp}</flash> XP
-scratch_SNS_005	
+scratch_SNS_005	¡He ganado %d Friskas en #BattleCatsScratcher!<br>Prueba suerte una vez a la semana y podrás llevarte un premio increíble.<br><br>#TheBattleCats #BattleCats #CatScratcher #CatsOfSummer2026
 slot_SNS_004	¡Conseguí %d de Friskas en las Tragagatos de #TheBattleCats!<br><br>#BattleCats #11AñosdeTheBattleCats
 SpecialRuleExplanation012	【Despliegue limitado】<br>Solo pueden desplegarse 50 unidades<br>durante la batalla, pero<br>su tiempo de recuperación es el mismo.
 SpecialRuleName012	Despliegue limitado
@@ -1630,7 +1630,7 @@ backstage_clear	<color=255,255,0>Las unidades que se usen en este equipo<br>no s
 backstage_clear_limit	<flash>¡Has superado todas las fases abismales!</flash><br>※Has alcanzado el máximo de veces que se pueden superar.<br>Las unidades de tus próximos equipos<br>no se agotarán si no reinicias el contador.
 slot_autoset_confirm	¿Quieres sobrescribir tu equipo actual?
 clear_count_tutorial	<color=255,255,0>Premios por compl. fases abismales</color><br>¡Gana premios según el número de veces que superes<br>la fase! Toca el botón en la parte inferior izquierda<br>de la pantalla de selección de fase para saber más.
-clear_count_reward	${clearNum} veces
+clear_count_reward	${clearNum}x
 clear_count_reward_title	Premios por compl. fases
 clear_count_reward_title2	Superado
 potential_skill_name68	Contrarréplicas
@@ -1664,8 +1664,13 @@ SpecialRuleName018	Inflación: megarraro
 speedup_message	<color=255,0,255>Acelerador</color><br><color=0,0,0>Duplica la velocidad de batalla.<br>Toca el icono durante la batalla para cambiar<br>entre NO, vel. x2.</color>
 tutorial_popup0	Aún no puedes enfrentarte a esta fase.<br>Supera «Mongolia» para continuar.
 tutorial_popup1	Aún no puedes enfrentarte a esta fase.<br>Supera «China» para continuar.
-tutorial_popup2	Se ha seleccionado el acelerador.<br>Mientras está seleccionado, puedes cambiar<br>entre NO, vel. x2 y x3 durante la batalla.</color>
+tutorial_popup2	<color=255,255,0>Cómo usar los objetos</color><br>¿Quieres usar los objetos por los que has luchado?<br>¡Pues pulsa el icono de abajo!<br>*Solo se puede seleccionar antes de la batalla.
 tutorial_popup3	Toca el icono Bloquear de la derecha<br>para mantener el artículo seleccionado<br>y no tener que hacerlo cada vez.
 tutorial_popup4	No tienes suficiente XP...
 unlock_popup_message_158	<flash>¡Ha aparecido un nuevo héroe!</flash><br>¡Actívalo en el menú «Mejorar»!
 unlock_popup_message_159	
+item_pack_name_92	
+SpecialRuleName020	Gasta un millón
+Stage_battle00	¿Retirarte?<br>¡Ríndete para reembolsarte tus artículos (en 10 s)
+Stage_lock00	Faltan objetos.
+unlock_popup_message_160	¡<flash>Misidiós</flash> ha aparecido en la sección Gatos Especiales!<br>Desbloquéalo en la pantalla de Mejora.<br>*¡Puede que te saque de un apuro en alguna batalla...!

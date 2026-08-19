@@ -931,7 +931,7 @@
 9502|[Livello di invasione] Missione evento limitato<br>Supera Il ritorno di Z-Onel!
 9503|[Livello di invasione] Missione evento limitato<br>Supera Vecchia regina
 9504|[Livello di invasione] Missione evento limitato<br>Supera Paradiso di Papuu
-9505|[Livello di invasione] Supera La tartaruga e il bebè<br>Supera tutti i livelli e i livelli EX per completare
+9505|[Livello di invasione] Supera La maschera e il bebè<br>Supera tutti i livelli e i livelli EX per completare
 9506|[Livello di invasione] Supera Il principe e il fantasma<br>Supera tutti i livelli e i livelli EX per completare
 9507|[Livello di invasione] Supera La regina e il santo<br>Supera tutti i livelli e i livelli EX per completare
 9508|Compiti per le vacanze ④: Scrivi un tema perfetto<br> Supera %d livelli di Gatti estivi (%d/%d superati)
@@ -978,7 +978,7 @@
 9542|La via dell'unificazione ⑤: <br>supera "La via dell'unificazione p.2", livello 1!|Missioni La via dell'unificazione ⑤ aggiunte<br>alle Missioni speciali!
 9543|La via dell'unificazione ⑥：<br>Supera il livello 1 di "Battaglia finale! Il re ribelle"!|Missioni La via dell'unificazione ⑥ aggiunte<br>alle Missioni speciali!
 72|Missione La via dell'unificazione: supera<br>Impero dei Gatti Cap. 1 durante l'evento per completare.
-9544|Missione super tosta 1: supera il livello 6 di "Nel profondo del mio cuore" schierando<br>solo unità dal costo di 1000¢ o inferiore!|Missioni super toste 1 e 2 aggiunte<br>alle missioni speciali!
+9544|Missione super difficile 1: supera il livello 6<br>di "Nel profondo del mio cuore" schierando solo unità dal costo di 1000¢ o superiore!|Missioni super toste 1 e 2 aggiunte<br>alle missioni speciali!
 9545|Missione super tosta 2: supera il livello 6 di "Miniere di gelatina" con 9 o più<br>unità normali nella tua formazione!|
 9546|Missione super tosta 3: supera il livello 6 di "Labirinto antica foresta" con 8 o più<br>unità Super rare nella tua formazione!|Missioni super toste 3 e 4 aggiunte<br>alle missioni speciali!
 9547|Missione super tosta 4: supera il livello 6 di "Vetta del Behemoth" schierando<br>solo unità dal costo di 2000¢ o inferiore!|
@@ -987,7 +987,7 @@
 73|Tocca 2 volte un Tesoro nella Lista per saltare al livello.<br>Apri la Lista tesori dalla Base felina.
 74|Tocca l'icona nemico nella schermata di sel. liv. e apri la<br>Guida ai nemici. Tocca nome liv. sup. per mostrare i nemici.
 75|Usa Vitamiao A per ripristinare i tentativi di un livello.<br>Usa Vitamiao A in un livello leggendario.
-76|Tocca 2 volte Gatto CPU per saltare il livello.<br>I livelli superati nella schermata di selezione livello possono essere saltati.
+76|Tocca 2 volte Gatto CPU per saltare il livello.<br>I livelli superati nella schermata<br>di selezione livello possono essere saltati.
 77|Tieni premuto il puls. Equipaggia nella schermata sel. liv.<br>Tieni premuto per equip. la form. con cui hai sup. liv.
 78|Salta a un livello dalla schermata di evoluzione.<br>Tocca un materiale evol. dalla schermata dal menu Potenzia.
 79|Controlla il Codice di richiesta.<br>Tocca in alto a sin. menu titolo o in basso a sin. menu Opzioni.
@@ -1163,6 +1163,54 @@
 9721|[Sposa di giugno del diavolo]: supera %d o più livelli di "03: ??? 13"<br>durante Sposa di giugno del diavolo. (%d di %d)
 9722|[Sposa di giugno del diavolo]: supera %d o più livelli di "04: Villaggio ululante"<br>durante Sposa di giugno del diavolo. (%d di %d)|Missioni Sposa di giugno del diavolo aggiunte<br>alle missioni speciali!
 9723|[Sposa di giugno del diavolo]: supera %d o più livelli di "04: Villaggio ululante"<br>durante Sposa di giugno del diavolo. (%d di %d)
+9724||
+9725|
+9726|
+9727|
+9728|
+9729||
+9730||
+9731|Magnate dei resort ①: personale del progetto ①<br>Ottieni 3 personaggi dalle capsule evento!|Magnate dei resort ① è stato aggiunto<br>alle tue missioni speciali!
+9732|Magnate dei resort ②: personale del progetto ①<br>Ottieni 5 personaggi dalle capsule evento!
+9733|Magnate dei resort ③: personale del progetto ①<br>Ottieni 7 personaggi dalle capsule evento!
+9734|Magnate dei resort ①: valutazione valore ①<br>Supera "Asta del miliardario" %d volte
+9735|Magnate dei resort ②: valutazione valore ①<br>Supera "Asta del miliardario" %d volte (%d/%d)
+9736|Paradiso, settimana 1 ①: supera %d livelli<br>Vale qualsiasi livello completato! (%d/%d)
+9737|Paradiso, settimana 1 ②: supera %d livelli<br>Vale qualsiasi livello completato! (%d/%d)
+9738|Paradiso, settimana 1 ③: supera %d livelli<br>Vale qualsiasi livello completato! (%d/%d)
+9739|Magnate dei resort ②: vita da celebrità ①<br>Supera "Resort stravagante" %d volte|Magnate dei resort ② è stato aggiunto<br>alle tue missioni speciali!
+9740|Magnate dei resort ②: vita da celebrità ②<br>Supera "Resort stravagante" %d volte (%d/%d)
+9741|Magnate dei resort ②: decisione fatidica ①<br>Supera "Snodo del jackpot" %d volte
+9742|Magnate dei resort ②: decisione fatidica ②<br>Supera "Snodo del jackpot" %d volte (%d/%d)
+9743|Paradiso, settimana 2 ①: supera %d livelli<br>Vale qualsiasi livello completato! (%d/%d)
+9744|Paradiso, settimana 2 ②: supera %d livelli<br>Vale qualsiasi livello completato! (%d/%d)
+9745|Paradiso, settimana 2 ③: supera %d livelli<br>Vale qualsiasi livello completato! (%d/%d)
+9746|Magnate dei resort ③: cure rigeneranti ①<br>Supera "Sauna del paradiso" %d volte|Magnate dei resort ③ è stato aggiunto<br>alle tue missioni speciali!
+9747|Magnate dei resort ③: cure rigeneranti ②<br>Supera "Sauna del paradiso" %d volte (%d/%d)
+9748|Paradiso, settimana 3 ①: supera %d livelli<br>Vale qualsiasi livello completato! (%d/%d)
+9749|Paradiso, settimana 3 ②: supera %d livelli<br>Vale qualsiasi livello completato! (%d/%d)
+9750|Paradiso, settimana 3 ③: supera %d livelli<br>Vale qualsiasi livello completato! (%d/%d)
+9751|Progetto di scienze: insettoidi <br>completa tutte le missioni fino al ① a ④!|Progetto di scienze è stato aggiunto<br>alle tue missioni speciali!
+9752|Progetto di scienze: insettoidi ①<br>Ottieni 1 Gatto Kabuto dalle capsule evento!
+9753|Progetto di scienze: insettoidi ②<br>Ottieni 1 Gatto Kuwagata dalle capsule evento!
+9754|Progetto di scienze: insettoidi ③<br>Ottieni 1 Uovo antico N202 dalle capsule evento!
+9755|Progetto di scienze: insettoidi ④<br>Ottieni 1 Uovo antico N208 dalle capsule evento!
+9756|Torna l'estate, settimana 1 ①: supera %d livelli<br>Vale qualsiasi livello completato! (%d/%d)
+9757|Torna l'estate, settimana1 ②: supera %d livelli<br>Vale qualsiasi livello completato! (%d/%d)
+9758|Torna l'estate, settimana 1 ③: supera %d livelli<br>Vale qualsiasi livello completato! (%d/%d)
+9759|Torna l'estate, settimana 1 ④: supera %d livelli<br>Vale qualsiasi livello completato! (%d/%d)
+9760|Torna l'estate, settimana 2 ①: supera %d livelli<br>Vale qualsiasi livello completato! (%d/%d)|Torna l'estate, settimana 2 è stato aggiunto<br>alle tue missioni speciali!
+9761|Torna l'estate, settimana 2 ②: supera %d livelli<br>Vale qualsiasi livello completato! (%d/%d)
+9762|Torna l'estate, settimana 2 ③: supera %d livelli<br>Vale qualsiasi livello completato! (%d/%d)
+9763|Torna l'estate, settimana 2 ④: supera %d livelli<br>Vale qualsiasi livello completato! (%d/%d)
+9764|Crediti extra: supera "La maschera e il bebè"<br>*Devi superare il livello di continuazione.
+9765|Crediti extra: supera "Il principe e il fantasma"<br>*Devi superare il livello di continuazione.
+9766|Torna l'estate, settimana 3 ①: supera %d livelli<br>Vale qualsiasi livello completato! (%d/%d)|Torna l'estate, settimana 3 è stato aggiunto<br>alle tue missioni speciali!
+9767|Torna l'estate, settimana 3 ②: supera %d livelli<br>Vale qualsiasi livello completato! (%d/%d)
+9768|Torna l'estate, settimana 3 ③: supera %d livelli<br>Vale qualsiasi livello completato! (%d/%d)
+9769|Torna l'estate, settimana 3 ④: supera %d livelli<br>Vale qualsiasi livello completato! (%d/%d)
+9770|Crediti extra: supera "La regina e il santo"<br>*Devi superare il livello di continuazione.
+9771|Crediti extra: supera "Fondo della palude"<br>*Devi superarlo con 10 Gatti speciali.
 9668|【Progresso】Sorteggia una Miaocapsula %d volte! (%d di %d)<br>(Un miaobiglietto gratis al giorno da usare una volta)|Missioni progresso aggiunte<br>alle Missioni speciali!
 9669|【Progresso】<br>Supera %d livello/i di The Battle Cats. (%d di %d)
 9670|【Progresso】Manda Gamatoto in %d spedizioni riuscite!<br>(Completa 3 spedizioni in un'area Gamatoto: %d su %d)

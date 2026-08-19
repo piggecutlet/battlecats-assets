@@ -1192,7 +1192,7 @@ fragment_bonus	Hol dir mit jeder ${gatyaNumber}er-Kapselziehung<br>ein Platinspl
 applang	en
 equipment_error	Dieses Talent kann nur verwendet werden, wenn die Einheit<br>bereits die Fähigkeit "%@ gg. %@" hat.
 scratch_message	Du erhältst %s x %d
-scratch_SNS_000	Ich habe %d Katzenbatzen beim #BattleCatsScratcher gewonnen!<br>Jede Woche eine Chance auf einen großartigen Preis!<br><br>#TheBattleCats
+scratch_SNS_000	Ich habe %d Katzenbatzen beim #BattleCatsScratcher gewonnen!<br>Jede Woche eine Chance auf einen großartigen Preis!<br><br>#TheBattleCats #BattleCats #CatScratcher #CatsOfSummer2026
 item_pack_name_39	Partypaket
 potential_skill_name57	Ziel: Aku
 assault_skip	(Es geht schon besser ...)<br><flash>1 Abschlusschance aufgefüllt!</flash><br>Du kehrst zur Levelauswahl zurück.<br><color=255,255,0>Verfügbare Abschlusschancen: 1/${countNum} ${assaultWord}</color>
@@ -1271,7 +1271,7 @@ scheme_item_param_77
 AccountDelete_error01	Code konnte nicht erzeugt werden.<br>Überprüfe deine Netzwerkverbindung.
 AccountDelete_error02	Konto konnte nicht gelöscht werden.<br>Überprüfe deine Netzwerkverbindung.
 AccountDelete_error03	Der Code ist abgelaufen.<br>Bitte starte den Vorgang neu.
-boost_message	<color=255,0,255>Beschleuniger</color><br><color=0,0,0>Erhöhe das Kampftempo jederzeit!<br>Verwende einen Beschleuniger-Gegenstand für das 2-fache Tempo!<br>Tippe während des Kampfes auf das Symbol,<br>um zwischen AUS, 2x und 3x Tempo umzuschalten.</color>
+boost_message	<color=255,0,255>Beschleuniger</color><br><color=0,0,0>Erhöhe das Kampftempo jederzeit!<br>Verwende einen Beschleuniger-Gegenstand für das 3-fache Tempo!<br>Tippe während des Kampfes auf das Symbol,<br>um zwischen AUS, 2x und 3x Tempo umzuschalten.</color>
 item_possession	<color=178,178,178>(# Held: ${itemNum1} → ${itemNum2})</color>
 stage_restriction_charagroup_7	World Trigger Collab Unit
 slot_remove	Alle Einheiten werden aus der Kampfformation entfernt.
@@ -1529,8 +1529,8 @@ BonusNameLabel000	Schwächen
 gama_collabo_04_charatext	
 gama_collabo_04_name	
 gama_collabo_04_popup	
-item_pack_name_89	Kaufe: Platin-Doppelangebot, Teil 1
-item_pack_name_90	Kaufe: Platin-Doppelangebot, Teil 2
+item_pack_name_89	Kaufe: Plat.-Doppelangebot, Teil 1!
+item_pack_name_90	Kaufe: Plat.-Doppelangebot, Teil 2!
 leadershipreturn_pop1	Aus dem Kampf fliehen?<br><color=255,255,0>Ausgegebene Energie wird wiederhergestellt.</color>
 leadershipreturn_pop2	In diesem Level können keine Fortsetzungen eingesetzt werden.<br>Ausgegebene Energie wird wiederhergestellt.
 leadershipreturn_pop3	In diesem Level ausgegebene Energie wird<br>bei Niederlage oder Flucht wiederhergestellt.<color=255,255,0>Für Sonderlevel ausgegebene Energie wird nicht wiederhergestellt.</color>
@@ -1584,7 +1584,7 @@ filter_equipment_tutorial	Filtere die angezeigten Einheiten mit<br>ausgerüstete
 filter_option_description5	<color=0,0,0>Zeigt Katzen an, die das ausgewählte<br>Ziel/den ausgewählten Effekt<br>nach der Entwicklung/Verstärkung haben.</color>
 ScatCPU_ad_confirm	Chance auf XP-Schub bei Levelabschluss!<br>Eine Anzeige ansehen und folgende Belohnung für Levelabschluss erhalten:<br><flash>${xp} XP x2</flash>?
 ScatCPU_ad_result	<flash>MEHR</flash> XP beim Levelabschluss!<br><flash>${xp}</flash> XP
-scratch_SNS_005	
+scratch_SNS_005	Ich habe %d Katzenbatzen beim #BattleCatsScratcher gewonnen!<br>Jede Woche eine Chance auf einen großartigen Preis!<br><br>#TheBattleCats #BattleCats #CatScratcher #CatsOfSummer2026
 slot_SNS_004	Ich habe %d Katzenbatzen bei den Wildkatzen-Slots in #TheBattleCats gewonnen!<br><br>#BattleCats #11YearsOfBattleCats
 SpecialRuleExplanation012	【Limitiert】<br>Während dieses Kampfes können nur 50 Einheiten<br>entsendet werden, aber<br>alle Einheiten haben dieselbe Erholungszeit.
 SpecialRuleName012	Limitiert
@@ -1630,7 +1630,7 @@ backstage_clear	<color=255,255,0>Für dieses Team ausgewählte Einheiten können
 backstage_clear_limit	<flash>Alle Abgrund-Level abgeschlossen!</flash><br>※Die max. Anzahl an Abschlüssen wurde erreicht.<br>Zukünftige Teammitglieder erschöpfen nicht,<br>solange die Anzahl der Abschlüsse nicht zurückgesetzt wird.
 slot_autoset_confirm	Möchtest du dein aktuelles Team mit<br>einem neuen überschreiben?
 clear_count_tutorial	<color=255,255,0>Abgrund-Levelabschlussbelohnungen</color><br>Erhalte Belohnungen abhängig davon,<br>wie oft du dieses Level abschließt! Tippe unten links in der Levelauswahl,<br>um mehr zu erfahren.
-clear_count_reward	${clearNum}-mal
+clear_count_reward	${clearNum} x
 clear_count_reward_title	Abschlussbelohnungen
 clear_count_reward_title2	Geschafft
 potential_skill_name68	Konter-Zufallsangriff
@@ -1664,8 +1664,13 @@ SpecialRuleName018	Inflation: Megaselten
 speedup_message	<color=255,0,255>Beschleuniger</color><br><color=0,0,0>Verdoppelt das Kampftempo!<br>Tippe während des Kampfes auf das Symbol,<br>um zwischen AUS und 2x Tempo umzuschalten.</color>
 tutorial_popup0	Dieses Level kannst du noch nicht versuchen!<br>Schließe „Mongolei“ ab, um fortzufahren!
 tutorial_popup1	Dieses Level kannst du noch nicht versuchen!<br>Schließe „China“ ab, um fortzufahren!
-tutorial_popup2	Der Beschleuniger-Gegenstand wurde ausgewählt.<br>Wenn Beschleuniger ausgewählt ist, kannst du während<br>des Kampfes zwischen AUS, 2x und 3x Tempo umschalten.</color>
+tutorial_popup2	<color=255,255,0>Einsatz von Gegenständen</color><br>Du möchtest deine wohlverdienten Kampfgegenstände einsetzen?<br>Tippe einfach auf das Symbol unten!<br>* Kann nur vor Kampfbeginn ausgewählt werden.
 tutorial_popup3	Tippe auf das Schloss-Symbol rechts, um den<br>Gegenstand ausgewählt zu lassen, damit du ihn<br>nicht jedes Mal neu auswählen musst!
 tutorial_popup4	Du hast nicht genug XP ...
 unlock_popup_message_158	<flash>Ein neuer Held ist erschienen!</flash><br>Aktiviere ihn im Verbesserungsmenü!
 unlock_popup_message_159	
+item_pack_name_92	
+SpecialRuleName020	Gib 1 Million aus
+Stage_battle00	Rückzug?<br>Brich jetzt ab und erhalte deine Gegenstände zurück! (Innerhalb von 10 Sek.)
+Stage_lock00	Nicht genügend Gegenstände.
+unlock_popup_message_160	Der <flash>Katzengott</flash> ist im Bereich Sonderkatzen aufgetaucht!<br>Schalte ihn im Bereich Verbesserungen frei!<br>* Er könnte dich bald im Kampf erretten …!
