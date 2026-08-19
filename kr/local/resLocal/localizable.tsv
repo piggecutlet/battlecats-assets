@@ -1204,7 +1204,7 @@ fragment_message	플래티넘 조각<br>10개를 모으면 플래티넘 티켓 1
 fragment_bonus	지금 ${gatyaNumber}회 연속 뽑기를 돌리면<br>플래티넘 조각 1개를 선물!<br>10개를 모으면<flash>플래티넘 티켓</flash>을 1장 획득할 수 있습니다.
 equipment_error	이 본능 구슬은 「%@에 %@」의 효과를 가진<br>캐릭터에만 장착할 수 있습니다.
 scratch_message	「%s」 %d개 획득!
-scratch_SNS_000	#냥코스크래치복권 에서 고양이 통조림 %d개 획득했다냥!<br>기간 중, 매주 도전 가능! 매주 참가하여 더 많은 고양이 통조림을 획득하자냥~!<br><br>#냥코대전쟁 #냥코스크래치
+scratch_SNS_000	#냥코스크래치복권 에서 고양이 통조림 %d개 획득했다냥!<br>기간 중, 매주 도전 가능! 매주 참가하여 더 많은 고양이 통조림을 획득하자냥~!<br><br>#냥코대전쟁 #냥코스크래치 #고양이의여름2026
 item_pack_name_39	감사 팩 구입
 potential_skill_name57	속성 악마
 assault_skip	【피로가 조금 회복되었다냥】<br><flash>클리어 가능 횟수가 1 회복되었습니다!</flash><br>스테이지 선택 화면으로 이동합니다<br><color=255,255,0>클리어 가능 횟수 1/${countNum} ${assaultWord}</color>
@@ -1649,7 +1649,7 @@ filter_equipment_tutorial	본능 구슬을 장착한 캐릭터가 표시됩니�
 filter_option_description5	<color=0,0,0>검색 조건으로 지정한 「타겟」 「효과/능력」이<br>진화 등의 파워 업으로 해방되는 캐릭터도<br>포함하여 표시됩니다</color>
 ScatCPU_ad_confirm	경험치 UP 찬스다냥!<br>스테이지 클리어 경험치를 동영상 광고 시청 후<br><flash>「XP+${xp}」×2</flash>로 하시겠습니까?
 ScatCPU_ad_result	스테이지 클리어 경험치 <flash>UP!!</flash><br>「XP+<flash>${xp}</flash>」
-scratch_SNS_005	
+scratch_SNS_005	#냥코스크래치복권 에서 고양이 통조림 %d개 획득했다냥!<br>기간 중, 매주 도전 가능! 매주 참가하여 더 많은 고양이 통조림을 획득하자냥~!<br><br>#냥코대전쟁 #냥코스크래치 #고양이의여름2026
 SpecialRuleExplanation012	【재고 수량 한정】<br>전투 1회 당 생산 가능한 캐릭터 수가 50개로 제한되며<br>모든 아군 캐릭터의 생산 스피드가 같아집니다
 SpecialRuleName012	재고 수량 한정
 talk_008_push	 '추석 기념 냥코 토크' 이어서 냥코와 이야기해보자냥~
@@ -1753,8 +1753,13 @@ SpecialRuleName018	울슈레 물가 폭등
 speedup_message	<color=0,0,0>스피드 업<br>전투 스피드가 2배속이 됩니다<br>전투 중 아이콘을 탭하여<br>ON/OFF 전환 가능</color>
 tutorial_popup0	해당 스테이지는 현재 도전할 수 없다냥<br>먼저 몽골부터 공략해 보자냥!
 tutorial_popup1	해당 스테이지는 현재 도전할 수 없다냥<br>먼저 중국부터 공략해 보자냥!
-tutorial_popup2	아이템을 사용하고 싶으면 아이콘을 탭하자냥<br>스피드 업은 선택한 속도로<br>전투가 시작되고 아이템을 사용하면<br>최대 3배속까지 전환할 수 있다냥
+tutorial_popup2	<color=255,255,0>아이템 사용 방법</color><br>획득한 아이템을 사용하고 싶을 땐<br>아래의 아이템 아이콘을 탭하자냥!<br>주의: 전투 개시 전에만 선택 가능
 tutorial_popup3	오른쪽의 「락해제」를 탭하면<br>아이템의 선택 상태를 유지해서<br>매번 선택하는 수고를 덜 수 있다냥
 tutorial_popup4	경험치가 부족합니다
 unlock_popup_message_158	<flash>새로운 캐릭터가 출현했습니다!</flash><br>파워 업 화면에서 획득할 수 있습니다
 unlock_popup_message_159	
+item_pack_name_92	
+SpecialRuleName020	백만 원의 행복
+Stage_battle00	전투를 중지할까요?<br>지금 중지하면 아이템을 소비하지 않습니다(10초 이내)
+Stage_lock00	아이템이 부족합니다
+unlock_popup_message_160	<flash>EX캐릭터 「신」 출현!</flash><br>파워 업 화면에서 획득할 수 있습니다<br>※전투가 안 풀릴 때 신의 힘을 빌릴 수 있을지도...?
