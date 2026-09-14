@@ -1763,3 +1763,40 @@ SpecialRuleName020	백만 원의 행복
 Stage_battle00	전투를 중지할까요?<br>지금 중지하면 아이템을 소비하지 않습니다(10초 이내)
 Stage_lock00	아이템이 부족합니다
 unlock_popup_message_160	<flash>EX캐릭터 「신」 출현!</flash><br>파워 업 화면에서 획득할 수 있습니다<br>※전투가 안 풀릴 때 신의 힘을 빌릴 수 있을지도...?
+scratch_SNS_006	#냥코스크래치복권 으로 고양이 통조림 %d개를 획득했다냥!<br>이벤트 기간 동안 최대 3번 도전 가능! 통조림을 잔뜩 가져가자냥~<br><br>#냥코대전쟁 #냥코스크래치 #1억2000만다운로드기념
+SpecialRuleExplanation019	【피버 러시】<br>전투 중에 획득한 이벤트 포인트에 따라 피버 게이지가 차오르며<br>게이지가 가득 차면 일정 시간 동안 「피버 상태」가 됩니다<br>피버 상태가 되면 캐릭터 생산 시간이 0이 됩니다
+SpecialRuleExplanation021	【EX 울트라 반값 세트】<br>EX의 생산 코스트가 절반이 되고<br>생산 시간이 30% 줄어들며<br>2개씩 생산됩니다
+SpecialRuleExplanation022	【레어도 대표단】<br>각 레어도마다 1개씩만 편성할 수 있습니다<br>각 캐릭터는 2개씩 생산됩니다
+SpecialRuleName019	피버 러시
+SpecialRuleName021	EX 울트라 반값 세트
+SpecialRuleName022	레어도 대표단
+vibration_error_popup	현재 사용 중인 기기 또는 OS는<br>진동 기능을 지원하지 않습니다
+map_stage_limit_variable_001	이 이상 플레이할 수 없다냥<br>다음 스테이지 해방까지 조금만 기다려 달라냥<br><color=255,255,0>해방 예정: ${year}-${month}-${day} ${hour}:${minute}</color>
+map_stage_limit_variable_error	이 이상 플레이할 수 없다냥<br>다른 스테이지를 플레이하자냥
+datetime_day	${day}일
+datetime_hour	${hour}시간
+datetime_minute	${minute}분
+point_sns	우리 냥코 군단이 %@에서 %d점을 획득했습니다. %s %s
+PointRulePageHeadline001	꼬꼬미 뮤직 페스티벌 설명
+PointRuleHeadline001	꼬꼬미 뮤직 페스티벌이란?
+PointRuleHeadline002	【이벤트 포인트 획득 방법】
+PointRuleHeadline003	【이벤트 포인트 획득 배율】
+PointRuleExplanation001	이벤트 기간 동안 획득한 이벤트 포인트에 따라 다양한 보상을 획득할 수 있습니다.<br>이벤트 포인트는 전용 스테이지를 플레이하면 얻을 수 있습니다.<br><br>이벤트 스테이지는 특별한 룰인 【피버: 베이비 러시】가 적용되어 있습니다.<br>자세한 내용은 아래를 확인해 주시기 바랍니다.<br><br>【피버: 베이비 러시】<br>전투 중에 획득한 이벤트 포인트에 따라 피버 게이지가 차오르며<br>게이지가 가득 차면 일정 시간 동안 피버가 발동됩니다.<br>피버 중에는 모든 캐릭터의 생산 시간이 0이 됩니다.
+PointRuleExplanation002	이벤트 포인트는 적을 쓰러뜨리거나 [생산 코스트×이벤트 포인트 획득 배율]에 따라 획득합니다.<br>이벤트 포인트 획득 배율은 생산 코스트와 스테이지마다 다르게 적용되며 자세한 내용은 【이벤트 포인트 획득 배율】 표를 확인해 주시기 바랍니다.<br>또한 본능으로 생산 코스트가 감소하더라도 감소 전의 생산 코스트를 기준으로 이벤트 포인트를 획득할 수 있습니다.
+Point_release_popup_001	꼬꼬미 뮤직 페스티벌<br>이벤트 포인트 상한이 ${Point}까지 해방되었습니다
+PointReleaseHeadline001	【이벤트 포인트 상한 해방 일자】
+PointReleaseExplanation001	${year}-${month}-${day}(${hour}:${minute}) 이벤트 포인트 ${Point}까지 해방
+point_fraud_error	기기의 시간이 변경되었을 가능성이 있어<br>이벤트 포인트를 획득할 수 없습니다<br>스테이지를 진행하시겠습니까?
+PointReward00	이벤트 포인트 보상<br>${itemName}+${itemNum}<br><flash>획득!!</flash>
+PointReward01	이벤트 포인트 보상<br>캐릭터 「${charaName}」<br><flash>획득!!</flash>
+PointReward02	이벤트 포인트 보상<br>로그인 보너스<br><flash>등급 업!</flash>
+PointRewardWeb00	${itemName} ${itemNum}장 획득
+PointRewardWeb01	${itemName} ${itemNum}개 획득
+PointRewardWeb02	${itemName} ${itemNum} 획득
+PointRewardWeb03	「${charaName}」 획득
+PointRewardWeb04	로그인 보너스 등급 업 <span style='color: red;'>※자세한 내용은 이벤트 공지를 확인해 주세요</span>
+point_stage_limit	이벤트 포인트가 최대치에 도달했습니다<br>※이벤트 포인트는 상한을 초과하여 획득할 수 없습니다
+PointRuletabletext001	스테이지${stageNo}<br>${stageName}
+PointRuletabletext002	${costNum1}원 ~ ${costNum2}원
+PointRuletabletext003	${costNum}원~
+PointRuletabletext004	포인트 획득 없음
