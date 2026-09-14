@@ -34,8 +34,8 @@
 1950	Reçois 3 œils-de-chat<br>ultra rares.
 3500	Les unités normales peuvent être améliorées<br>jusqu’au niveau max. +45.<br><span class="fs76">* Utilise des Chapsules pour les améliorer.</span>
 3550	Les unités normales peuvent être améliorées<br>jusqu’au niveau max. +50.<br><span class="fs76">* Utilise des Chapsules pour les améliorer.</span>
-3600	Les unités super rares maboules peuvent être améliorées<br>jusqu’au niveau 25.<br><span class="fs76">* Utilise de l’XP pour les améliorer.</span>
-3650	Les unités super rares maboules peuvent être améliorées<br>jusqu’au niveau 30.<br><span class="fs76">* Utilise de l’XP pour les améliorer.</span>
+3600	Les unités super rares maboules peuvent être améliorées<br>jusqu’au niveau 25.<br><span class="fs76">* Utilise de l’XP pour les améliorer !</span>
+3650	Les unités super rares maboules peuvent être améliorées<br>jusqu’au niveau 30.<br><span class="fs76">* Utilise de l’XP pour les améliorer !</span>
 4000	Reçois un ticket rare.
 4050	Les unités rares peuvent être améliorées<br>jusqu’au niveau max. +60.<br><span class="fs76">* Utilise des Chapsules rares pour les améliorer.</span>
 4100	Les unités super rares peuvent être améliorées<br>jusqu’au niveau max. +50.<br><span class="fs76">* Utilise des Chapsules rares pour les améliorer.</span>
@@ -341,3 +341,6 @@
 27700	Reçois 5 œils-de-chat légendaires.
 27800	Reçois 5 œils-de-chat spéciaux.
 27900	Reçois 5 œils-de-chat rares
+28000	Reçois 1 ticket rare
+28100	Reçois 5 œils-de-chat super rares
+28200	Reçois 5 œils-de-chat ultra rares

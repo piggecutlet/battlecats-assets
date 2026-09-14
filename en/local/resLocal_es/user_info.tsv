@@ -34,8 +34,8 @@
 1950	Ganas 3 gatojos megarraros.
 3500	Los gatos normales se pueden<br>mejorar 45 niveles extras.<br><span class="fs76">*¡Utiliza gatobolas!*</span>
 3550	Los gatos normales se pueden<br>mejorar 50 niveles extras.<br><span class="fs76">*¡Utiliza gatobolas!*</span>
-3600	Los gatos dementes superraros se pueden<br>mejorar hasta el nivel 25.<br><span class="fs76">*¡Utiliza XP!*</span>
-3650	Los gatos dementes superraros se pueden<br>mejorar hasta el nivel 30.<br><span class="fs76">*¡Utiliza XP!*</span>
+3600	Los gatos dementes superraros se pueden<br>mejorar hasta el nivel 25.<br><span class="fs76">*¡Utiliza XP para mejorarlos!*</span>
+3650	Los gatos dementes superraros se pueden<br>mejorar hasta el nivel 30.<br><span class="fs76">*¡Utiliza XP para mejorarlos!*</span>
 4000	Ganas 1 tique raro.
 4050	Los gatos raros se pueden<br>mejorar 60 niveles extras.<br><span class="fs76">*¡Utiliza bolas raras!*</span>
 4100	Los gatos superraros se pueden<br>mejorar 50 niveles extras.<br><span class="fs76">*¡Utiliza bolas raras!*</span>
@@ -144,8 +144,8 @@
 9300	Ganas 5 gatojos superraros.
 9400	Ganas 5 gatojos megarraros.
 9500	Ganas 5 frutas felinas épicas.
-1110	Los gatos ??? se pueden<br>mejorar hasta el nivel 25.<br><span class="fs76">*¡Utiliza XP!*</span>
-1410	Los gatos ??? se pueden<br>mejorar hasta el nivel 30.<br><span class="fs76">*¡Utiliza XP!*</span>
+1110	Los gatos ??? se pueden<br>mejorar hasta el nivel 25.<br><span class="fs76">*¡Utiliza XP para mejorarlos!*</span>
+1410	Los gatos ??? se pueden<br>mejorar hasta el nivel 30.<br><span class="fs76">*¡Utiliza XP para mejorarlos!*</span>
 10000	Ganas 1 tique de platino.
 9600	Ganas 5 gatojos especiales.
 9700	Ganas 5 gatojos raros.
@@ -341,3 +341,6 @@
 27700	Ganas 5 gatojos legendarios.
 27800	Ganas 5 gatojos especiales.
 27900	Ganas 5 gatojos raros.
+28000	Ganas 1 tique raro.
+28100	Ganas 5 gatojos superraros.
+28200	Ganas 5 gatojos megarraros.

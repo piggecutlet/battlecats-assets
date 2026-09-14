@@ -82,8 +82,8 @@ zombie_area_10	ZQ Mauna Kea
 receivedBoxText	Gli oggetti non riscattati entro 30 giorni saranno disabilitati.
 receive_version_error	Aggiorna l'app alla versione più recente<br>prima di accettare le ricompense.
 receive_network_error	Errore di connessione<br>Impossibile ricevere gli oggetti.
-receive_item_popup	%d %s
-receive_item_popup_xp	%d %s
+receive_item_popup	%s x %d
+receive_item_popup_xp	%s x %d
 receive_item_popup_chara	Unità Gatto: %s
 receive_item_popup_chara_evolve	Forma Reale: %s
 receive_item_popup_last	ricevuto/i!
@@ -1554,7 +1554,7 @@ treasure_box_result_last_one	<color=255,255,0>Hai sorteggiato ${itemName}!</colo
 gama_collabo_05_popup	<flash>Sonic the Hedgehog Collab!</flash><br>Chao joins the Gamatoto Expeditions!<br>Earn more items during the collab!<br>※Does not apply to Cat Food.
 gama_collabo_05_name	Chao
 gama_collabo_05_charatext	Chao has joined Gamatoto Expeditions!<br>Earn more item rewards during the collab!<br>※Does not apply to Cat Food.
-GiftMessage_023	<flash>Ricompensa livello ${progressText}</flash><br>Supera il livello finale di<br>"Le fauci spietate della verità" per avere la possibilità di ottenere<br>l'unità speciale "Maestro della logica Newton"!
+GiftMessage_023	<flash>Ricompensa livello ${progressText}</flash><br>Supera il livello finale di<br>"Le fauci spietate della verità" per avere la possibilità di ottenere<br>l'unità speciale "Newton Maestro della logica"!
 slot_SNS_005	Ho ricevuto %d Friskat dalle Slot feline II su #TheBattleCats!<br><br>#BattleCats
 SpecialRuleExplanation009	【Velocità uniforme】<br>Tutte le unità alleate e nemiche<br>si muovono alla stessa velocità.
 SpecialRuleExplanation010	【Uno speciale in più】<br>Le unità speciali vengono<br>schierate automaticamente due alla volta.
@@ -1674,3 +1674,40 @@ SpecialRuleName020	Spendi 1 milione
 Stage_battle00	Vuoi rinunciare?<br>Rinuncia subito per ottenere il rimborso dei tuoi oggetti! (Entro 10 secondi)
 Stage_lock00	Oggetti insufficienti.
 unlock_popup_message_160	<flash>Gatto divino</flash> è apparso nella sezione Gatti speciali!<br>Sbloccalo dalla schermata Potenzia!<br>*Potrebbe ribaltare le sorti di una battaglia difficile!
+scratch_SNS_006	Ho vinto %d Friskat con la #BattleCatsScratcher!<br>Prova una volta alla settimana per vincere un premio fantastico!<br><br>#TheBattleCats #BattleCats #CatScratcher #BattleCats120M
+SpecialRuleExplanation019	
+SpecialRuleExplanation021	【Metà costo+: Speciali】<br>I costi operativi delle unità speciali sono dimezzati,<br>e i tempi di ricarica ridotti del 30%!<br>In più, verranno schierate due unità contemporaneamente!
+SpecialRuleExplanation022	【Sorteggio rarità: Duo】Una sola unità per ciascun livello di rarità può essere schierata nella tua formazione.<br>Tuttavia, puoi schierare due unità contemporaneamente!
+SpecialRuleName019	
+SpecialRuleName021	Metà costo+: Speciali
+SpecialRuleName022	Sorteggio rarità: Duo
+vibration_error_popup	Dispositivo o sistema operativo non supportato.<br>Vibrazione non disponibile.
+map_stage_limit_variable_001	Da qui non si va da nessuna parte...<br>Perché non esplorare un livello diverso?<br><color=255,255,0>Prossimo sblocco: ${month}-${day}-${year}（${hour}:${minute}）</color>
+map_stage_limit_variable_error	Da qui non si va da nessuna parte...<br>Perché non esplorare un livello diverso?
+datetime_day	${day} g
+datetime_hour	${hour} h
+datetime_minute	${minute} m
+point_sns	I Battle Cats hanno segnato %d punti su "%@"!%s %s
+PointRulePageHeadline001	Informazioni su "Koneko Music Festival"
+PointRuleHeadline001	Koneko Music Festival
+PointRuleHeadline002	Ottenere punti evento
+PointRuleHeadline003	Moltiplicatore punti evento
+PointRuleExplanation001	Ottieni una serie di ricompense in base al numero totale di punti evento accumulati durante il periodo dell'evento.<br>I punti evento si ottengono affrontando livelli evento dedicati.<br><br>I livelli evento hanno una regola speciale: "Febbre sonica".<br>Scopri di seguito i dettagli su questa regola.<br><br>【Febbre sonica】<br>Il tuo indicatore di febbre sonica si riempirà in base ai punti evento ottenuti in combattimento,<br>e una volta che l'indicatore sarà pieno entrerai in uno stato di febbre sonica per un periodo determinato!<br>Durante la febbre sonica, tutti i tempi di ricarica delle abilità saranno azzerati!
+PointRuleExplanation002	Ottieni punti evento sconfiggendo i nemici; i punti si calcolano in base ai costi operativi x moltiplicatore punti evento.<br>I moltiplicatori punti evento variano in base ai costi operativi dell'unità e al livello, quindi ti preghiamo di controllare la tabella moltiplicatore punti evento per i dettagli.<br>Anche se il costo operativo di un'unità è stato ridotto da un talento, otterrai comunque punti evento in base al costo operativo standard (pre-talento) dell'unità.
+Point_release_popup_001	Koneko Music Festival<br>Ottieni fino a ${Point} punti evento!
+PointReleaseHeadline001	Tempi di sblocco punti evento
+PointReleaseExplanation001	${month}-${day}-${year}（${hour}:${minute}）Per lo sblocco punti evento ${Point}
+point_fraud_error	L'ora del dispositivo potrebbe essere stata modificata.<br>Impossibile ricevere i punti evento.<br>Vuoi comunque giocare questo livello?
+PointReward00	Ricompensa punti evento<br>${itemName} +${itemNum}<br><flash>ricevuta!</flash>
+PointReward01	Ricompensa punti evento<br>Unità Gatto: ${charaName}<br><flash>sbloccata!</flash>
+PointReward02	Ricompensa punti evento<br>Bonus accesso<br><flash>potenziato!</flash>
+PointRewardWeb00	Ricevi ${itemNum} ${itemName}
+PointRewardWeb01	Ricevi ${itemNum} ${itemName}
+PointRewardWeb02	Ricevi ${itemNum} ${itemName}
+PointRewardWeb03	Unità Gatto sbloccata: ${charaName}
+PointRewardWeb04	Bonus accesso potenziato!<span style='color: red;'>*Consulta le informazioni dell'evento per maggiori dettagli!</span>
+point_stage_limit	Limite massimo punti evento raggiunto.<br>*Impossibile ottenere altri punti.
+PointRuletabletext001	Livello ${stageNo}<br>${stageName}
+PointRuletabletext002	${costNum1}¢ ~ ${costNum2}¢
+PointRuletabletext003	${costNum} ¢ ~
+PointRuletabletext004	Nessun punto ottenuto

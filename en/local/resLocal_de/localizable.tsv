@@ -82,8 +82,8 @@ zombie_area_10	QG: Mauna Kea
 receivedBoxText	Gegenstände, die nicht innerhalb von 30 Tage abgeholt werden, verfallen.
 receive_version_error	Bevor du Gegenstandsbelohnungen<br>annimmst, aktualisiere die App.
 receive_network_error	Verbindungsfehler<br>Gegenstände konnten nicht abgeholt werden.
-receive_item_popup	%d %s
-receive_item_popup_xp	%d %s
+receive_item_popup	%s x%d
+receive_item_popup_xp	%s x%d
 receive_item_popup_chara	Katzeneinheit: %s
 receive_item_popup_chara_evolve	Wahre Form: %s
 receive_item_popup_last	erhalten!
@@ -1554,7 +1554,7 @@ treasure_box_result_last_one	<color=255,255,0>Du hast ${itemName} gezogen!</colo
 gama_collabo_05_popup	<flash>Sonic the Hedgehog Collab!</flash><br>Chao joins the Gamatoto Expeditions!<br>Earn more items during the collab!<br>※Does not apply to Cat Food.
 gama_collabo_05_name	Chao
 gama_collabo_05_charatext	Chao has joined Gamatoto Expeditions!<br>Earn more item rewards during the collab!<br>※Does not apply to Cat Food.
-GiftMessage_023	<flash>Levelabschlussbelohnung ${progressText}</flash><br>Schließe das letzte Level von „Schlingender Schlund der Wahrheit“ ab,<br>und erhalte vielleicht die Spezialeinheit<br>„Meister der Logik Newton“!
+GiftMessage_023	<flash>Levelabschlussbelohnung ${progressText}</flash><br>Schließe das letzte Level von „Schlingender Schlund der Wahrheit“ ab,<br>und erhalte vielleicht die Spezialeinheit<br>„Newton, Meister der Logik“!
 slot_SNS_005	Ich habe %d Katzenbatzen bei den Wildkatzen-SlotsⅡ in #TheBattleCats gewonnen!<br><br>#BattleCats  
 SpecialRuleExplanation009	【Im Gleichschritt】<br>Alle feindlichen Einheiten<br>bewegen sich im gleichen Tempo.
 SpecialRuleExplanation010	【Besondere +1】<br>Sondereinheiten werden automatisch<br>doppelt eingesetzt.
@@ -1674,3 +1674,40 @@ SpecialRuleName020	Gib 1 Million aus
 Stage_battle00	Rückzug?<br>Brich jetzt ab und erhalte deine Gegenstände zurück! (Innerhalb von 10 Sek.)
 Stage_lock00	Nicht genügend Gegenstände.
 unlock_popup_message_160	Der <flash>Katzengott</flash> ist im Bereich Sonderkatzen aufgetaucht!<br>Schalte ihn im Bereich Verbesserungen frei!<br>* Er könnte dich bald im Kampf erretten …!
+scratch_SNS_006	Ich habe %d Katzenbatzen beim #BattleCatsScratcher gewonnen!<br>Jede Woche eine Chance auf einen großartigen Preis!<br><br>#TheBattleCats #BattleCats #CatScratcher #BattleCats120M
+SpecialRuleExplanation019	
+SpecialRuleExplanation021	(Halbpreis+: Spezial)<br>Halbe Einsatzkosten für Spezialeinheiten<br>und um 30 % verkürzte Abklingzeit!<br>Außerdem werden zwei Einheiten gleichzeitig eingesetzt!
+SpecialRuleExplanation022	(Seltenziehung: Duo)<br>Nur eine Einheit jeder Seltenheit darf in deine Aufstellung aufgenommen werden.<br>Dafür werden zwei Einheiten gleichzeitig eingesetzt!
+SpecialRuleName019	
+SpecialRuleName021	Halbpreis+: Spezial
+SpecialRuleName022	Seltenziehung: Duo
+vibration_error_popup	Gerät oder OS wird nicht unterstützt.<br>Vibrationsfunktion nicht verfügbar.
+map_stage_limit_variable_001	Hier geht es nicht weiter …<br>Warum versuchst du nicht ein anderes Level?<br><color=255,255,0>Nächste Freischaltung: ${day}.${month}.${year} ${hour}:${minute}</color>
+map_stage_limit_variable_error	Hier geht es nicht weiter …<br>Warum versuchst du nicht ein anderes Level?
+datetime_day	${day} T.
+datetime_hour	${hour} Std.
+datetime_minute	${minute} Min.
+point_sns	Meine Kampfkatzen haben bei „%@“ %d Pkt. erreicht! %s %s
+PointRulePageHeadline001	Über das „Koneko-Musikfestival“
+PointRuleHeadline001	Koneko-Musikfestival
+PointRuleHeadline002	Eventpunkte erhalten
+PointRuleHeadline003	Eventpunkte-Multiplikator
+PointRuleExplanation001	Verdiene abhängig von der Gesamtanzahl der während des Eventzeitraums gesammelten Eventpunkte verschiedene Belohnungen.<br>Eventpunkte können durch das Herausfordern bestimmter Eventlevel verdient werden.<br><br>In Eventleveln gilt eine Sonderregel: „Schallfieber“.<br>Weiter unten erfährst du mehr über diese Regel.<br><br>(Schallfieber)<br>Deine Fieberleiste füllt sich abhängig von den Eventpunkten, die du im Kampf verdienst,<br>und Schallfieber wird eine bestimmte Zeit lang aktiviert, wenn sie voll ist!<br>Während des Schallfiebers gelten keine Einsatzabklingzeiten!
+PointRuleExplanation002	Verdiene Eventpunkte, indem du Feinde besiegst. Die Anzahl der verdienten Punkte entspricht Einsatzkosten x Eventpunkte-Multiplikator.<br>Eventpunkte-Multiplikatoren hängen von den Einsatzkosten und dem Level ab. Mehr dazu erfährst du in der Eventpunkte-Multiplikator-Tabelle.<br>Wenn die Einsatzkosten einer Einheit durch ein Talent reduziert wurden, erhältst du trotzdem Eventpunkte entsprechend der regulären Einsatzkosten (ohne Talent-Rabatt).
+Point_release_popup_001	Koneko-Musikfestival<br>Verdiene bis zu ${Point} Eventpunkte!
+PointReleaseHeadline001	Eventpunkte-Freischaltzeit
+PointReleaseExplanation001	${day}.${month}.${year} (${hour}:${minute})　Bis zur Eventpunkt-Freischaltung ${Point}
+point_fraud_error	Möglicherweise wurde das Gerät verändert.<br>Eventpunkte können nicht erhalten werden.<br>Möchtest du das Level trotzdem spielen?
+PointReward00	Eventpunkte-Belohnung<br>${itemName} +${itemNum}<br><flash> erhalten!</flash>
+PointReward01	Eventpunkte-Belohnung<br>Katzeneinheit: ${charaName}<br><flash>freigeschaltet!</flash>
+PointReward02	Eventpunkte-Belohnung<br>Anmeldebonus<br><flash>verbessert!</flash>
+PointRewardWeb00	Du hast Folgendes erhalten: ${itemNum} ${itemName}
+PointRewardWeb01	Du hast Folgendes erhalten: ${itemNum} ${itemName}
+PointRewardWeb02	Du hast Folgendes erhalten: ${itemNum} ${itemName}
+PointRewardWeb03	Freigeschaltete Katzeneinheit: ${charaName}
+PointRewardWeb04	Anmeldebonus verbessert!<span style='color: red;'>* Mehr dazu erfährst du in der Event-Info!</span>
+point_stage_limit	Eventpunkte-Limit erreicht.<br>* Es können keine weiteren Punkte verdient werden.
+PointRuletabletext001	Level ${stageNo}<br>${stageName}
+PointRuletabletext002	${costNum1}¢ ~ ${costNum2}¢
+PointRuletabletext003	${costNum}¢ ~
+PointRuletabletext004	Keine Punkte erhalten

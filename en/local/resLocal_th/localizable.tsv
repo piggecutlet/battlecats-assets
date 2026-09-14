@@ -81,8 +81,8 @@ zombie_area_10	โซนกักกันเมานาคี
 receivedBoxText	ไอเทมที่ไม่ได้รับภายใน 30 วันจะถูกปิดใช้งาน
 receive_version_error	อัปเดตเป็นเวอร์ชันล่าสุด<br>ก่อนรับรางวัลไอเทมของคุณ
 receive_network_error	ข้อผิดพลาดการเชื่อมต่อ<br>ไม่สามารถรับไอเทมได้
-receive_item_popup	%d %s
-receive_item_popup_xp	%d %s
+receive_item_popup	%s x%d
+receive_item_popup_xp	%s x%d
 receive_item_popup_chara	ยูนิตแมว: %s
 receive_item_popup_chara_evolve	ร่างจริง: %s
 receive_item_popup_last	ได้รับแล้ว!
@@ -1552,7 +1552,7 @@ treasure_box_result_last_one	<color=255,255,0>คุณสุ่มได้${it
 gama_collabo_05_popup	<flash>Sonic the Hedgehog Collab!</flash><br>Chao joins the Gamatoto Expeditions!<br>Earn more items during the collab!<br>※Does not apply to Cat Food.
 gama_collabo_05_name	Chao
 gama_collabo_05_charatext	Chao has joined Gamatoto Expeditions!<br>Earn more item rewards during the collab!<br>※Does not apply to Cat Food.
-GiftMessage_023	<flash>รางวัลเคลียร์ด่าน ${progressText}</flash><br>เคลียร์ด่านสุดท้ายของ "เขมือบความจริง"<br>เพื่อโอกาสรับ<br>ยูนิตพิเศษ "นิวตัน เจ้าแห่งตรรกะ"!
+GiftMessage_023	<flash>รางวัลเคลียร์ด่าน ${progressText}</flash><br>เคลียร์ด่านสุดท้ายของ "เขมือบความจริง"<br>เพื่อโอกาสรับ<br>ยูนิตพิเศษ "มาสเตอร์แห่งลอจิกนิวโทน"!
 slot_SNS_005	ฉันได้อาหารแมว %d กระป๋องจากสล็อตแมวป่า IIใน #TheBattleCats!<br><br>#BattleCats
 SpecialRuleExplanation009	【เคลื่อนที่พร้อมเพรียง】<br>ยูนิตพันธมิตรและศัตรู<br>เคลื่อนที่ด้วยความเร็วเท่ากัน
 SpecialRuleExplanation010	【บวกหนึ่ง: พิเศษ】<br>ยูนิตพิเศษถูกใช้งานได้สองตัวพร้อมกัน<br>โดยอัตโนมัติ
@@ -1673,3 +1673,40 @@ SpecialRuleName020	ใช้ 1 ล้าน
 Stage_battle00	ยอมแพ้?<br>ยกเลิกตอนนี้เพื่อรับไอเทมคืน! (ภายใน 10 วินาที)
 Stage_lock00	ไอเทมไม่พอ
 unlock_popup_message_160	<flash>พระเจ้าแมว</flash>ปรากฏตัวในส่วนแมวพิเศษ!<br>ปลดล็อกเขาจากหน้าจออัปเกรด!<br>* นี่อาจเป็นทางรอดของคุณในศึกที่สูสี...!
+scratch_SNS_006	ฉันชนะได้อาหารแมว %d กระป๋องจาก #BattleCatsScratcher!<br>ขูดล็อตเตอรี่เสี่ยงโชคสัปดาห์ละครั้งเพื่อโอกาสรับรางวัลสุดยอด!<br><br>#TheBattleCats #BattleCats #CatScratcher #BattleCats120M
+SpecialRuleExplanation019	
+SpecialRuleExplanation021	【ลดครึ่ง+: พิเศษ】<br>ยูนิตพิเศษลดค่าวางกำลังครึ่งหนึ่ง<br>โดยคูลดาวน์วางกำลังสั้นลง 30%!<br>นอกจากนี้ จะวางกำลังสองยูนิตพร้อมกัน!
+SpecialRuleExplanation022	【ดราฟต์หายาก: ดูโอ】<br>สามารถติดตั้งยูนิตแต่ละระดับความหายากได้เพียงหนึ่งตัวในไลน์อัป<br>อย่างไรก็ตาม จะวางกำลังสองยูนิตพร้อมกัน!
+SpecialRuleName019	
+SpecialRuleName021	ลดครึ่ง+: พิเศษ
+SpecialRuleName022	ดราฟต์หายาก: ดูโอ
+vibration_error_popup	อุปกรณ์หรือระบบปฏิบัติการไม่รองรับ<br>ไม่มีฟังก์ชันการสั่นให้ใช้งาน
+map_stage_limit_variable_001	จากตรงนี้ ไม่มีที่ให้ไปต่อแล้ว...<br>ลองสนุกกับด่านอื่นไหม?<br><color=255,255,0>การปลดล็อกถัดไป: ${day}-${month}-${year}（${hour}:${minute}）</color>
+map_stage_limit_variable_error	จากตรงนี้ ไม่มีที่ให้ไปต่อแล้ว...<br>ลองสนุกกับด่านอื่นไหม?
+datetime_day	${day} วัน
+datetime_hour	${hour} ชม.
+datetime_minute	${minute} นาที
+point_sns	แมวศึกของฉันได้คะแนน %d แต้มที่ "%@"! %s %s
+PointRulePageHeadline001	เกี่ยวกับ "เทศกาลดนตรีโกเนโกะ"
+PointRuleHeadline001	เทศกาลดนตรีโกเนโกะ
+PointRuleHeadline002	การหาแต้มอีเวนต์
+PointRuleHeadline003	ตัวคูณแต้มอีเวนต์
+PointRuleExplanation001	รับรางวัลหลากหลายชนิดตามจำนวนแต้มอีเวนต์ทั้งหมดที่เก็บได้ตลอดระยะเวลาอีเวนต์<br>จะได้รับแต้มอีเวนต์จากการท้าทายด่านอีเวนต์ที่กำหนดไว้<br><br>ด่านอีเวนต์มีกฎพิเศษเฉพาะ: "โซนิคฟีเวอร์"<br>ดูรายละเอียดเกี่ยวกับกฎข้อนี้ด้านล่าง<br><br>【โซนิคฟีเวอร์】<br>เกจฟีเวอร์ของคุณจะเต็มตามแต้มอีเวนต์ที่ได้รับระหว่างการต่อสู้<br>และเมื่อเกจเต็ม คุณจะเข้าสู่โซนิคฟีเวอร์เป็นระยะเวลาหนึ่ง!<br>ระหว่างโซนิคฟีเวอร์ คูลดาวน์วางกำลังทั้งหมดจะถูกเซ็ตเป็นศูนย์!
+PointRuleExplanation002	รับแต้มอีเวนต์จากการกำจัดศัตรู โดยแต้มที่ได้รับจะคำนวณจากค่าวางกำลัง x ตัวคูณแต้มอีเวนต์<br>ตัวคูณแต้มอีเวนต์จะแตกต่างกันไปตามค่าวางกำลังของยูนิตและด่าน ดังนั้นโปรดตรวจสอบตารางตัวคูณแต้มอีเวนต์เพื่อดูรายละเอียดเพิ่มเติม<br>แม้ว่าจะใช้พรสวรรค์ลดค่าวางกำลังของยูนิตแล้ว คุณก็ยังคงได้รับแต้มอีเวนต์ตามค่าวางกำลังมาตรฐาน (ก่อนใช้พรสวรรค์) ของยูนิตนั้นอยู่ดี
+Point_release_popup_001	เทศกาลดนตรีโกเนโกะ<br>รับแต้มอีเวนต์มากถึง ${Point} แต้ม!
+PointReleaseHeadline001	เวลาปลดล็อกแต้มอีเวนต์
+PointReleaseExplanation001	${day}-${month}-${year}（${hour}:${minute}）　จนกว่าจะปลดล็อก ${Point} แต้มอีเวนต์
+point_fraud_error	เวลาของอุปกรณ์อาจมีการเปลี่ยนแปลง<br>ไม่สามารถรับแต้มอีเวนต์ได้<br>ยังต้องการเล่นด่านนี้หรือไม่?
+PointReward00	รางวัลแต้มอีเวนต์<br>${itemName} +${itemNum}<br><flash>ได้รับแล้ว!</flash>
+PointReward01	รางวัลแต้มอีเวนต์<br>ยูนิตแมว: ${charaName}<br><flash>ปลดล็อกแล้ว!</flash>
+PointReward02	รางวัลแต้มอีเวนต์<br>โบนัสล็อกอิน<br><flash>อัปเกรดแล้ว!</flash>
+PointRewardWeb00	ได้รับ${itemName} ${itemNum} ชิ้น
+PointRewardWeb01	ได้รับ${itemName} ${itemNum} ชิ้น
+PointRewardWeb02	ได้รับ${itemName} ${itemNum} ชิ้น
+PointRewardWeb03	ยูนิตแมวที่ปลดล็อก: ${charaName}
+PointRewardWeb04	อัปเกรดโบนัสล็อกอินแล้ว!<span style='color: red;'>* ตรวจสอบข้อมูลอีเวนต์เพื่อดูรายละเอียดเพิ่มเติม!</span>
+point_stage_limit	แต้มอีเวนต์ถึงขีดจำกัดแล้ว<br>* ไม่สามารถเก็บแต้มเพิ่มได้อีกแล้ว
+PointRuletabletext001	ด่านที่ ${stageNo}<br>${stageName}
+PointRuletabletext002	${costNum1}¢ ~ ${costNum2}¢
+PointRuletabletext003	${costNum} ¢ ~
+PointRuletabletext004	ไม่ได้รับแต้ม

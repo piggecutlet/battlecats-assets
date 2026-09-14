@@ -68,7 +68,7 @@
 9025|Score 2500 or more on "Inconspicuous Trap"!<br>Receive your score upon stage clear.
 9026|Score 1500 or more on "Beginning of the End"!<br>Receive your score upon stage clear.
 9027|Clear daily blitz collab stages %d times!<br>Clear any Holy War stage: %d of %d
-9028|เคลียร์ชั้นที่ 40 ของหอคอยสวรรค์!<br>※รับรางวัลได้แค่ครั้งเดียวเท่านั้น|ดูที่ภารกิจพิเศษเพื่อเข้าไปเล่น<br>ภารกิจหอคอยสวรรค์!
+9028|เคลียร์ชั้นที่ 40 ของหอคอยสวรรค์!<br>*รับรางวัลได้แค่ครั้งเดียวเท่านั้น|ดูที่ภารกิจพิเศษเพื่อเข้าไปเล่น<br>ภารกิจหอคอยสวรรค์!
 9029|ได้คะแนนมากกว่า 2500 แต้มเมื่อ<br>เคลียร์ด่าน "กำลังมาที่เมือง!"!|ดูที่ภารกิจพิเศษเพื่อเข้าไปเล่น<br>ภารกิจวันหยุดแบบจำกัด!
 9030|ทำคะแนนมากกว่า 2000 แต้มใน<br>ด่าน "เกมเรนเดียร์"!
 9031|ทำคะแนนมากกว่า 2000 แต้มใน<br>ด่าน "วิปครีม"!
@@ -618,7 +618,7 @@
 9219|
 9220||
 9221|Complete %d Gamatoto Expeditions during <br>the Shoumetsu Toshi collab: %d of %d times|Check the Special Missions to access<br>Shoumetsu Toshi collab challenges!
-9222|เคลียร์ชั้นที่ 50 ของหอคอยสวรรค์!<br>※รับรางวัลได้แค่ครั้งเดียว|ดูที่ภารกิจพิเศษเพื่อเข้าไปเล่น<br>ภารกิจหอคอยสวรรค์!
+9222|เคลียร์ชั้นที่ 50 ของหอคอยสวรรค์!<br>*รับรางวัลได้แค่ครั้งเดียว|ดูที่ภารกิจพิเศษเพื่อเข้าไปเล่น<br>ภารกิจหอคอยสวรรค์!
 9223|Upgrade Heavenly Jack to Level 10!<br>(You must evolve the Cat before the Bikkuriman collab ends!)
 9224|เคลียร์ด่าน "8 ปีแห่งความสนุก" %d ครั้ง!<br>เคลียร์ด่าน 8 ปีด่านใดก็ได้: %d ใน %d|ดูที่ภารกิจพิเศษเพื่อเข้าไปเล่น<br>ภารกิจท้าทาย 8 ปีแบบจำกัด!
 9225|ได้คะแนน 8888 แต้มขึ้นไปใน "8 ก็ไม่พอ"!<br>พบด่านจัดอันดับนี้ได้ที่โรงฝึกเล็บแมว!|ดูที่ภารกิจพิเศษเพื่อเข้าไปเล่น<br>ภารกิจท้าทายโรงฝึก 8 ปีแบบจำกัด!
@@ -672,10 +672,10 @@
 9262|Clear "River City Ball-Rolling" %d times!<br>Clear any River City Ball-Rolling stage: %d of %d|Check the Special Missions to access<br>limited "River City Cat Clash" challenges!
 9263|Clear "River City Ball-Rolling" %d times!<br>Clear any River City Ball-Rolling stage: %d of %d
 9264|Clear "River City Challenge Course" %d times!<br>Clear any River City Challenge Course stage: %d of %d
-9265|Clear stages from "River City Challenge Course"<br>%d times using only 9 Normal Cats! (%d of %d)
+9265|【River City Cat Clash】④: เคลียร์ "คอร์สท้าทายริเวอร์ซิตี้"<br>%d ครั้งโดยใช้แมวธรรมดาแค่ 9 ตัว
 9266|Defeat %@ at River City Three-Leg Race<br>(Once at any River City Three-Leg Race stage)
 9267|Defeat %@ at River City Three-Leg Race<br>(Once at any River City Three-Leg Race stage)
-9268|Clear all %d River City Cat Clash Limited  Missions!<br>Stages Cleared: %d of %d
+9268|【River City Cat Clash】เคลียร์ภารกิจอีเวนต์ทั้งหมด<br>รับรางวัลตั๋วแรร์ 1 ใบ!|ไปที่ภารกิจพิเศษเพื่อเล่น<br>ด่านท้าทายจำกัด "River City Cat Clash"!
 9269|Witch Culling Mission 1: Defeat Rose Garden Witch.<br>Appears in the stage Witch's Labyrinth: The Rose Garden Witch.|Madoka Magica Collab Missions<br>added to the Special Missions!
 9270|Witch Culling Mission 2: Defeat Dessert Witch.<br>Appears in the stage Witch's Labyrinth: Dessert Witch.
 9271|Witch Culling Mission 3: Defeat Box Witch.<br>Appears in the stage Witch's Labyrinth - Box Witch.
@@ -718,7 +718,7 @@
 9303|【ข้อ 5. ควิซแล้วแต่ดวง】หลังเคลียร์ด่าน มอบโชคให้พันธมิตรและเปิดประตู!<br>เคลียร์ด่านสวรรค์ %d ด่าน! (%d ใน %d)
 9304|
 46|ภารกิจครบรอบ 9 ปี<br>เคลียร์จักรวรรดิแมวบทที่ 1 ระหว่างอีเวนต์นี้!
-9305|เคลียร์ชั้นที่ 30 ของหอคอยนรก<br>※ รับรางวัลได้แค่ครั้งเดียวเท่านั้น|ได้เพิ่มภารกิจหอคอยนรกในภารกิจพิเศษแล้ว!
+9305|เคลียร์ชั้นที่ 30 ของหอคอยนรก<br>* รับรางวัลได้แค่ครั้งเดียวเท่านั้น|ได้เพิ่มภารกิจหอคอยนรกในภารกิจพิเศษแล้ว!
 47|รายงานจักรพรรดินี: การวิจัยอากุ<br>เคลียร์แต่ละด่านของรายงานจักรพรรดินี จำนวน %d ครั้งในแต่ละด่าน (เคลียร์แล้ว %d/%d)|ได้เพิ่มภารกิจการวิจัยของจักรพรรดินี<br>ในส่วนภารกิจหลักแล้ว!
 9306||
 9307|
@@ -799,13 +799,13 @@
 9376|Clear stages from "Merc Storia Collab"<br>%d times! (Any collab stage) (%d of %d)|Check the Special Missions for<br>Merc Storia challenges!
 9377|Clear stages from "Merc Storia Collab"<br>%d times! (Any collab stage) (%d of %d)
 9378|Clear stages from "Merc Storia Collab"<br>%d times! (Any collab stage) (%d of %d)
-9379|เคลียร์ชั้นที่ 40 ของหอคอยนรก<br>※ รับรางวัลได้แค่ครั้งเดียวเท่านั้น|ได้เพิ่มภารกิจหอคอยนรกในภารกิจพิเศษแล้ว!
+9379|เคลียร์ชั้นที่ 40 ของหอคอยนรก<br>* รับรางวัลได้แค่ครั้งเดียวเท่านั้น|ได้เพิ่มภารกิจหอคอยนรกในภารกิจพิเศษแล้ว!
 54|เคลียร์ "ขุมทรัพย์ XP!"<br>ทำได้ด้วยการเคลียร์ทุกด่านในขุมทรัพย์ XP!|ได้เพิ่มภารกิจขุมทรัพย์ XP ในภารกิจหลักแล้ว!
-9380|Clear stages from "River City Cat Clash"<br>%d times! (Any "River City Cat Clash" stage) (%d of %d)|Check the Special Missions for<br>River City Cat Clash challenges!
-9381|Clear stages from "River City Cat Clash"<br>%d times! (Any "River City Cat Clash" stage) (%d of %d)
-9382|Clear stages from "River City Cat Clash"<br>%d times! (Any "River City Cat Clash" stage) (%d of %d)
-9383|Clear stages from "River City Three-Leg Race"<br>%d times using only 2 Rare Cats! (%d of %d)
-9384|Clear stages from "River City Three-Leg Race"<br>%d times using only 2 Special Cats! (%d of %d)
+9380|【River City Cat Clash】①: เคลียร์ด่านคอลแลบRiver City Cat Clash %d ครั้ง<br>ด่านคอลแลบทั้งหมดนับรวมในภารกิจนี้ (%d ใน %d)
+9381|【River City Cat Clash】②: เคลียร์ด่านคอลแลบRiver City Cat Clash %d ครั้ง<br>ด่านคอลแลบทั้งหมดนับรวมในภารกิจนี้ (%d ใน %d)
+9382|【River City Cat Clash】②: เคลียร์ด่านคอลแลบRiver City Cat Clash %d ครั้ง<br>ด่านคอลแลบทั้งหมดนับรวมในภารกิจนี้ (%d ใน %d)
+9383|【River City Cat Clash】⑤: เคลียร์ "การแข่งสามขาริเวอร์ซิตี้"<br>%d ครั้งโดยใช้แมวแรร์แค่ 2 ตัว|ไปที่ภารกิจพิเศษเพื่อเล่น<br>ด่านท้าทายจำกัด "River City Cat Clash"!
+9384|【River City Cat Clash】⑥: เคลียร์ "การแข่งสามขาริเวอร์ซิตี้"<br>%d ครั้งโดยใช้แมวพิเศษแค่ 2 ตัว
 9385|Clear stages from "Street Fighter V CE Collab"<br>%d times! (Any collab stage) (%d of %d)|Check the Special Missions to access<br>limited "Street Fighter V CE" challenges!
 9386|Clear stages from "Street Fighter V CE Collab"<br>%d times! (Any collab stage) (%d of %d)
 9387|Clear stages from "Street Fighter V CE Collab"<br>%d times! (Any collab stage) (%d of %d)
@@ -835,9 +835,9 @@
 9410|เคลียร์ด่าน "ตรุษจีน" %d ครั้ง!<br>เคลียร์ด่านตรุษจีนใดก็ได้: %d ใน %d
 9411|เคลียร์ด่าน "ตรุษจีน" %d ครั้ง!<br>เคลียร์ด่านตรุษจีนใดก็ได้: %d ใน %d
 56|เคลียร์ด่านล่าเบอฮีมอธ %d ด่านเป็นครั้งแรก ดู<br>"เกี่ยวกับภารกิจท้าทาย" เพื่อยืนยันด่านเป้าหมาย (%d ใน %d)
-9412|Clear %d Fate/stay night [HF] collab stages.<br>All Fate/stay night [HF] stages count towards this mission. (%d of %d)|"Fate/stay night [HF]" Collab<br>Missions available!
-9413|Clear %d Fate/stay night [HF] collab stages.<br>All Fate/stay night [HF] stages count towards this mission. (%d of %d)
-9414|Clear %d Fate/stay night [HF] collab stages.<br>All Fate/stay night [HF] stages count towards this mission. (%d of %d)
+9412|Clear %d Fate/stay night [HF] collab stages.<br>All Fate/stay night [HF] stages count for this mission. (%d of %d)|"Fate/stay night [HF]" Collab<br>Missions available!
+9413|Clear %d Fate/stay night [HF] collab stages.<br>All Fate/stay night [HF] stages count for this mission. (%d of %d)
+9414|Clear %d Fate/stay night [HF] collab stages.<br>All Fate/stay night [HF] stages count for this mission. (%d of %d)
 9415|【80 ล. ดาวน์โหลด】ส่งกามาโตโต้ออกไปสำรวจสำเร็จ %d ครั้ง!<br>(สำรวจพื้นที่กามาโตโต้ใดก็ได้เสร็จ 1 ครั้ง: %d ใน %d)|ไปที่ภารกิจพิเศษเพื่อเล่น<br>ภารกิจ 80 ล. ดาวน์โหลด!
 9416|【80 ล. ดาวน์โหลด】ส่งกามาโตโต้ออกไปสำรวจสำเร็จ %d ครั้ง!<br>(สำรวจพื้นที่กามาโตโต้ใดก็ได้เสร็จ 5 ครั้ง: %d ใน %d)
 9417|【80 ล. ดาวน์โหลด】เคลียร์ของขวัญสุข<br>ฉลอง 80 ล. ดาวน์โหลด %d ครั้ง! (%d ใน %d)
@@ -931,9 +931,9 @@
 9502|[ด่านบุกรุก] ภารกิจอีเวนต์แบบจำกัด<br>เคลียร์ซีโอเนลผงาด!
 9503|[ด่านบุกรุก] ภารกิจอีเวนต์แบบจำกัด<br>เคลียร์ราชินีชรา
 9504|[ด่านบุกรุก] ภารกิจอีเวนต์แบบจำกัด<br>เคลียร์สวรรค์ของปาปู!
-9505|[ด่านบุกรุก] เคลียร์หน้ากากกับเด็ก<br>เคลียร์ทุกด่านและด่าน EX เพื่อทำภารกิจให้เสร็จสิ้น
-9506|[ด่านบุกรุก] เคลียร์เจ้าชายและผู้หวนคืน<br>เคลียร์ทุกด่านและด่าน EX เพื่อทำภารกิจให้เสร็จสิ้น
-9507|[ด่านบุกรุก] เคลียร์ราชินีและนักบวช<br>เคลียร์ทุกด่านและด่าน EX เพื่อทำภารกิจให้เสร็จสิ้น
+9505|[ด่านบุกรุก] เคลียร์หน้ากากกับเด็ก<br>ต้องเคลียร์ด่านต่อเนื่องด้วย
+9506|[ด่านบุกรุก] เคลียร์เจ้าชายกับผู้หวนคืน<br>ต้องเคลียร์ด่านต่อเนื่องด้วย
+9507|[ด่านบุกรุก] เคลียร์ราชินีกับนักบวช<br>ต้องเคลียร์ด่านต่อเนื่องด้วย
 9508|การบ้านฤดูร้อน ④: เขียนรายงานสุดเพอร์เฟกต์ให้เสร็จ<br>เคลียร์ด่านแมวพักฤดูร้อน %d ด่าน (เคลียร์แล้ว %d/%d)
 9509|การบ้านฤดูร้อนส่วนที่ 2 ⑤: สังเกตแมลง<br>เคลียร์คืนแห่งฤดูร้อน มุ่งหน้ากลับบ้านด่านที่ 1 กับแมวคาบุโตะ
 9510|การบ้านฤดูร้อนส่วนที่ 2 ⑥: สังเกตแมลง<br>เคลียร์คืนแห่งฤดูร้อน มุ่งหน้ากลับบ้านด่านที่ 2 กับแมวคุวากาตะ
@@ -972,7 +972,7 @@
 9536|เคลียร์ทุกภารกิจในเส้นทางสู่การรวมพลัง<br>และรับตั๋วแพลตินัมหนึ่งใบ!|ภารกิจเส้นทางสู่การรวมพลัง<br>ได้เพิ่มเข้าไปในภารกิจพิเศษแล้ว!
 9537|เคลียร์ภารกิจเส้นทางสู่การรวมพลัง ① - ④<br>และรับแมวผู้การ!
 9538|เส้นทางสู่การรวมพลัง ①:<br>เคลียร์ทั้ง 5 ด่านในเส้นทางสู่การรวมพลัง!
-9539|เส้นทางสู่การรวมพลัง ②: เคลียร์ "การกบฏของโฮ่งตอนที่ 1"<br>%d ครั้ง! ※ปรากฏขึ้นไม่นานหลังเคลียร์รวมพลังตอนที่ 1
+9539|เส้นทางสู่การรวมพลัง ②: เคลียร์ "การกบฏของโฮ่งตอนที่ 1"<br>%d ครั้ง! *ปรากฏขึ้นไม่นานหลังเคลียร์รวมพลังตอนที่ 1
 9540|เส้นทางสู่การรวมพลัง ③:<br>เคลียร์ "พร้อม! ผู้บัญชาการเนียนดัม" ด่านที่ 1!|ภารกิจเส้นทางสู่การรวมพลัง ③<br>ได้เพิ่มเข้าไปในภารกิจพิเศษแล้ว!
 9541|เส้นทางสู่การรวมพลัง ④: คุยกับแมวที่ฐานทัพแมว<br>นานถึง 3 วันเพื่อเกณฑ์สมาชิกใหม่เข้าร่วมทัพ!|ภารกิจเส้นทางสู่การรวมพลัง ④<br>ได้เพิ่มเข้าไปในภารกิจพิเศษแล้ว!
 9542|เส้นทางสู่การรวมพลัง ⑤：<br>เคลียร์ "เส้นทางสู่การรวมพลังตอนที่ 2" ด่านที่ 1!|ภารกิจเส้นทางสู่การรวมพลัง ⑤<br>ได้เพิ่มเข้าไปในภารกิจพิเศษแล้ว!
@@ -1216,3 +1216,20 @@
 9670|【ก้าวหน้า】กามาโตโต้สำรวจ %d ครั้ง!<br> (สำรวจ 3 ครั้งได้ในทุกพื้นที่กามาโตโต้: %d ใน %d)
 9671|【ก้าวหน้า】<br>เคลียร์ด่าน BC ใดก็ได้ %d ด่าน (%d ใน %d)
 9672|【ก้าวหน้า】เคลียร์ทุกภารกิจอีเวนต์<br>รับตั๋วแรร์ 3 ใบ
+9772|【120 ล.ดาวน์โหลด】เคลียร์ภารกิจอีเวนต์ทั้งหมด<br>รับรางวัลตั๋วแรร์ 1 ใบ!|ไปที่ภารกิจพิเศษเพื่อเล่น<br>ด่านท้าทายจำกัด "120 ล.ดาวน์โหลด"!
+9773|【120 ล.ดาวน์โหลด】ส่งกามาโตโต้สำรวจสำเร็จ %d ครั้ง!<br>สำรวจพื้นที่กามาโตโต้ใดก็ได้เสร็จ 1 ครั้ง (%d ใน %d)
+9774|【120 ล.ดาวน์โหลด】ส่งกามาโตโต้สำรวจสำเร็จ %d ครั้ง!<br>สำรวจพื้นที่กามาโตโต้ใดก็ได้เสร็จ 3 ครั้ง (%d ใน %d)
+9775|【120 ล.ดาวน์โหลด】ส่งกามาโตโต้สำรวจสำเร็จ %d ครั้ง!<br>สำรวจพื้นที่กามาโตโต้ใดก็ได้เสร็จ 5 ครั้ง (%d ใน %d)
+9776|【120 ล.ดาวน์โหลด】เคลียร์ Battle Cats ด่านใดก็ได้ %d ด่าน (%d ใน %d)
+9777|【120 ล.ดาวน์โหลด】เคลียร์ Battle Cats ด่านใดก็ได้ %d ด่าน (%d ใน %d)
+9778|【120 ล.ดาวน์โหลด】เคลียร์ Battle Cats ด่านใดก็ได้ %d ด่าน (%d ใน %d)
+9779|【120 ล.ดาวน์โหลด】เคลียร์ Battle Cats ด่านใดก็ได้ %d ด่าน (%d ใน %d)
+9780|【ปาร์ตี้ฮาโลวีน】เคลียร์ภารกิจอีเวนต์ทั้งหมด<br>รับรางวัลตั๋วแรร์ 1 ใบ!|ไปที่ภารกิจพิเศษเพื่อเล่น<br>ด่านท้าทายจำกัด "ปาร์ตี้ฮาโลวีน"!
+9781|【ปาร์ตี้ฮาโลวีน】รับไอเทมฟีเจอร์จาก<br>กาชาอีเวนต์พิเศษ!
+9782|【ปาร์ตี้ฮาโลวีน】เคลียร์ Battle Cats ด่านใดก็ได้ %d ด่าน (%d ใน %d)
+9783|【ปาร์ตี้ฮาโลวีน】เคลียร์ Battle Cats ด่านใดก็ได้ %d ด่าน (%d ใน %d)
+9784|【ปาร์ตี้ฮาโลวีน】เคลียร์ Battle Cats ด่านใดก็ได้ %d ด่าน (%d ใน %d)
+9785|【ปาร์ตี้ฮาโลวีน】เคลียร์ Battle Cats ด่านใดก็ได้ %d ด่าน (%d ใน %d)
+9786|【ปาร์ตี้ฮาโลวีน】เคลียร์ Battle Cats ด่านใดก็ได้ %d ด่าน (%d ใน %d)
+9787|【River City Cat Clash】⑤: เคลียร์ "การแข่งสามขาริเวอร์ซิตี้"<br>%d ครั้งโดยใช้แมวแรร์แค่ 2 ตัว|ไปที่ภารกิจพิเศษเพื่อเล่น<br>ด่านท้าทายจำกัด "River City Cat Clash"!
+9788|【River City Cat Clash】⑥: เคลียร์ "การแข่งสามขาริเวอร์ซิตี้"<br>%d ครั้งโดยใช้แมวพิเศษแค่ 2 ตัว

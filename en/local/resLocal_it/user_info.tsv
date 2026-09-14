@@ -34,8 +34,8 @@
 1950	Ricevi 3 Occhio di gatto<br>ultra rari.
 3500	Potenzia i Gatti normali <br>a MAX+45. <br><span class="fs76">* Potenzia con le Miaocapsule</span>
 3550	Potenzia i Gatti normali <br>a MAX+50. <br><span class="fs76">* Potenzia con le Miaocapsule</span>
-3600	Potenzia i Gatti matti <br>super rari al livello 25. <br><span class="fs76">* Potenzia con gli XP</span>
-3650	Potenzia i Gatti matti <br>super rari al livello 30. <br><span class="fs76">* Potenzia con gli XP</span>
+3600	I gatti matti super rari possono essere <br>potenziati fino al livello 25. <br><span class="fs76">*Usa XP per potenziarli!*</span>
+3650	I gatti matti super rari possono essere <br>potenziati fino al livello 30. <br><span class="fs76">*Usa XP per potenziarli!*</span>
 4000	Ricevi 1 Biglietto raro.
 4050	Potenzia i Gatti rari <br>a MAX+60. <br><span class="fs76">* Potenzia con le capsule rare</span>
 4100	Potenzia i Gatti super rari <br>a MAX+50. <br><span class="fs76">* Potenzia con le capsule rare</span>
@@ -144,8 +144,8 @@
 9300	Ricevi 5 Occhio di gatto<br>super rari.
 9400	Ricevi 5 Occhio di gatto<br>ultra rari.
 9500	Ricevi 5 miagrumi epici.
-1110	Potenzia i Gatti ???<br>fino a livello 25.<br><span class="fs76">*Usa gli XP per potenziare!*</span>
-1410	Potenzia i Gatti ???<br>fino a livello 30.<br><span class="fs76">*Usa gli XP per potenziare!*</span>
+1110	??? Ora i gatti possono essere<br>potenziati fino al livello 25.<br><span class="fs76">*Usa gli XP per potenziare!*</span>
+1410	??? Ora i gatti possono essere<br>potenziati fino al livello 30.<br><span class="fs76">*Usa gli XP per potenziare!*</span>
 10000	Hai ricevuto 1 Biglietto platino!
 9600	Ricevi 5 Occhio di gatto<br>speciali.
 9700	Ricevi 5 Occhio di gatto<br>rari.
@@ -341,3 +341,6 @@
 27700	Ricevi 5 Occhio di gatto leggendari
 27800	Ricevi 5 Occhio di gatto speciali.
 27900	Ricevi 5 Occhio di gatto rari
+28000	Ricevi 1 Biglietto raro
+28100	Ricevi 5 Occhio di gatto super rari
+28200	Ricevi 5 Occhio di gatto ultra rari

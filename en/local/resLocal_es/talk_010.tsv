@@ -2,7 +2,7 @@
 		¡Uy! Me ha surgido un imprevisto,<br>pero te pediré ayuda más adelante.<br>¡Toma, por haberme ayudado!	0	22	300
 1	0	¡Oye, principiante!<br>Tengo una misión urgente para ti.	2
 2	0	Últimamente, los Kaijin<br>se han vuelto más poderosos.	3
-3	0	Los Guardabosques Nyanko<br>no pueden contener<br>una amenaza de esa magnitud.<br>¡Cualquier ayuda nos vendrá bien!	4
+3	0	Los Guardián Nyanko<br>no pueden contener<br>una amenaza de esa magnitud<br>¡Cualquier ayuda nos vendrá bien!	4
 4	0	Creo que es una gran oportunidad<br>para un aspirante a Guardabosques.<br>¿Qué me dices?<br>¿Aceptas el desafío?	5	20
 5	0	¡Mil gracias!<br>Es una alegría tenerte en el equipo.	6
 6	0	Primero, tienes que superar<br>el examen para obtener<br>la licencia de Guardabosques.<br>Así sabremos si reúnes<br>los requisitos necesarios.	7
@@ -29,9 +29,9 @@
 107	0	Bueno, no te preocupes.<br>He usado la IA del gatomático<br>y lo he rellenado todo...<br>Excepto la última pregunta.	108
 108	0	Conque tu lema es...<br>¡¿«Donuts fritos»?!<br>Oye, ya está bien.	109
 109	0	Me tienes que dar<br>una respuesta seria.<br>¡Es muy importante!	110
-110	0	¿Cuál es<br>tu Guardabosques Nyanko favorito?	111
+110	0	¿Cuál es<br>tu Guardián Nyanko favorito?	111
 111	0	Uf, ¡qué difícil!<br>¿Alguna idea?	112
-112	0	Conque el feroz y ardiente<br>Guardabosques Nyanko Rojo,<br>¿eh?	113	130
+112	0	Conque el feroz y ardiente<br>Guardián Nyanko Rojo,<br>¿eh?	113	130
 113	0	¡Ay, muchas gracias!<br>¡Qué halago!	114
 114	0	¡No lo has dudado ni un segundo!<br>Pongamos<br>«Guardabosques Rojo» en grande,<br>para que quede claro.	115
 115	0	Bueno, ¡parece que ya está todo!<br>Yo me encargo de presentar<br>los documentos.	116
@@ -41,12 +41,12 @@
 121	0	Oye, ¿y si me haces un favor<br>e invitas a un amigo antes<br>de mañana?	122
 122	0	Prometido, ¡¿eh?!<br>¡Contamos contigo!	104
 130	0	¿El infatigable espíritu<br>del Guardabosques Rojo<br>es tu favorito?	113	150
-150	0	¿El Guardabosques Nyanko Rojo <br>es por casualidad, tu favorito?	113	151
+150	0	¿El Guardián Nyanko Rojo <br>es por casualidad, tu favorito?	113	151
 151	0	...	152
 152	0	Te lo volveré a preguntar...<br>¡Mírame a los ojos<br>y responde con total sinceridad!	112
 201	0	¡Gracias por pasarte hoy!<br>Te estaba esperando.	202
 202	0	Vamos al turrón.<br>¿Has invitado a tus amigos?	203	230
-203	0	¡Sabía que podía contar contigo!<br>¡Ahora, los Guardabosques Nyanko<br>serán imbatibles!	204
+203	0	15.6.0	204
 204	0	Siempre buscamos a<br>Guardabosques nuevos, así que<br>procura traer a más amigos.	205
 205	0	Ya tengo los resultados<br>de tu prueba de aptitud.<br>¿Quieres conocerlos?	206
 206	0	Mira, aquí dice que...	207
@@ -82,7 +82,7 @@
 312	0	Además de ayudar a los<br>Guardabosques haciendo buenas<br>acciones, buscaste posibles reclutas<br>para engrosar nuestras filas.	313
 313	0	¡Vaya, eso es genial!<br>Ya te dije que mi lema es<br>«¡Haz buenas acciones<br>y te llevarás el gato al agua!».	314
 314	0	¡Tus esfuerzos por difundir<br>la palabra entre tus amigos<br>han dado buenos resultados!	315
-315	0	¡Muchas gracias, Guardabosques!<br>Por fin eres miembro oficial del<br>equipo de Guardabosques Nyanko.	316
+315	0	¡Muchas gracias, Guardabosques!<br>Por fin eres miembro oficial del<br>equipo de Guardián Nyanko.	316
 316	0	¡Si unimos nuestras fuerzas,<br>acabaremos con los Kaijin<br>y salvaremos la ciudad!	317
 317	0	Ya que estamos de celebración...<br>Nos has hecho muchos favores,<br>así que te quiero dar un regalo.	318
 318	16	¡Miau, miau!<br><flash>¡777 Friskas!</flash><br>No te los gastes todos <br>de una sentada, ¿eh?	-2

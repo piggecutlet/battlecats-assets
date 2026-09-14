@@ -82,8 +82,8 @@ zombie_area_10	ZC Mauna Kea
 receivedBoxText	Los objetos no recogidos en un plazo de 30 días caducarán.
 receive_version_error	Actualiza a la versión más reciente<br>antes de aceptar los premios.
 receive_network_error	Error de conexión<br>No se han recibido los objetos.
-receive_item_popup	%d %s
-receive_item_popup_xp	%d %s
+receive_item_popup	%s x %d
+receive_item_popup_xp	%s x %d
 receive_item_popup_chara	Unidad felina: %s
 receive_item_popup_chara_evolve	Forma final: %s
 receive_item_popup_last	¡Recompensa recibida!
@@ -1554,7 +1554,7 @@ treasure_box_result_last_one	<color=255,255,0>¡Has ganado ${itemName}!</color><
 gama_collabo_05_popup	<flash>Sonic the Hedgehog Collab!</flash><br>Chao joins the Gamatoto Expeditions!<br>Earn more items during the collab!<br>※Does not apply to Cat Food.
 gama_collabo_05_name	Chao
 gama_collabo_05_charatext	Chao has joined Gamatoto Expeditions!<br>Earn more item rewards during the collab!<br>※Does not apply to Cat Food.
-GiftMessage_023	<flash>Premio por superar la fase ${progressText}</flash><br>Supera la última fase en<br>Devorador de Verdades y podrás llevarte la<br>unidad especial Newton Maestro de la Lógica.
+GiftMessage_023	<flash>Premio por superar la fase ${progressText}</flash><br>Supera la última fase en<br>Devorador de Verdades y podrás llevarte la<br>unidad especial Maestro de la Lógica Newtone.
 slot_SNS_005	¡Conseguí %d de Friskas en las Tragagatos II de #TheBattleCats!<br><br>#BattleCats
 SpecialRuleExplanation009	【Velocidad constante】<br>Todas las unidades aliadas y enemigas<br>se mueven a la misma velocidad.
 SpecialRuleExplanation010	【Especial +1】<br>Las unidades especiales se despliegan<br>automáticamente de dos en dos.
@@ -1606,7 +1606,7 @@ unlock_popup_message_157	<flash>¡Desbloquea nuevos talentos de Misidiós el Dor
 BonusExplanationLabel004	【Bonus de tiempo: superfuerza】<br>Inflige superfuerza contra los enemigos.<br>※ Usa unidades que afecten a menos rasgos enemigos y consigue una mayor puntuación.<br>Echa un vistazo a «¿Qué es la Arena del Destino?» en la esquina inferior izquierda del menú para conocer todos los detalles.
 BonusNameLabel004	Superfuerza
 gamatotoSpReward_1	<flash>Has ganado al ${rarity}gato: 「${charaName}」</flash><br>Actívalo en el menú «Mejorar».
-Nyancombo_charagroup_1	Solo Guardabosques Nyanko
+Nyancombo_charagroup_1	Solo Guardián Nyanko
 picBook_getNewCharacter	<flash>Has desbloqueado «${charaName}».</flash><br>y has ganado 5 Friskas.
 scheme_item_param_114	/nyankoranger_momo_charaget.html
 scheme_popup_114	<flash>Has desbloqueado esta unidad especial: ¡%@!</flash>
@@ -1614,7 +1614,7 @@ scheme_popup_114_option_get	Ya has recogido esta recompensa.<br>Comprueba el men
 slot_SNS_007	¡He ganado %d Friskas en Tragagatos II!<br><br>#TheBattle Cats #13AñosDeBattleCats #TragagatosII
 SpecialRuleExplanation015	【Gran Batalla】<br>Los megarraros cuestan el doble, pero<br>se despliegan de tres en tres.
 SpecialRuleName015	Gran Batalla
-talk_010_push	¡Los examenes de los Guardabosques Nyanko continúan!
+talk_010_push	¡Los examenes de los Guardián Nyanko continúan!
 BonusExplanationLabel005	【Bonus de tiempo: ralentización】<br>Ralentiza a un enemigo.<br>※ Usa unidades que afecten a menos rasgos enemigos y consigue una mayor puntuación.<br>Echa un vistazo a «¿Qué es la Arena del Destino?» en la esquina inf. izq. del menú para conocer todos los detalles.
 BonusNameLabel005	Ralentización
 backstage_unusable	<color=255,255,0>Has añadido una unidad que no se puede equipar.<br>Añade solo unidades equipables.</color>
@@ -1674,3 +1674,40 @@ SpecialRuleName020	Gasta un millón
 Stage_battle00	¿Retirarte?<br>¡Ríndete para reembolsarte tus artículos (en 10 s)
 Stage_lock00	Faltan objetos.
 unlock_popup_message_160	¡<flash>Misidiós</flash> ha aparecido en la sección Gatos Especiales!<br>Desbloquéalo en la pantalla de Mejora.<br>*¡Puede que te saque de un apuro en alguna batalla...!
+scratch_SNS_006	¡He ganado %d Friskas en #BattleCatsScratcher!<br>Prueba suerte una vez a la semana y podrás llevarte un premio increíble.<br><br>#TheBattleCats #BattleCats #CatScratcher #BattleCats120M
+SpecialRuleExplanation019	
+SpecialRuleExplanation021	【50 % + especial】<br>¡El despliegue de unidades especiales cuesta la mitad,<br>y se han reducido las esperas en un 30 %!<br>Además, se desplegarán dos unidades a la vez.
+SpecialRuleExplanation022	【Rareza: dúo】<br>Solo puede equiparse una unidad de cada rareza.<br>¡Pero se desplegarán dos unidades a la vez!
+SpecialRuleName019	
+SpecialRuleName021	50 % + especial
+SpecialRuleName022	Rareza: dúo
+vibration_error_popup	SO o dispositivos no compatibles.<br>Funciones de vibración no disponibles.
+map_stage_limit_variable_001	Desde aquí no se puede ir a ninguna parte...<br>¿Qué tal si eliges otra fase?<br><color=255,255,0>Hasta desbloquear siguiente: ${month}-${day}-${year}（${hour}:${minute})</color>
+map_stage_limit_variable_error	Desde aquí no se puede ir a ninguna parte...<br>¿Qué tal si eliges otra fase?
+datetime_day	${day} d
+datetime_hour	${hour} h
+datetime_minute	${minute} min
+point_sns	Mis gatos han conseguido %d puntos en %@. %s %s
+PointRulePageHeadline001	Acerca del «Festival de música de Koneko»
+PointRuleHeadline001	Festival de música de Koneko
+PointRuleHeadline002	Obtener puntos de evento
+PointRuleHeadline003	Multiplicador de puntos de evento
+PointRuleExplanation001	Consigue una variedad de premios en función del número total de puntos de evento que hayas conseguido durante el periodo que estuviera activo.<br>Los puntos de evento se consiguen al superar las fases específicas del evento.<br><br>Las fases del evento tienen una regla especial: «Fiebre sónica»<br>A continuación, podrás encontrar más información sobre esta regla.<br><br>【Fiebre sónica】<br>Tu medidor de Fiebre se llenará a medida que consigas puntos durante la batalla.<br>Cuando la barra esté llena, entrarás en un estado de Fiebre sónica durante un tiempo limitado.<br>En este estado, los tiempos de espera del despliegue se quedarán a cero.
+PointRuleExplanation002	Derrota a enemigos para conseguir puntos de evento. La cantidad que consigas dependerá del coste de despliegue x el multiplicador de puntos de evento.<br>Este último variará en función del coste de unidad desplegada y la fase, así que comprueba antes la tabla para obtener más información.<br>Aunque el coste de despliegue de una unidad se haya reducido un talento, obtendrás puntos de evento en función del coste de despliegue estándar de la unidad (antes de aplicar el talento).
+Point_release_popup_001	Festival de música de Koneko<br>¡Consigue hasta ${Point} puntos de evento!
+PointReleaseHeadline001	Temporizador de desbloqueo de puntos de evento
+PointReleaseExplanation001	${month}-${day}-${year}（${hour}:${minute}）　Para desbloquear ${Point} puntos de evento
+point_fraud_error	Es posible que se haya alterado el tiempo del dispositivo.<br>No se han podido obtener los puntos de evento.<br>¿Quieres jugar la fase de todas formas?
+PointReward00	Premio de punto de evento:<br>${itemName} +${itemNum}<br><flash>¡Recibido!</flash>
+PointReward01	Premio de punto de evento recibido<br>¡Unidad felina: ${charaName}<br><flash>desbloqueada!</flash>
+PointReward02	Premio de punto de evento<br>¡Bonus de lealtad<br><flash>mejorado!</flash>
+PointRewardWeb00	Ganas ${itemNum} unidad(es) de ${itemName}
+PointRewardWeb01	Ganas ${itemNum} unidad(es) de ${itemName}
+PointRewardWeb02	Ganas ${itemNum} unidad(es) de ${itemName}
+PointRewardWeb03	Unidad felina desbloqueada: ${charaName}
+PointRewardWeb04	¡Mejora del bonus de lealtad!<span style='color: red;'>* Consulta la información del evento para más detalles.</span>
+point_stage_limit	Límite de puntos de evento alcanzado.<br>* No se pueden obtener más puntos.
+PointRuletabletext001	Fase ${stageNo}<br>${stageName}
+PointRuletabletext002	${costNum1} ¢ ~ ${costNum2} ¢
+PointRuletabletext003	${costNum} ¢ ~
+PointRuletabletext004	No se han obtenido puntos

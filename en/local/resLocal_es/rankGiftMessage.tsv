@@ -144,8 +144,8 @@ Tu premio: ¡5 gatojos raros!<br>Aumenta el nivel máximo de tus unidades raras.
 Tu premio: ¡5 gatojos superraros!<br>Aumenta el nivel máximo de tus unidades<br>superraras (excepto algunas).	//9300_2:ランク9300の達成表示
 Tu premio: ¡5 gatojos megarraros!<br>Aumenta el nivel máximo de tus unidades megarraras.	//9400_2:ランク9400の達成表示
 Tu premio: ¡5 frutas felinas épicas!<br>¡Muta a una unidad!	//9500_2:ランク9500の達成表示
-Los gatos ??? se pueden<br>mejorar hasta el nivel 25.<br>*¡Utiliza XP!	//1110_2:ランク1110の達成表示
-Los gatos ??? se pueden<br>mejorar hasta el nivel 30.<br>*¡Utiliza XP!	//1410_2:ランク1410の達成表示
+Los gatos ??? se pueden<br>mejorar hasta el nivel 25.<br>*¡Utiliza XP para mejorarlos!	//1110_2:ランク1110の達成表示
+Los gatos ??? se pueden<br>mejorar hasta el nivel 30.<br>*¡Utiliza XP para mejorarlos!	//1410_2:ランク1410の達成表示
 ¡Has ganado 1 tique de platino!	//10000_2:ランク10000の達成表示
 Tu premio: ¡5 gatojos especiales!<br>Sube de nivel a una unidad especial (excepto algunas).	//9600_2:ランク9600の達成表示
 Tu premio: ¡5 gatojos raros!<br>Aumenta el nivel máximo de tus unidades raras.	//9700_2:ランク9700の達成表示
@@ -341,3 +341,6 @@ Tu premio: ¡un tique raro!	//10_2:ランク10の達成表示
 Tu premio: ¡5 gatojos legendarios!<br>Aumenta el nivel máximo de algunos gatos.	//27700_2:ランク27700の達成表示
 Tu premio: ¡5 gatojos especiales!<br>Aumenta el nivel máximo de tus unidades<br>especiales (excepto algunas).	//27800_2:ランク27800の達成表示
 Tu premio: ¡5 gatojos raros!<br>Aumenta el nivel máximo de tus unidades raras.	//27900_2:ランク27900の達成表示
+Tu premio: ¡un tique raro!	//28000_2:ランク28000の達成表示
+Tu premio: ¡5 gatojos superraros!<br>Aumenta el nivel máximo de tus unidades<br>superraras (excepto algunas).	//28100_2:ランク28100の達成表示
+Tu premio: ¡5 gatojos megarraros!<br>Aumenta el nivel máximo de tus unidades megarraras.	//28200_2:ランク28200の達成表示

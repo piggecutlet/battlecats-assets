@@ -672,10 +672,10 @@
 9262|Clear "River City Ball-Rolling" %d times!<br>Clear any River City Ball-Rolling stage: %d of %d|Check the Special Missions to access<br>limited "River City Cat Clash" challenges!
 9263|Clear "River City Ball-Rolling" %d times!<br>Clear any River City Ball-Rolling stage: %d of %d
 9264|Clear "River City Challenge Course" %d times!<br>Clear any River City Challenge Course stage: %d of %d
-9265|Clear stages from "River City Challenge Course"<br>%d times using only 9 Normal Cats! (%d of %d)
+9265|【River City Cat Clash】④ : Termine "River City Challenge Course"<br>%d fois avec seulement 9 Chats normaux.
 9266|Defeat %@ at River City Three-Leg Race<br>(Once at any River City Three-Leg Race stage)
 9267|Defeat %@ at River City Three-Leg Race<br>(Once at any River City Three-Leg Race stage)
-9268|Clear all %d River City Cat Clash Limited  Missions!<br>Stages Cleared: %d of %d
+9268|【River City Cat Clash】 Termine toutes les missions d’événement<br>pour gagner 1 ticket rare !|Consulte les missions spéciales pour accéder aux défis<br>à durée limitée "River City Cat Clash"
 9269|Witch Culling Mission 1: Defeat Rose Garden Witch.<br>Appears in the stage Witch's Labyrinth: The Rose Garden Witch.|Madoka Magica Collab Missions<br>added to the Special Missions!
 9270|Witch Culling Mission 2: Defeat Dessert Witch.<br>Appears in the stage Witch's Labyrinth: Dessert Witch.
 9271|Witch Culling Mission 3: Defeat Box Witch.<br>Appears in the stage Witch's Labyrinth - Box Witch.
@@ -801,11 +801,11 @@
 9378|Clear stages from "Merc Storia Collab"<br>%d times! (Any collab stage) (%d of %d)
 9379|Termine le 40e étage de la Tour infernale<br>* Récompense à récupérer une seule fois.|Des missions de la Tour infernale<br>ont été ajoutées aux missions spéciales !
 54|Termine Moisson d'XP !<br>Réussis en terminant tous les niveaux de Moisson d'XP !|Missions Moisson d'XP ! ajoutées aux missions principales !
-9380|Clear stages from "River City Cat Clash"<br>%d times! (Any "River City Cat Clash" stage) (%d of %d)|Check the Special Missions for<br>River City Cat Clash challenges!
-9381|Clear stages from "River City Cat Clash"<br>%d times! (Any "River City Cat Clash" stage) (%d of %d)
-9382|Clear stages from "River City Cat Clash"<br>%d times! (Any "River City Cat Clash" stage) (%d of %d)
-9383|Clear stages from "River City Three-Leg Race"<br>%d times using only 2 Rare Cats! (%d of %d)
-9384|Clear stages from "River City Three-Leg Race"<br>%d times using only 2 Special Cats! (%d of %d)
+9380|【River City Cat Clash】① : Termine %d niveaux collab River City Cat Clash<br>. Tous les niveaux collab comptent. (%d sur %d)
+9381|【River City Cat Clash】② : Termine %d niveaux collab River City Cat Clash<br>. Tous les niveaux collab comptent. (%d sur %d)
+9382|【River City Cat Clash】② : Termine %d niveaux collab River City Cat Clash<br>. Tous les niveaux collab comptent. (%d sur %d)
+9383|【River City Cat Clash】⑤ : Termine "River City Three-Leg Race"<br>%d fois avec seulement 2 Chats rares.|Consulte les missions spéciales pour accéder aux défis<br>à durée limitée "River City Cat Clash"
+9384|【River City Cat Clash】⑥ : Termine "River City Three-Leg Race"<br>%d fois avec seulement 2 Chats spéciaux.
 9385|Clear stages from "Street Fighter V CE Collab"<br>%d times! (Any collab stage) (%d of %d)|Check the Special Missions to access<br>limited "Street Fighter V CE" challenges!
 9386|Clear stages from "Street Fighter V CE Collab"<br>%d times! (Any collab stage) (%d of %d)
 9387|Clear stages from "Street Fighter V CE Collab"<br>%d times! (Any collab stage) (%d of %d)
@@ -835,9 +835,9 @@
 9410|Termine les niv. Nouvel An lunaire %d fois !<br>Termine 1 niv. Nouvel An lunaire : %d sur %d
 9411|Termine les niv. Nouvel An lunaire %d fois !<br>Termine 1 niv. Nouvel An lunaire : %d sur %d
 56|Termine %d niv. Abattage de Béhémoths pour la 1re fois.<br>Confirme les niv. cibles dans "À propos des défis" (%d sur %d)
-9412|Clear %d Fate/stay night [HF] collab stages.<br>All Fate/stay night [HF] stages count towards this mission. (%d of %d)|"Fate/stay night [HF]" Collab<br>Missions available!
-9413|Clear %d Fate/stay night [HF] collab stages.<br>All Fate/stay night [HF] stages count towards this mission. (%d of %d)
-9414|Clear %d Fate/stay night [HF] collab stages.<br>All Fate/stay night [HF] stages count towards this mission. (%d of %d)
+9412|Clear %d Fate/stay night [HF] collab stages.<br>All Fate/stay night [HF] stages count for this mission. (%d of %d)|"Fate/stay night [HF]" Collab<br>Missions available!
+9413|Clear %d Fate/stay night [HF] collab stages.<br>All Fate/stay night [HF] stages count for this mission. (%d of %d)
+9414|Clear %d Fate/stay night [HF] collab stages.<br>All Fate/stay night [HF] stages count for this mission. (%d of %d)
 9415|【80 M de joueurs】Réussis %d expéditions avec Gamatoto !<br>(Termine 1 expédition complète : %d sur %d)|Consulte les missions spéciales pour accéder<br>aux défis 80 millions de joueurs !
 9416|【80 M de joueurs】Réussis %d expéditions avec Gamatoto !<br>(Termine 5 expéditions complètes : %d sur %d)
 9417|【80 M】Termine %d fois le Cadeau joyeux 80 M de joueurs !<br>(%d/%d)
@@ -931,9 +931,9 @@
 9502|[Niveau Invasion] Mission à durée limitée<br>Termine Ascension de Z-Onel
 9503|[Niveau Invasion] Mission à durée limitée<br>Termine La vieille reine
 9504|[Niveau Invasion] Mission à durée limitée<br>Termine Paradis de Papuu
-9505|[Niveau invasion] Le masque et le bébé<br>Termine tous les niveaux et niveaux EX
-9506|[Niveau Invasion] Termine Prince et revenant<br>Termine tous les niveaux et niveaux EX
-9507|[Niveau Invasion] Termine Reine et saint<br>Termine tous les niveaux et niveaux EX
+9505|[Niveau Invasion] : Termine Le masque et le bébé<br>Le niveau suivant doit être terminé.
+9506|[Niveau Invasion] : Termine Prince et revenant<br>Le niveau suivant doit être terminé.
+9507|[Niveau Invasion] : Termine Reine et saint<br>Le niveau suivant doit être terminé.
 9508|Devoirs de vacances ④ : termine une rédaction parfaite.<br>Termine %d niveaux Chats de vacances d’été (%d/%d terminés).
 9509|Devoirs de vacances 2 ⑤ : observe les insectes<br>Termine Nuit d’été, ret. bercail nv 1 avec Chat Kabuto
 9510|Devoirs de vacances 2 ⑥ : observe les insectes.<br>Termine Nuit d’été, ret. bercail nv 2 avec Chat Kuwagata
@@ -1203,16 +1203,33 @@
 9761|L’été revient, Sem. 2 ② : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
 9762|L’été revient, Sem. 2 ③ : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
 9763|L’été revient, Sem. 2 ④ : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
-9764|Crédit supplémentaire : Termine Le masque et le bébé<br>* Le niveau suite doit être terminé.
-9765|Crédit supplémentaire : Termine Prince et revenant<br>* Le niveau suite doit être terminé.
+9764|Crédit supplémentaire : Termine Le masque et le bébé<br>* Le niveau suivant doit être terminé.
+9765|Crédit supplémentaire : Termine Prince et revenant<br>* Le niveau suivant doit être terminé.
 9766|L’été revient, Sem. 3 ① : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)|L’été revient, Sem. 3 a été ajouté<br>à tes missions spéciales !
 9767|L’été revient, Sem. 3 ② : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
 9768|L’été revient, Sem. 3 ③ : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
 9769|L’été revient, Sem. 3 ④ : Termine %d niveaux<br>N’importe quel niveau terminé compte ! (%d/%d)
-9770|Crédit supplémentaire : Termine Reine et saint<br>* Le niveau suite doit être terminé.
+9770|Crédit supplémentaire : Termine Reine et saint<br>* Le niveau suivant doit être terminé.
 9771|Crédit supplémentaire : Termine Au fond du marais<br>* À terminer avec 10 Chats spéciaux.
 9668|【Progression】Ouvre une Chapsule %d fois ! (%d sur %d)<br>Obtiens et utilise un ticket Chapsule gratuit chaque jour.|Ajout de missions de Progression<br>aux missions spéciales !
 9669|【Progression】<br>Termine %d niveau(x) de The Battle Cats. (%d sur %d)
 9670|【Progression】Réussis %d expéditions avec Gamatoto !<br>(Termine 3 expéditions complètes vers n'importe quelle zone Gamatoto : %d sur %d)
 9671|【Progression】<br>Termine %d niveau(x) de The Battle Cats. (%d sur %d)
 9672|【Progression】Termine toutes les missions d'événement<br>pour gagner 3 tickets rares.
+9772|【120 M de joueurs】 Termine toutes les missions d’événement<br>pour gagner 1 ticket rare !|Consulte les missions spéciales pour accéder<br>aux défis à durée limitée "120 M de joueurs" !
+9773|【120 M】 Réussis %d expéditions avec Gamatoto !<br>(Termine 1 expédition complète : %d sur %d)
+9774|【120 M】 Réussis %d expéditions avec Gamatoto !<br>(Termine 3 expéditions complètes : %d sur %d)
+9775|【120 M】 Réussis %d expéditions avec Gamatoto !<br>(Termine 5 expéditions complètes : %d sur %d)
+9776|【120 M】 Termine %d niveau(x) de The Battle Cats. (%d sur %d)
+9777|【120 M】 Termine %d niveau(x) de The Battle Cats. (%d sur %d)
+9778|【120 M】 Termine %d niveau(x) de The Battle Cats. (%d sur %d)
+9779|【120 M】 Termine %d niveau(x) de The Battle Cats. (%d sur %d)
+9780|【Fête d’Halloween】 Termine toutes les missions d’événement<br>pour gagner 1 ticket rare !|Consulte les missions spéciales pour accéder<br>aux défis limités "Fête d'Halloween" !
+9781|【Fête d’Halloween】 Gagne un objet vedette dans<br>les Chapsules de l'événement spécial !
+9782|【Fête d’Halloween】 Termine %d niveau(x)<br>de The Battle Cats. (%d sur %d)
+9783|【Fête d’Halloween】 Termine %d niveau(x) de The Battle Cats.<br> (%d sur %d)
+9784|【Fête d’Halloween】 Termine %d niveau(x)<br>de The Battle Cats. (%d sur %d)
+9785|【Fête d’Halloween】 Termine %d niveau(x)<br>de The Battle Cats. (%d sur %d)
+9786|【Fête d’Halloween】 Termine %d niveau(x)<br>de The Battle Cats. (%d sur %d)
+9787|【River City Cat Clash】⑤ : Termine "River City Three-Leg Race"<br>%d fois avec seulement 2 Chats rares.|Consulte les missions spéciales pour accéder aux défis<br>à durée limitée "River City Cat Clash"
+9788|【River City Cat Clash】⑥ : Termine "River City Three-Leg Race"<br>%d fois avec seulement 2 Chats spéciaux.

@@ -82,8 +82,8 @@ zombie_area_10	ZQ Mauna Kea
 receivedBoxText	Les objets non récupérés dans un délai de 30 jours sont désactivés.
 receive_version_error	Actualise la version<br>avant d'accepter tes récompenses.
 receive_network_error	Erreur de connexion<br>Les objets n'ont pas pu être récupérés.
-receive_item_popup	%d %s
-receive_item_popup_xp	%d %s
+receive_item_popup	%s x%d
+receive_item_popup_xp	%s x%d
 receive_item_popup_chara	Unité féline : %s
 receive_item_popup_chara_evolve	Forme ultime : %s
 receive_item_popup_last	reçu(s) !
@@ -1554,7 +1554,7 @@ treasure_box_result_last_one	<color=255,255,0>Tu as tiré : ${itemName} !</col
 gama_collabo_05_popup	<flash>Sonic the Hedgehog Collab!</flash><br>Chao joins the Gamatoto Expeditions!<br>Earn more items during the collab!<br>※Does not apply to Cat Food.
 gama_collabo_05_name	Chao
 gama_collabo_05_charatext	Chao has joined Gamatoto Expeditions!<br>Earn more item rewards during the collab!<br>※Does not apply to Cat Food.
-GiftMessage_023	<flash>Récompense de niveau terminé ${progressText}</flash><br>Termine le dernier niveau de<br>« Dévoreuse de vérité » pour tenter d’obtenir<br>l’unité spéciale Newton, maître de la logique !
+GiftMessage_023	<flash>Récompense de niveau terminé ${progressText}</flash><br>Termine le dernier niveau de<br>« Dévoreuse de vérité » pour tenter d’obtenir<br>l’unité spéciale Newtone, maître de la logique !
 slot_SNS_005	J’ai gagné %d Miams aux Machines à sous Chat sauvageⅡ de #TheBattleCats !<br><br>#BattleCats
 SpecialRuleExplanation009	【Marche uniforme】<br>Toutes les unités alliées et ennemies<br>se déplacent à la même vitesse.
 SpecialRuleExplanation010	【Plus un : Spécial】<br>Les unités spéciales sont automatiquement<br>déployées deux par deux.
@@ -1674,3 +1674,40 @@ SpecialRuleName020	Dépensez un million
 Stage_battle00	Battre en retraite ?<br>Abandonne maintenant et récupère tes objets ! (en 10 s)
 Stage_lock00	Pas assez d’objets.
 unlock_popup_message_160	Le <flash>Dieu des Chats</flash> est apparu dans la section des Chats spéciaux !<br>Débloque-le depuis le menu Améliorer !<br>* Il pourrait bien te sauver en cas de bataille serrée... !
+scratch_SNS_006	J’ai gagné %d Miam dans #BattleCatsScratcher !<br>Essaie une fois par semaine pour tenter de remporter un super prix !<br><br>#TheBattleCats #BattleCats #CatScratcher #BattleCats120M
+SpecialRuleExplanation019	
+SpecialRuleExplanation021	【Moitié prix+ : Spéciale】<br>Coûts de déploiement des unités spéciales divisés par deux,<br>et temps de recharge des déploiements réduit de 30 % !<br>En plus, deux unités peuvent être déployées en même temps !
+SpecialRuleExplanation022	【Tirage de rareté : Duo】<br>Seule une unité de chaque rareté peut être équipée dans ta formation.<br>Cependant, deux unités peuvent être déployées en même temps !
+SpecialRuleName019	
+SpecialRuleName021	Moitié prix+ : Spéc.
+SpecialRuleName022	Tirage de rareté : Duo
+vibration_error_popup	Système d'exploitation ou appareil non pris en charge.<br>Fonctionnalité de vibration indisponible.
+map_stage_limit_variable_001	C'est le bout du bout...<br>Pourquoi ne pas essayer un autre niveau ?<br><color=255,255,0>Prochain déverrouillage : ${month}-${day}-${year}（${hour}:${minute}</color>
+map_stage_limit_variable_error	C'est le bout du bout...<br>Pourquoi ne pas essayer un autre niveau ?
+datetime_day	${day} j
+datetime_hour	${hour} h
+datetime_minute	${minute} m
+point_sns	Mes Battle Cats ont marqué %d pts dans %@ ! %s %s
+PointRulePageHeadline001	À propos du "Festival de musique de Koneko"
+PointRuleHeadline001	Festival de musique de Koneko
+PointRuleHeadline002	Gagner des points d'événement
+PointRuleHeadline003	Multiplicateur de points d'événement
+PointRuleExplanation001	Gagne diverses récompenses basées sur le total de points d'événement amassés pendant cette période.<br>Les points d'événement sont obtenus en relevant certains niveaux événements.<br><br>Les niveaux événements ont une règle spéciale : "La fièvre de Sonic"<br>Regarde ci-dessous pour en savoir plus sur cette règle.<br><br>【La fièvre de Sonic】<br>Ta jauge de fièvre se remplira selon les points d'événement gagnés pendant la bataille,<br>et tu auras la fièvre de Sonic pendant un certain temps quand la jauge est remplie !<br>Pendant la fièvre de Sonic, les temps de recharge de tous les déploiements sont fixés à zéro !
+PointRuleExplanation002	Gagne des points d'événement en vainquant des ennemis, les points étant basés sur les coûts de déploiement x le multiplicateur de points d'événement.<br>Les multiplicateurs de points d'événement dépendent des coûts de déploiement des unités et des niveaux, alors consulte le tableau des multiplicateurs de points d'événement pour en savoir plus.<br>Même si les coûts de déploiement d'une unité ont été réduits par un talent, tu gagneras quand même les points d'événement basés sur ses coûts de déploiement normaux (sans le talent).
+Point_release_popup_001	Festival de musique de Koneko<br>Gagne jusqu'à ${Point} points d'événement
+PointReleaseHeadline001	Temps de déverrouillage des points d'événement
+PointReleaseExplanation001	${month}-${day}-${year}（${hour}:${minute}）　avant le déverrouillage des points d'événement ${Point}
+point_fraud_error	L'horloge de l'appareil a peut-être été modifiée.<br>Impossible de recevoir les points d'événement.<br>Veux-tu toujours jouer à ce niveau ?
+PointReward00	Récompenses de points d'événement<br>${itemName} +${itemNum}<br><flash>reçus !</flash>
+PointReward01	Récompenses de points d'événement<br>Unité Chat : ${charaName}<br><flash>déverrouillée !</flash>
+PointReward02	Récompenses de points d'événement<br>Bonus de connexion<br><flash>Amélioré !</flash>
+PointRewardWeb00	Tu as gagné ${itemNum} ${itemName}(s)
+PointRewardWeb01	Tu as gagné ${itemNum} ${itemName}(s)
+PointRewardWeb02	Tu as gagné ${itemNum} ${itemName}(s)
+PointRewardWeb03	Unité Chat déverrouillée : ${charaName}
+PointRewardWeb04	Bonus de connexion amélioré !<span style='color: red;'>* Consulte les infos d'événements pour en savoir plus !</span>
+point_stage_limit	Limite de points d'événement atteinte.<br>* Tu ne peux pas gagner d'autres points.
+PointRuletabletext001	Niveau ${stageNo}<br>${stageName}
+PointRuletabletext002	${costNum1} ¢ ~ ${costNum2} ¢
+PointRuletabletext003	${costNum} ¢ ~
+PointRuletabletext004	Aucun point gagné

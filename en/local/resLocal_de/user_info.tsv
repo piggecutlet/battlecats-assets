@@ -34,8 +34,8 @@
 1950	Erhalte 3 megaseltene Katzenaugen.
 3500	Normale Katzen können auf<br>Maximalstufe +45 verbessert werden.<br><span class="fs76">*Nutze Katzenkapseln zum Verbessern.</span>
 3550	Normale Katzen können auf<br>Maximalstufe +50 verbessert werden.<br><span class="fs76">*Nutze Katzenkapseln zum Verbessern.</span>
-3600	Superseltene verrückte Katzen können auf<br>Stufe 25 verbessert werden.<br><span class="fs76">*Nutze XP zum Verbessern.</span>
-3650	Superseltene verrückte Katzen können auf<br>Stufe 30 verbessert werden.<br><span class="fs76">*Nutze XP zum Verbessern.</span>
+3600	Superseltene verrückte Katzen können auf<br>Stufe 25 verbessert werden.<br><span class="fs76">*Nutze XP zum Verbessern!*</span>
+3650	Superseltene verrückte Katzen können auf<br>Stufe 30 verbessert werden.<br><span class="fs76">*Nutze XP zum Verbessern!*</span>
 4000	Erhalte ein seltenes Ticket.
 4050	Seltene Katzen können auf<br>Maximalstufe +60 verbessert werden.<br><span class="fs76">*Nutze seltene Kapseln zum Verbessern.</span>
 4100	Superseltene Katzen können auf<br>Maximalstufe +50 verbessert werden.<br><span class="fs76">*Nutze seltene Kapseln zum Verbessern.</span>
@@ -341,3 +341,6 @@
 27700	Erhalte 5 legendäre Katzenaugen.
 27800	Erhalte 5 besondere Katzenaugen.
 27900	Erhalte 5 seltene Katzenaugen.
+28000	Erhalte 1 seltenes Ticket
+28100	Erhalte 5 superseltene Katzenaugen
+28200	Erhalte 5 megaseltene Katzenaugen
