@@ -20,7 +20,7 @@ Eficaz contra enemigos sin rasgos.|＠
 (Ralentización)|La velocidad de movimiento del tipo de enemigo|indicado se reduce durante un periodo de tiempo.|＠
 (Supervivencia)|Cuando la vida de la unidad baja de cero,|recupera un poco.|＠
 (Destruyebases)|Si la unidad ataca la base enemiga,|le inflige mucho más daño.|＠
-(Daño crítico)|Los ataques de esta unidad tienen más|probabilidad de dañar a enemigos metálicos.|＠
+(Daño crítico)|Lanza un golpe que atraviesa armaduras|e inflige daño doble incluso a enemigos metálicos.|＠
 (Objetivo único)|Los ataques de esta unidad solo dañan|a un tipo específico de enemigo.|＠
 (Eficacia)|Esta unidad es más resistente contra el tipo de|enemigo indicado y también le infligirá más daño.|＠
 (Resistencia)|Se reduce significativamente el daño|recibido del tipo de enemigo indicado.|＠
@@ -58,7 +58,7 @@ Eficaz contra enemigos sin rasgos.|＠
 (Mejora de repulsión)|La unidad tiene más probabilidades de repeler.|＠
 (Resistencia a maldición)|El efecto de maldición de los ataques enemigos|tiene más probabilidades de fallar.|＠
 (Mejora de ataque)|El poder de ataque de la base aumenta permanentemente.|＠
-(Mejora de defensa)|La defensa de la base aumenta permanentemente.|＠
+(Mejora de salud)|La salud de la base aumenta permanentemente.|＠
 (Megafuerza)|El daño que se inflige a los enemigos|objetivo aumenta tremendamente.|＠
 (Superdureza)|El daño que se recibe de los enemigos|objetivo disminuye tremendamente.|＠
 (Objetivo: rojos)|Las habilidades afectan también a enemigos rojos.|＠
@@ -99,3 +99,6 @@ Eficaz contra enemigos sin rasgos.|＠
 (Inmunidad a explosiones)|No sufre daño de explosiones enemigas.|＠
 ＠
 (Inmunidad a Drenar)|Inmune a los efectos negativos|infligidos por las habilidades drenantes enemigas.|＠
+(Mejora de ataque+)|El ataque de la base aumenta mucho permanentemente.|＠
+(Mejora de salud+)|La defensa de la base aumenta mucho permanentemente.|＠
+(Reducción del tiempo de espera)|Reduce el tiempo de espera de despliegue de unidades.|Se activa cada 2 despliegues. (No acumulable).|＠

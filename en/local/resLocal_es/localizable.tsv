@@ -1669,7 +1669,7 @@ tutorial_popup3	Toca el icono Bloquear de la derecha<br>para mantener el artícu
 tutorial_popup4	No tienes suficiente XP...
 unlock_popup_message_158	<flash>¡Ha aparecido un nuevo héroe!</flash><br>¡Actívalo en el menú «Mejorar»!
 unlock_popup_message_159	
-item_pack_name_92	
+item_pack_name_92	Compra: PAC-MAN
 SpecialRuleName020	Gasta un millón
 Stage_battle00	¿Retirarte?<br>¡Ríndete para reembolsarte tus artículos (en 10 s)
 Stage_lock00	Faltan objetos.
@@ -1711,3 +1711,26 @@ PointRuletabletext001	Fase ${stageNo}<br>${stageName}
 PointRuletabletext002	${costNum1} ¢ ~ ${costNum2} ¢
 PointRuletabletext003	${costNum} ¢ ~
 PointRuletabletext004	No se han obtenido puntos
+equipment_error3	<color=255,255,0>* Cuando desbloquees los talentos de %@, <br>los efectos del orbe de talento %@ ya no estarán activos.</color>
+external_purchase_invalid_message	
+external_purchase_limit_message	
+external_purchase_no_purchase_message	
+external_purchase_received_message	
+external_purchase_version_message	
+potential_skill_MaxLevel	【Nivel máximo %d】
+potential_skill_name70	Mejora de ataque+
+potential_skill_name71	Mejora de salud+
+potential_skill_name72	Reducción del tiempo de espera
+treasure_effect_popup	<color=255,255,0>¡Efecto de tesoro</color><br>${treasureEffectName}<br><flash>activado!</flash>
+treasure_gauge_error1	No puedes ir a la lista de tesoros<br>desde Etapas de Leyenda.
+treasure_gauge_error2	No puedes ir a la lista de tesoros<br>desde Dojo Afilagarras.
+treasure_gauge_error3	No puedes ir a la lista de tesoros<br>desde Las Puertas de Akus.
+treasure_gauge_error4	No puedes ir a la lista de tesoros<br>desde Laberinto Subterráneo.
+treasure_gauge_error5	No puedes ir a la lista de tesoros<br>desde fases de evento.
+treasure_gauge_tutorial1	¡El indicador de tesoros está lleno!<br>¡Supera una fase con el indicador lleno<br>para recibir un tesoro superior garantizado!
+treasure_gauge_tutorial2	¡Toca el indicador de tesoros<br>para saltar a la lista de tesoros<br>y confirmar los tesoros que no has obtenido!
+treasure_gauge_tutorial3	¡Usa el indicador de tesoros para<br>conseguir los últimos tesoros!<br>¡<color=255,255,0>Toca dos veces</color>para saltar a esa fase!
+treasure_tutorial1	<flash>Un regalo del gato:</flash><br>¡Todos los tesoros inferiores de las fases<br>hasta Filipinas!
+treasure_tutorial2	¡Conseguir el tesoro de Japón<br>activará el efecto de Bebida energética,<br> aumentando la producción de dinero!
+treasure_tutorial3	¡Intenta conseguir el tesoro de Japón!
+unlock_popup_message_161	<flash>¡Has desbloqueado el indicador de tesoros!</flash><br>¡Garantiza que obtengas un tesoro superior<br>cuando el indicador esté lleno!

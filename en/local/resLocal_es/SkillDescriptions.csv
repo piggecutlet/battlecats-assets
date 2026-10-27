@@ -25,7 +25,7 @@ textID|テキスト内容
 24|Obtiene la habilidad de resistencia a abducción.<br>Sube su nivel para incrementar esta resistencia.
 25|Obtiene la habilidad de inmunidad a maldición.
 26|Obtiene la habilidad de resistencia a maldición.<br>Sube su nivel para incrementar esta resistencia.
-27|Aumenta el poder defensivo de la unidad.<br>Sube su nivel para mejorar su defensa.
+27|La vida de las unidades aumenta.<br>¡Sube de nivel para que aumente aún más!
 28|Aumenta el poder de ataque de la unidad.<br>Sube su nivel para mejorar su ataque.
 29|Aumenta la velocidad de movimiento de la unidad.<br>Sube su nivel para mejorar su velocidad.
 30|Aumenta la frecuencia de repulsión de la unidad.<br>Sube su nivel para repeler a más enemigos.
@@ -101,3 +101,6 @@ textID|テキスト内容
 100|Obtiene la habilidad de ralentización contra todos.<br>Sube su nivel para ralentizar más tiempo a los enemigos.
 101|Obtiene la habilidad de repulsión contra todos.<br>Sube su nivel para aumentar la tasa de activación.
 102|Obtiene la habilidad de maldición contra todos.<br>Sube su nivel para maldecir más tiempo a los enemigos.
+103|La vida de las unidades aumenta mucho.<br>¡Sube de nivel para que aumente aún más!
+104|El poder de ataque de la unidad aumentará mucho.<br>¡Sube de nivel para aumentarlo aún más!
+105|Mejora la habilidad «Reducción del tiempo de espera».<br>¡Sube de nivel para que el tiempo de espera sea más corto!

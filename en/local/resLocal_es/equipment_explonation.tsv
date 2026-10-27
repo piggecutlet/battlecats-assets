@@ -15,9 +15,9 @@ Evasión (Todo): %@	Obtiene la habilidad de evasión (Todo)<br>cada 2 despliegue
 Resistencia a ralentización: %@	Reduce el efecto de ralentización<br>de ataques enemigos.
 Resistencia a maldición: %@	Reduce el efecto de maldición<br>de ataques enemigos.
 Impulso en Leyendas Inquietantes: %@	Mayor salud y poder de ataque<br>en Leyendas Inquietantes (no acumulable).
-Contador de única réplica %@	Ataca con una réplica<br>tras un ataque enemigo con réplica<br>cada 2 despliegues (no acumulable)
+Contador de única réplica %@	Ataca con una réplica<br>tras un ataque enemigo con réplica<br>cada 2 despliegues (no acumulable)	Contador de única réplica
 Berserker %@	Aumenta el poder de ataque tras vencer<br>a un número de enemigos (no acumulable)
-Reducción del tiempo de espera %@	Reduce el tiempo de espera<br>cada 2 despliegues (no acumulable)
+Reducción del tiempo de espera %@	Reduce el tiempo de espera<br>de despliegue de unidades. Se activa cada<br>2 despliegues. (No acumulable)	Reducción del tiempo de espera
 Resistencia a paralización %@	Reduce el efecto de paralización<br>de ataques enemigos
 Resistencia a desgaste %@	Reduce el efecto de desgaste<br>de los ataques enemigos.
 Coste reducido: %@	Reduce el coste de despliegue por unidad<br>cada 2 despliegues (no acumulable)

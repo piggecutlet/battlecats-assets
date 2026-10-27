@@ -20,7 +20,7 @@ Efficace contre les ennemis sans caract.|＠
 【Ralentissement】|Les types d’ennemis indiqués voient leur vitesse|réduite pendant une durée définie.|＠
 【Survie】|Autoguérit l’unité à petite dose quand|sa santé chute au-dessous de zéro.|＠
 【Casseur de base】|Inflige beaucoup plus de dégâts|en attaquant les bases ennemies.|＠
-【Critique】|Chance définie d’infliger davantage de dégâts|aux ennemis métal lors des attaques.|＠
+【Critique】|Assène un coup perforant qui inflige|le double de dégâts, même aux ennemis en métal.|＠
 【Attaque uniquement】|Ne blesse qu’un type spécifique|de cible ennemie.|＠
 【Fort contre】|Les types d’ennemis indiqués subissent des dégâts|suppl. et les dégâts qu’ils infligent sont réduits.|＠
 【Résistance】|Les dégâts infligés par les types d’ennemis indiqués|sont fortement réduits.|＠
@@ -58,7 +58,7 @@ Efficace contre les ennemis sans caract.|＠
 【Recul amélioré】|Les chances de repousser l’ennemi augmentent.|＠
 【Résist. Malédictions】|Les malédictions infligées par les ennemis|ont moins de chances de faire effet.|＠
 【Bonus d’attaque】|Augmente la puissance d'attaque de base.|＠
-【Bonus de défense】|Augmente la défense de base.|＠
+【Bonus de PV】|Augmente la PV de base.|＠
 【Dégâts insensés】|Augmente considérablement les dégâts infligés|aux ennemis cibles.|＠
 【Résistance acharnée】|Réduit considérablement les dégâts infligés|par les ennemis cibles.|＠
 【Cible : ennemis rouge】|Les capacités affecteront aussi les ennemis rouges.|＠
@@ -99,3 +99,6 @@ Efficace contre les ennemis sans caract.|＠
 【Immun. Explosions】|Immunité aux dégâts des explosions ennemies.|＠
 ＠
 【Immun. Absorption】|Immunité aux effets de statut|infligés par les capacités d'absorption ennemies.|＠
+【Buff d’att.+】|Augmente fortement et durablement l'attaque de base.|＠
+【Buff de PV+】|Augmente fortement et durablement la santé de base.|＠
+【Rechargement raccourci】|Réduit le temps de rechargement.|S'active tous les 2 déploiements. (non cumulable)|＠

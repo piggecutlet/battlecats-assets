@@ -25,7 +25,7 @@ textID|テキスト内容
 24|Erhalte die Fähigkeit: Teleport-Resistenz<br>Verbesserung gewährt mehr Widerstandskraft!
 25|Erhalte die Fähigkeit: Immun gegen Flüche
 26|Erhalte die Fähigkeit: Fluch-Resistenz<br>Verbesserung gewährt mehr Widerstandskraft!
-27|Verteidigungskraft der Einheit wird erhöht.<br>Verbesserung gewährt stärkere Verteidigung!
+27|HP der Einheit wird erhöht.<br>Verbesserung gewährt mehr HP!
 28|Angriffskraft der Einheit wird erhöht.<br>Verbesserung gewährt stärkeren Angriff!
 29|Tempo der Einheit wird erhöht.<br>Verbesserung gewährt mehr Geschwindigkeit!
 30|Rückstoßchance der Einheit wird erhöht.<br>Verbesserung gewährt höhere Rückstoßchance!
@@ -101,3 +101,6 @@ textID|テキスト内容
 100|Erhalte die Fähigkeit: Lähmen [Alle].<br>Verbesserung gewährt längeres Lähmen!
 101|Erhalte die Fähigkeit: Rückstoß [Alle].<br>Verbesserung gewährt eine höhere Chance auf Rückstoß!
 102|Erhalte die Fähigkeit: Fluch [Alle].<br>Verbesserung verlängert die Dauer der Flüche!
+103|Die Einheit erhält deutlich mehr HP.<br>Verbesserung gewährt noch viel mehr HP!
+104|Die Einheit erhält deutlich mehr Angriffskraft.<br>Verbesserung erhöht sie noch weiter!
+105|Verbessere die Fähigkeit: Verkürzte Abklingzeit<br>Verbesserung verkürzt die Abklingzeit noch mehr!

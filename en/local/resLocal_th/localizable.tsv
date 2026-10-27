@@ -1668,7 +1668,7 @@ tutorial_popup3	แตะไอคอนล็อกทางด้านขว�
 tutorial_popup4	คุณมี XP ไม่เพียงพอ...
 unlock_popup_message_158	<flash>ฮีโร่ตัวใหม่ปรากฏตัว!</flash><br>เปิดใช้งานได้ที่เมนูอัปเกรด!
 unlock_popup_message_159	
-item_pack_name_92	
+item_pack_name_92	ซื้อ: PAC-MAN
 SpecialRuleName020	ใช้ 1 ล้าน
 Stage_battle00	ยอมแพ้?<br>ยกเลิกตอนนี้เพื่อรับไอเทมคืน! (ภายใน 10 วินาที)
 Stage_lock00	ไอเทมไม่พอ
@@ -1710,3 +1710,26 @@ PointRuletabletext001	ด่านที่ ${stageNo}<br>${stageName}
 PointRuletabletext002	${costNum1}¢ ~ ${costNum2}¢
 PointRuletabletext003	${costNum} ¢ ~
 PointRuletabletext004	ไม่ได้รับแต้ม
+equipment_error3	<color=255,255,0>* เมื่อพรสวรรค์ของ %@ ถูกปลดล็อก<br>เอฟเฟกต์ของลูกแก้วพรสวรรค์ %@ จะไม่ทำงานอีกต่อไป</color>
+external_purchase_invalid_message	
+external_purchase_limit_message	
+external_purchase_no_purchase_message	
+external_purchase_received_message	
+external_purchase_version_message	
+potential_skill_MaxLevel	【เลเวลสูงสุด %d】
+potential_skill_name70	บัฟโจมตี+
+potential_skill_name71	บัฟ HP+
+potential_skill_name72	คูลดาวน์สั้นลง
+treasure_effect_popup	<color=255,255,0>เอฟเฟกต์สมบัติ</color><br>${treasureEffectName}<br><flash>เปิดใช้แล้ว!</flash>
+treasure_gauge_error1	ไม่สามารถไปยังรายการสมบัติ<br>จากด่านตำนานได้
+treasure_gauge_error2	ไม่สามารถไปยังรายการสมบัติ<br>จากโรงฝึกเล็บแมวได้
+treasure_gauge_error3	ไม่สามารถไปยังรายการสมบัติ<br>จากประตูแห่งอากุได้
+treasure_gauge_error4	ไม่สามารถไปยังรายการสมบัติ<br>จากเขาวงกตใต้ดินได้
+treasure_gauge_error5	ไม่สามารถไปยังรายการสมบัติ<br>จากด่านอีเวนต์ได้
+treasure_gauge_tutorial1	เกจสมบัติเต็มแล้ว!<br>เคลียร์ด่านในตอนที่เกจเต็ม<br>เพื่อได้รับการันตีสมบัติระดับดีเลิศ!
+treasure_gauge_tutorial2	แตะที่เกจสมบัติ<br>เพื่อไปยังรายการสมบัติ<br>และยืนยันสมบัติที่ยังไม่ได้รับ!
+treasure_gauge_tutorial3	ใช้เกจสมบัติเพื่อ<br>เก็บสมบัติที่เหลืออยู่พวกนั้น!<br><color=255,255,0>แตะสองครั้ง</color>เพื่อโดดไปยังด่านนั้น!
+treasure_tutorial1	<flash>ของขวัญจากแมว:</flash><br>สมบัติระดับด้อยจากด่าน<br>ยาวไปถึงฟิลิปปินส์!
+treasure_tutorial2	การเก็บสมบัติจากญี่ปุ่น<br>จะเปิดใช้เอฟเฟกต์เครื่องดื่มชูกำลัง<br>ซึ่งเพิ่มการผลิตเงิน!
+treasure_tutorial3	ลองคว้าสมบัติจากญี่ปุ่นมาสิ!
+unlock_popup_message_161	<flash>ปลดล็อกเกจสมบัติแล้ว!</flash><br>การันตีดร็อปสมบัติระดับดีเลิศ<br>ในตอนที่เกจเต็ม!

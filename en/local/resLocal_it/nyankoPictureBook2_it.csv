@@ -20,7 +20,7 @@ Efficace contro i nemici senza tratti.|＠
 【Rallentamento】|I tipi di nemici indicati avranno velocità|ridotta per un determinato periodo.|＠
 【Sopravvivenza】|Dopo che la salute di questa unità scende sotto|lo zero, può guarire da sola per una piccola quantità.|＠
 【Distruttore di basi】|Se questa unità attacca una base nemica,|infliggerà molti più danni.|＠
-【Danni critici】|Gli attacchi di questa unità hanno una determinata|possibilità di danni extra che possono ferire metallici.|＠
+【Danni critici】|Infligge un colpo perforante,|causando il doppio dei danni anche ai nemici metallici.|＠
 【Attacco mirato】|Gli attacchi di questa unità causano danni solo a|uno specifico tipo di nemici.|＠
 【Efficace contro】|I tipi di nemici indicati subiscono danni extra|e i danni che infliggono sono ridotti.|＠
 【Resistente】|I danni ricevuti dai tipi di nemici|indicati verranno ridotti di molto.|＠
@@ -58,7 +58,7 @@ Efficace contro i nemici senza tratti.|＠
 【Respinta migliorata】|Possibilità di respinta aumentate.|＠
 【Resistente a maledizioni】|Le maledizioni inflitte dai nemici|hanno meno probabilità di avere effetto.|＠
 【Aumento attacco】|L'attacco base aumenta in modo permanente.|＠
-【Aumento difesa】|La difesa base aumenta in modo permanente.|＠
+【Aumento HP】|La HP base aumenta in modo permanente.|＠
 【Danni incredibili】|Aumenta enormemente i danni ai nemici|di una gran quantità.|＠
 【Incredibilmente forte】|Riduce i danni subiti dai nemici obiettivo|di una gran quantità.|＠
 【Obiettivo rosso】|Le abilità avranno effetto anche sui nemici rossi.|＠
@@ -99,3 +99,6 @@ Efficace contro i nemici senza tratti.|＠
 【Immune da esplosioni】|Non subisce danni da esplosioni nemiche.|＠
 ＠
 【Immune da prosciugamento】|Immune dagli effetti di stato|inflitti da abilità Prosciugamento nemiche.|＠
+【Aumento attacco+】|L'attacco base aumenta notevolmente in modo permanente.|＠
+【Aumento HP+】|La salute base aumenta notevolmente in modo permanente.|＠
+【Tempo di ricarica ridotto】|Riduce il tempo di ricarica di schieramento delle unità.|Si attiva ogni 2 schieramenti. (Non si accumula)|＠

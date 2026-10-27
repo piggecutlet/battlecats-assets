@@ -1669,7 +1669,7 @@ tutorial_popup3	Tocca l'icona Blocca a destra per<br>fissare l'oggetto in modo d
 tutorial_popup4	Non hai XP sufficienti...
 unlock_popup_message_158	<flash>È apparso un nuovo eroe!</flash><br>Attivalo nel menu Potenzia!
 unlock_popup_message_159	
-item_pack_name_92	
+item_pack_name_92	Acquista: PAC-MAN
 SpecialRuleName020	Spendi 1 milione
 Stage_battle00	Vuoi rinunciare?<br>Rinuncia subito per ottenere il rimborso dei tuoi oggetti! (Entro 10 secondi)
 Stage_lock00	Oggetti insufficienti.
@@ -1711,3 +1711,26 @@ PointRuletabletext001	Livello ${stageNo}<br>${stageName}
 PointRuletabletext002	${costNum1}¢ ~ ${costNum2}¢
 PointRuletabletext003	${costNum} ¢ ~
 PointRuletabletext004	Nessun punto ottenuto
+equipment_error3	<color=255,255,0>*Una volta sbloccati i talenti di %@, <br>gli effetti della sfera del talento %@ non saranno più attivi.</color>
+external_purchase_invalid_message	
+external_purchase_limit_message	
+external_purchase_no_purchase_message	
+external_purchase_received_message	
+external_purchase_version_message	
+potential_skill_MaxLevel	【Livello massimo %d】
+potential_skill_name70	Aumento attacco+
+potential_skill_name71	Aumento HP+
+potential_skill_name72	Tempo di ricarica ridotto
+treasure_effect_popup	<color=255,255,0>Effetto tesoro</color><br>${treasureEffectName}<br><flash>attivato!</flash>
+treasure_gauge_error1	Non è possibile accedere alla lista dei tesori<br>dai livelli leggendari.
+treasure_gauge_error2	Non è possibile accedere alla lista dei tesori<br>dal Dojo miciodiale.
+treasure_gauge_error3	Non è possibile accedere alla lista dei tesori<br>dai cancelli di Aku.
+treasure_gauge_error4	Non è possibile accedere alla lista dei tesori<br>dal Labirinto sotterraneo.
+treasure_gauge_error5	Non è possibile accedere alla lista dei tesori<br>dai livelli evento.
+treasure_gauge_tutorial1	L'indicatore del tesoro è pieno!<br>Completa un livello quando l'indicatore è pieno<br>per ottenere un tesoro superiore garantito!
+treasure_gauge_tutorial2	Tocca l'indicatore del tesoro<br>per passare alla lista dei tesori<br>e scoprire quali non hai ancora ottenuto!
+treasure_gauge_tutorial3	Usa l'indicatore del tesoro per<br>raccogliere gli ultimi tesori!<br><color=255,255,0>Tocca due volte</color>per passare a quel livello!
+treasure_tutorial1	<flash>Un regalo dal Gatto:</flash><br>tutti i tesori inferiori dai livelli<br>fino alle Filippine!
+treasure_tutorial2	Raccogliendo il tesoro del Giappone<br>si attiverà l'effetto della bevanda energetica,<br>aumentando la produzione di denaro!
+treasure_tutorial3	Cerca di ottenere il tesoro dal Giappone!
+unlock_popup_message_161	<flash>Indicatore del tesoro sbloccato!</flash><br>Garantisce un tesoro superiore<br>quando l'indicatore è pieno!

@@ -15,9 +15,9 @@ Schiva attacchi (tutti) %@	Ottiene l'abilità schiva attacchi (tutti).<br>Si att
 Resistente a rallentamento %@	Riduce il rallentamento<br>degli attacchi nemici.
 Resistente a maledizioni %@	Riduce le maledizioni degli attacchi nemici.
 Potenzia leggende misteriose %@	Più salute e potenza d'attacco<br>in leggende misteriose (non cumulabile)
-Contrattacco a valanga singolo %@	Risponde con valanga dopo essere stato<br>colpito da un attacco a valanga nemico.<br>Si attiva ogni 2 schieramenti (non cumulab.)
+Contrattacco a valanga singolo %@	Risponde con valanga dopo essere stato<br>colpito da un attacco a valanga nemico.<br>Si attiva ogni 2 schieramenti (non cumulab.)	Contrattacco a valanga singolo
 Berserker %@	Aumenta la potenza d'attacco dopo<br>aver sconfitto un<br>certo numero di nemici (non cumulabile)
-Tempo di ricarica ridotto %@	Riduce il tempo di ricarica. Si attiva<br>ogni 2 schieramenti (non cumulabile)
+Tempo di ricarica ridotto %@	Riduce il tempo di ricarica di schieramento<br>delle unità.Si attiva ogni 2 schieramenti.<br>(Non si accumula)	Tempo di ricarica ridotto
 Resistente a immobilità %@	Riduce gli attacchi di immobilità nemici.
 Resistente a indebolimento %@	Riduce gli effetti dell'indebolimento<br>dovuti ad attacchi nemici.
 Costo ridotto %@	Riduce il costo dello schieramento<br>delle unità. Si attiva<br>ogni 2 schieramenti (non cumulabile)

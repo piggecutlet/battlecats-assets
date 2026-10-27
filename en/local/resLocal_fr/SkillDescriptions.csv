@@ -25,7 +25,7 @@ textID|テキスト内容
 24|Obtiens la capacité Résist. Téléportation.<br>Gagne des niveaux pour augmenter ta résistance !
 25|Obtiens la capacité : Immun. Malédictions.
 26|Obtiens la capacité : Résist. Malédictions.<br>Gagne des niveaux pour augmenter ta résistance !
-27|La puissance défensive de l’unité est accrue.<br>Gagne des niveaux pour augmenter ta défense !
+27|Les PVs de l'unité augmenteront.<br>Monter de niveau pour encore plus de PV !
 28|La puissance d’attaque de l’unité est accrue.<br>Gagne des niveaux pour augmenter ton attaque !
 29|La vitesse de déplacement de l’unité est accrue.<br>Gagne des niveaux pour augmenter ta vitesse !
 30|Le taux de recul de l’unité est accru.<br>Gagne des niveaux pour augmenter la chance de recul !
@@ -101,3 +101,6 @@ textID|テキスト内容
 100|Obtiens la capacité Ralentissement contre tous.<br>Gagne des niveaux pour ralentir tes ennemis plus longtemps !
 101|Obtiens la capacité Recul contre tous.<br>Gagne des niveaux pour repousser tes ennemis plus souvent !
 102|Obtiens la capacité Malédiction contre tous.<br>Gagne des niveaux pour maudire tes ennemis plus longtemps !
+103|Les PV de l’unité sont grandement accrus.<br>Gagne des niveaux pour les augmenter encore plus !
+104|La puissance d’attaque de l’unité est grandement accrue.<br>Gagne des niveaux pour l'augmenter encore plus !
+105|Améliore la capacité : Rechargement raccourci.<br>Gagne des niveaux pour accélérer le rechargement !

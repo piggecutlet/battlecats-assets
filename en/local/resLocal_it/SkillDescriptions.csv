@@ -25,7 +25,7 @@ textID|テキスト内容
 24|Ottieni l'abilità "Resistente al teletrasporto".<br>Sali di livello e aumenta la resistenza!
 25|Ottieni l'abilità "Immunità da maledizioni".
 26|Ottieni l'abilità "Resistente a maledizioni".<br>Sali di livello e aumenta la resistenza!
-27|Aumenterà il potenziale di difesa dell'unità.<br>Sali di livello e aumenta le difese!
+27|La salute dell'unità aumenterà.<br>Sali di livello per aumentare la salute!
 28|Aumenterà la potenza d'attacco dell'unità.<br>Sali di livello e aumenta l'attacco!
 29|Aumenterà la velocità di movimento dell'unità.<br>Sali di livello e aumenta la velocità!
 30|Migliorerà il ritmo di respinta dell'unità.<br>Sali di livello e aumenta la probabilità di respinta!
@@ -101,3 +101,6 @@ textID|テキスト内容
 100|Ottieni l'abilità "Rallentamento vs tutti".<br>Sali di livello e rallenta i nemici più a lungo!
 101|Ottieni l'abilità "Respinta vs tutti".<br>Sali di livello e aumenta la probabilità di respingere!
 102|Ottieni l'abilità "Maledizione vs tutti".<br>Sali di livello e maledici i nemici più a lungo!
+103|La salute dell'unità aumenterà notevolmente.<br>Sali di livello per aumentarla ancora di più!
+104|La potenza d'attacco dell'unità aumenterà notevolmente.<br>Sali di livello per aumentarla ancora di più!
+105|Potenzia l'abilità "Tempo di ricarica ridotto".<br>Sali di livello per ridurlo ulteriormente!
