@@ -1758,7 +1758,7 @@ tutorial_popup3	오른쪽의 「락해제」를 탭하면<br>아이템의 선택
 tutorial_popup4	경험치가 부족합니다
 unlock_popup_message_158	<flash>새로운 캐릭터가 출현했습니다!</flash><br>파워 업 화면에서 획득할 수 있습니다
 unlock_popup_message_159	
-item_pack_name_92	
+item_pack_name_92	한정 캐릭터 'PAC-MAN' 구입
 SpecialRuleName020	백만 원의 행복
 Stage_battle00	전투를 중지할까요?<br>지금 중지하면 아이템을 소비하지 않습니다(10초 이내)
 Stage_lock00	아이템이 부족합니다
@@ -1800,3 +1800,26 @@ PointRuletabletext001	스테이지${stageNo}<br>${stageName}
 PointRuletabletext002	${costNum1}원 ~ ${costNum2}원
 PointRuletabletext003	${costNum}원~
 PointRuletabletext004	포인트 획득 없음
+equipment_error3	<color=255,255,0>※「%@」 능력을 해방하면<br>본능 구슬 「%@」 효과는 발동하지 않게 됩니다</color>
+external_purchase_invalid_message	
+external_purchase_limit_message	
+external_purchase_no_purchase_message	
+external_purchase_received_message	
+external_purchase_version_message	
+potential_skill_MaxLevel	【최대 레벨 %d】
+potential_skill_name70	기본 공격력 업+
+potential_skill_name71	기본 체력 업+
+potential_skill_name72	생산 시간 단축
+treasure_effect_popup	<color=255,255,0>보물 효과</color><br>${treasureEffectName}<br><flash>발동!!</flash>
+treasure_gauge_error1	레전드 스토리에서는<br>보물 리스트로 이동할 수 없습니다
+treasure_gauge_error2	냥코 도장에서는<br>보물 리스트로 이동할 수 없습니다
+treasure_gauge_error3	마계의 문에서는<br>보물 리스트로 이동할 수 없습니다
+treasure_gauge_error4	지하 미궁에서는<br>보물 리스트로 이동할 수 없습니다
+treasure_gauge_error5	이벤트 스테이지에서는<br>보물 리스트로 이동할 수 없습니다
+treasure_gauge_tutorial1	보물 게이지 MAX!<br>MAX 상태로 스테이지를 클리어하면<br>반드시 최고급 보물 GET!
+treasure_gauge_tutorial2	보물 게이지를 탭하면<br>보물 리스트로 이동할 수 있다냥<br>획득하지 않은 보물을 확인하자냥!
+treasure_gauge_tutorial3	보물 게이지를 사용해서<br>획득하지 않은 보물을 모으는 거다냥!<br><color=255,255,0>두 번 탭</color>하면 스테이지로 이동!
+treasure_tutorial1	<flash>고양이의 선물</flash><br>필리핀까지의 조잡한 보물을<br>특별히 선물해 주겠다냥!
+treasure_tutorial2	일본의 보물을 획득하면<br>보물 효과 「강력 영양드링크」 발동!<br>일 고양이의 머니 생산량이 대폭 증가!
+treasure_tutorial3	일본에 도전해서 보물을 획득하자냥!
+unlock_popup_message_161	<flash>보물 게이지 해방!!</flash><br>게이지가 가득 차면<br>최고급 보물을 반드시 획득할 수 있습니다
