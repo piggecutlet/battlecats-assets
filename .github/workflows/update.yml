@@ -114,11 +114,9 @@ jobs:
 
             git reset -- "*.ogg" "*.caf"
 
-            if ! git diff --cached --quiet; then
-              git commit -S -m "$LOCALE $VERSION_NAME"
-              git pull --rebase origin main
-              git push
-            fi
+            git commit -S --allow-empty -m "$LOCALE $VERSION_NAME"
+            git pull --rebase origin main
+            git push
             } || { echo "Error: Failed to process $LOCALE. Skipping to next locale."; continue; }
           done
 
